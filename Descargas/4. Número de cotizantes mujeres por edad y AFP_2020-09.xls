@@ -1,0 +1,187 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES MUJERES POR EDAD Y A.F.P. (1) (Al 30 de Septiembre de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >A.F.P.</th>
+<th  colspan="13" class="TITUuno" >EDAD (a&ntilde;os)</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >Hasta 20</th>
+<th  class="SUBTITUdos" >+20&nbsp;-25</th>
+<th  class="SUBTITUdos" >+25&nbsp;-30</th>
+<th  class="SUBTITUdos" >+30&nbsp;-35</th>
+<th  class="SUBTITUdos" >+35&nbsp;-40</th>
+<th  class="SUBTITUdos" >+40&nbsp;-45</th>
+<th  class="SUBTITUdos" >+45&nbsp;-50</th>
+<th  class="SUBTITUdos" >+50&nbsp;-55</th>
+<th  class="SUBTITUdos" >+55&nbsp;-60</th>
+<th  class="SUBTITUdos" >+60&nbsp;-65</th>
+<th  class="SUBTITUdos" >+65&nbsp;-70</th>
+<th  class="SUBTITUdos" >+de 70</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   
+   <td>660</td>
+   <td>7.350</td>
+   <td>39.121</td>
+   <td>61.946</td>
+   <td>52.226</td>
+   <td>46.491</td>
+   <td>48.682</td>
+   <td>45.998</td>
+   <td>34.945</td>
+   <td>5.302</td>
+   <td>650</td>
+   <td>161</td>
+   <td>0</td>
+   <td class='F1RESUL'>343.532</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   
+   <td>13</td>
+   <td>629</td>
+   <td>7.469</td>
+   <td>17.738</td>
+   <td>27.464</td>
+   <td>26.552</td>
+   <td>25.134</td>
+   <td>20.011</td>
+   <td>15.991</td>
+   <td>5.565</td>
+   <td>737</td>
+   <td>166</td>
+   <td>0</td>
+   <td class='F1RESUL'>147.469</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   
+   <td>112</td>
+   <td>2.523</td>
+   <td>32.693</td>
+   <td>75.040</td>
+   <td>85.637</td>
+   <td>76.832</td>
+   <td>69.740</td>
+   <td>58.371</td>
+   <td>45.420</td>
+   <td>8.126</td>
+   <td>981</td>
+   <td>243</td>
+   <td>0</td>
+   <td class='F1RESUL'>455.718</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   
+   <td>10.002</td>
+   <td>65.509</td>
+   <td>157.762</td>
+   <td>93.018</td>
+   <td>49.866</td>
+   <td>32.051</td>
+   <td>25.710</td>
+   <td>19.832</td>
+   <td>12.504</td>
+   <td>2.122</td>
+   <td>334</td>
+   <td>128</td>
+   <td>0</td>
+   <td class='F1RESUL'>468.838</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   
+   <td>3.433</td>
+   <td>68.341</td>
+   <td>66.611</td>
+   <td>42.306</td>
+   <td>27.677</td>
+   <td>20.909</td>
+   <td>18.178</td>
+   <td>15.203</td>
+   <td>10.154</td>
+   <td>1.831</td>
+   <td>268</td>
+   <td>102</td>
+   <td>0</td>
+   <td class='F1RESUL'>275.013</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   
+   <td>505</td>
+   <td>9.602</td>
+   <td>41.437</td>
+   <td>71.550</td>
+   <td>74.733</td>
+   <td>69.071</td>
+   <td>71.221</td>
+   <td>64.833</td>
+   <td>49.674</td>
+   <td>6.540</td>
+   <td>780</td>
+   <td>216</td>
+   <td>0</td>
+   <td class='F1RESUL'>460.162</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   
+   <td>6.816</td>
+   <td>10.532</td>
+   <td>8.301</td>
+   <td>4.937</td>
+   <td>3.346</td>
+   <td>2.396</td>
+   <td>1.724</td>
+   <td>1.288</td>
+   <td>803</td>
+   <td>298</td>
+   <td>73</td>
+   <td>31</td>
+   <td>0</td>
+   <td class='F1RESUL'>40.545</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft' nowrap>Total</td>
+   
+   <td>21.541</td>
+   <td>164.486</td>
+   <td>353.394</td>
+   <td>366.535</td>
+   <td>320.949</td>
+   <td>274.302</td>
+   <td>260.389</td>
+   <td>225.536</td>
+   <td>169.491</td>
+   <td>29.784</td>
+   <td>3.823</td>
+   <td>1.047</td>
+   <td>0</td>
+   <td class='F1RESUL'>2.191.277</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados que cotizaron en 202009, por remuneraciones devengadas en Agosto de 2020.</li>
+<li>S/I Sin informaci&oacute;n</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 10 de Noviembre de 2020
+<br>
+
+

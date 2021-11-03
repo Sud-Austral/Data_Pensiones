@@ -1,0 +1,571 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES MUJERES POR ACTIVIDAD ECON&Oacute;MICA Y REGI&Oacute;N (1) (Al 30 de Septiembre de 2018)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >ACTIVIDAD ECON&Oacute;MICA</th>
+<th  colspan="17" class="TITUuno" >REGION</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+<th  rowspan="2" class="TITUuno" >INGRESO<BR  >M&Iacute;NIMO<BR  >(&gt;=18 Y &lt;=65 a&ntilde;os)</th>
+<th  rowspan="2" class="TITUuno" >INGRESO<BR  >M&Iacute;NIMO<BR  >(&lt; 18 Y &gt; 65 a&ntilde;os)</th>
+<th  rowspan="2" class="TITUuno" >INGRESO<BR  >M&Iacute;NIMO<BR  >(trab.casa part.)</th>
+<th  rowspan="2" class="TITUuno" >TOPE<BR  >IMPONIBLE<BR  ></th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >I</th>
+<th  class="SUBTITUdos" >II</th>
+<th  class="SUBTITUdos" >III</th>
+<th  class="SUBTITUdos" >IV</th>
+<th  class="SUBTITUdos" >V</th>
+<th  class="SUBTITUdos" >VI</th>
+<th  class="SUBTITUdos" >VII</th>
+<th  class="SUBTITUdos" >VIII</th>
+<th  class="SUBTITUdos" >IX</th>
+<th  class="SUBTITUdos" >X</th>
+<th  class="SUBTITUdos" >XI</th>
+<th  class="SUBTITUdos" >XII</th>
+<th  class="SUBTITUdos" >R. Metrop.</th>
+<th  class="SUBTITUdos" >XIV</th>
+<th  class="SUBTITUdos" >XV</th>
+<th  class="SUBTITUdos" >XVI</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft' class=ITEM>AGRICULTURA, GANADERIA, CAZA Y SILVICULTURA</td>
+   
+   <td>747</td>
+   <td>1.805</td>
+   <td>1.206</td>
+   <td>3.950</td>
+   <td>9.541</td>
+   <td>10.002</td>
+   <td>8.747</td>
+   <td>5.374</td>
+   <td>4.878</td>
+   <td>3.595</td>
+   <td>537</td>
+   <td>704</td>
+   <td>34.771</td>
+   <td>2.196</td>
+   <td>769</td>
+   <td>2.094</td>
+   <td>1.778</td>
+   <td>92.694</td>
+   <td>10.086</td>
+   <td>23</td>
+   <td>1.427</td>
+   <td class='F1RESUL'>2.555</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>PESCA</td>
+   
+   <td>30</td>
+   <td>27</td>
+   <td>41</td>
+   <td>165</td>
+   <td>109</td>
+   <td>37</td>
+   <td>35</td>
+   <td>1.067</td>
+   <td>180</td>
+   <td>2.929</td>
+   <td>342</td>
+   <td>213</td>
+   <td>672</td>
+   <td>151</td>
+   <td>18</td>
+   <td>12</td>
+   <td>138</td>
+   <td>6.166</td>
+   <td>321</td>
+   <td>0</td>
+   <td>26</td>
+   <td class='F1RESUL'>160</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>EXPLOTACIÓN DE MINAS Y CANTERAS</td>
+   
+   <td>283</td>
+   <td>1.618</td>
+   <td>587</td>
+   <td>617</td>
+   <td>1.311</td>
+   <td>830</td>
+   <td>1.119</td>
+   <td>352</td>
+   <td>173</td>
+   <td>273</td>
+   <td>32</td>
+   <td>187</td>
+   <td>3.350</td>
+   <td>205</td>
+   <td>82</td>
+   <td>151</td>
+   <td>68</td>
+   <td>11.238</td>
+   <td>871</td>
+   <td>2</td>
+   <td>113</td>
+   <td class='F1RESUL'>2.767</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>INDUSTRIAS MANUFACTURERAS NO METÁLICAS</td>
+   
+   <td>1.292</td>
+   <td>3.650</td>
+   <td>2.087</td>
+   <td>5.303</td>
+   <td>12.766</td>
+   <td>7.105</td>
+   <td>8.385</td>
+   <td>12.612</td>
+   <td>5.451</td>
+   <td>6.947</td>
+   <td>777</td>
+   <td>1.630</td>
+   <td>71.026</td>
+   <td>3.035</td>
+   <td>1.027</td>
+   <td>2.712</td>
+   <td>2.439</td>
+   <td>148.244</td>
+   <td>5.995</td>
+   <td>17</td>
+   <td>463</td>
+   <td class='F1RESUL'>6.599</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>INDUSTRIAS MANUFACTURERAS METÁLICAS</td>
+   
+   <td>323</td>
+   <td>1.095</td>
+   <td>321</td>
+   <td>653</td>
+   <td>1.749</td>
+   <td>995</td>
+   <td>887</td>
+   <td>1.995</td>
+   <td>808</td>
+   <td>589</td>
+   <td>72</td>
+   <td>149</td>
+   <td>13.024</td>
+   <td>468</td>
+   <td>194</td>
+   <td>394</td>
+   <td>348</td>
+   <td>24.064</td>
+   <td>1.341</td>
+   <td>5</td>
+   <td>67</td>
+   <td class='F1RESUL'>1.611</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>SUMINISTRO DE ELECTRICIDAD, GAS Y AGUA</td>
+   
+   <td>90</td>
+   <td>194</td>
+   <td>114</td>
+   <td>277</td>
+   <td>644</td>
+   <td>334</td>
+   <td>346</td>
+   <td>416</td>
+   <td>207</td>
+   <td>297</td>
+   <td>57</td>
+   <td>65</td>
+   <td>2.101</td>
+   <td>95</td>
+   <td>68</td>
+   <td>173</td>
+   <td>80</td>
+   <td>5.558</td>
+   <td>212</td>
+   <td>0</td>
+   <td>14</td>
+   <td class='F1RESUL'>867</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>CONSTRUCCIÓN</td>
+   
+   <td>1.140</td>
+   <td>3.100</td>
+   <td>1.077</td>
+   <td>2.237</td>
+   <td>5.284</td>
+   <td>2.669</td>
+   <td>1.960</td>
+   <td>4.136</td>
+   <td>2.279</td>
+   <td>2.071</td>
+   <td>335</td>
+   <td>636</td>
+   <td>29.038</td>
+   <td>948</td>
+   <td>619</td>
+   <td>836</td>
+   <td>654</td>
+   <td>59.019</td>
+   <td>4.936</td>
+   <td>10</td>
+   <td>590</td>
+   <td class='F1RESUL'>2.913</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>COMERCIO AL POR MAYOR Y MENOR, REP. VEHÍCULOS AUTOMOTORES/ENSERES DOMÉSTICOS</td>
+   
+   <td>5.282</td>
+   <td>7.999</td>
+   <td>3.383</td>
+   <td>8.644</td>
+   <td>23.643</td>
+   <td>12.052</td>
+   <td>12.619</td>
+   <td>17.510</td>
+   <td>10.406</td>
+   <td>11.258</td>
+   <td>1.440</td>
+   <td>3.395</td>
+   <td>128.093</td>
+   <td>3.604</td>
+   <td>2.581</td>
+   <td>4.641</td>
+   <td>3.086</td>
+   <td>259.636</td>
+   <td>20.141</td>
+   <td>50</td>
+   <td>1.496</td>
+   <td class='F1RESUL'>10.629</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>HOTELES Y RESTAURANTES</td>
+   
+   <td>2.305</td>
+   <td>4.933</td>
+   <td>1.672</td>
+   <td>3.759</td>
+   <td>7.877</td>
+   <td>2.638</td>
+   <td>3.487</td>
+   <td>6.046</td>
+   <td>3.270</td>
+   <td>4.580</td>
+   <td>333</td>
+   <td>1.427</td>
+   <td>36.436</td>
+   <td>1.817</td>
+   <td>2.032</td>
+   <td>2.171</td>
+   <td>1.239</td>
+   <td>86.022</td>
+   <td>7.844</td>
+   <td>19</td>
+   <td>529</td>
+   <td class='F1RESUL'>798</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>TRANSPORTE, ALMACENAMIENTO Y COMUNICACIONES</td>
+   
+   <td>821</td>
+   <td>2.053</td>
+   <td>622</td>
+   <td>1.167</td>
+   <td>6.305</td>
+   <td>1.603</td>
+   <td>1.613</td>
+   <td>2.804</td>
+   <td>1.470</td>
+   <td>1.588</td>
+   <td>235</td>
+   <td>711</td>
+   <td>35.566</td>
+   <td>692</td>
+   <td>598</td>
+   <td>656</td>
+   <td>720</td>
+   <td>59.224</td>
+   <td>3.578</td>
+   <td>5</td>
+   <td>325</td>
+   <td class='F1RESUL'>4.507</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>INTERMEDIACIÓN FINANCIERA</td>
+   
+   <td>1.363</td>
+   <td>2.945</td>
+   <td>1.024</td>
+   <td>2.092</td>
+   <td>6.967</td>
+   <td>2.636</td>
+   <td>2.829</td>
+   <td>5.750</td>
+   <td>2.361</td>
+   <td>2.628</td>
+   <td>269</td>
+   <td>757</td>
+   <td>69.619</td>
+   <td>1.053</td>
+   <td>609</td>
+   <td>1.066</td>
+   <td>1.066</td>
+   <td>105.034</td>
+   <td>2.249</td>
+   <td>3</td>
+   <td>335</td>
+   <td class='F1RESUL'>19.755</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES INMOBILIARIAS, EMPRESARIALES Y DE ALQUILER</td>
+   
+   <td>2.962</td>
+   <td>7.993</td>
+   <td>2.786</td>
+   <td>5.405</td>
+   <td>17.293</td>
+   <td>6.403</td>
+   <td>6.705</td>
+   <td>14.333</td>
+   <td>6.398</td>
+   <td>6.637</td>
+   <td>591</td>
+   <td>2.646</td>
+   <td>132.557</td>
+   <td>2.633</td>
+   <td>1.751</td>
+   <td>3.078</td>
+   <td>2.816</td>
+   <td>222.987</td>
+   <td>16.332</td>
+   <td>38</td>
+   <td>3.076</td>
+   <td class='F1RESUL'>14.145</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ADM. PÚBLICA Y DEFENSA, PLANES DE SEG. SOCIAL, AFILIACIÓN OBLIGATORIA</td>
+   
+   <td>2.953</td>
+   <td>5.078</td>
+   <td>6.198</td>
+   <td>10.753</td>
+   <td>21.169</td>
+   <td>14.514</td>
+   <td>17.665</td>
+   <td>29.618</td>
+   <td>13.583</td>
+   <td>11.934</td>
+   <td>2.998</td>
+   <td>2.015</td>
+   <td>83.352</td>
+   <td>6.847</td>
+   <td>5.200</td>
+   <td>7.636</td>
+   <td>2.515</td>
+   <td>244.028</td>
+   <td>8.366</td>
+   <td>15</td>
+   <td>1.587</td>
+   <td class='F1RESUL'>12.468</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ENSEÑANZA</td>
+   
+   <td>4.167</td>
+   <td>7.137</td>
+   <td>2.295</td>
+   <td>6.336</td>
+   <td>18.291</td>
+   <td>8.406</td>
+   <td>9.485</td>
+   <td>19.255</td>
+   <td>9.756</td>
+   <td>10.650</td>
+   <td>924</td>
+   <td>1.735</td>
+   <td>82.373</td>
+   <td>3.420</td>
+   <td>2.133</td>
+   <td>6.365</td>
+   <td>2.334</td>
+   <td>195.062</td>
+   <td>3.515</td>
+   <td>7</td>
+   <td>368</td>
+   <td class='F1RESUL'>10.902</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>SERVICIOS SOCIALES Y DE SALUD</td>
+   
+   <td>2.431</td>
+   <td>3.419</td>
+   <td>1.343</td>
+   <td>4.537</td>
+   <td>17.212</td>
+   <td>6.623</td>
+   <td>8.465</td>
+   <td>10.761</td>
+   <td>8.933</td>
+   <td>8.997</td>
+   <td>627</td>
+   <td>2.365</td>
+   <td>71.510</td>
+   <td>3.526</td>
+   <td>1.047</td>
+   <td>2.451</td>
+   <td>1.904</td>
+   <td>156.151</td>
+   <td>4.353</td>
+   <td>14</td>
+   <td>1.593</td>
+   <td class='F1RESUL'>11.800</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>OTRAS ACTIVIDADES DE SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES</td>
+   
+   <td>5.611</td>
+   <td>9.309</td>
+   <td>4.714</td>
+   <td>12.671</td>
+   <td>31.458</td>
+   <td>15.073</td>
+   <td>17.107</td>
+   <td>22.381</td>
+   <td>13.680</td>
+   <td>12.770</td>
+   <td>1.911</td>
+   <td>2.745</td>
+   <td>138.412</td>
+   <td>4.558</td>
+   <td>3.468</td>
+   <td>6.120</td>
+   <td>5.143</td>
+   <td>307.131</td>
+   <td>33.077</td>
+   <td>95</td>
+   <td>3.276</td>
+   <td class='F1RESUL'>10.247</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>CONSEJO DE ADMINISTRACIÓN DE EDIFICIOS Y CONDOMINIOS</td>
+   
+   <td>388</td>
+   <td>643</td>
+   <td>154</td>
+   <td>408</td>
+   <td>1.979</td>
+   <td>606</td>
+   <td>948</td>
+   <td>1.175</td>
+   <td>810</td>
+   <td>585</td>
+   <td>83</td>
+   <td>127</td>
+   <td>13.578</td>
+   <td>333</td>
+   <td>166</td>
+   <td>432</td>
+   <td>94</td>
+   <td>22.509</td>
+   <td>4.079</td>
+   <td>19</td>
+   <td>4.347</td>
+   <td class='F1RESUL'>80</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ORGANIZACIONES Y ÓRGANOS EXTRATERRITORIALES</td>
+   
+   <td>2</td>
+   <td>5</td>
+   <td>0</td>
+   <td>18</td>
+   <td>93</td>
+   <td>3</td>
+   <td>5</td>
+   <td>6</td>
+   <td>6</td>
+   <td>4</td>
+   <td>1</td>
+   <td>1</td>
+   <td>244</td>
+   <td>7</td>
+   <td>0</td>
+   <td>2</td>
+   <td>1</td>
+   <td>398</td>
+   <td>11</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>82</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>SIN INFORMACIÓN</td>
+   
+   <td>5.825</td>
+   <td>10.183</td>
+   <td>3.543</td>
+   <td>9.634</td>
+   <td>23.704</td>
+   <td>11.165</td>
+   <td>12.665</td>
+   <td>17.382</td>
+   <td>10.649</td>
+   <td>10.177</td>
+   <td>1.400</td>
+   <td>2.941</td>
+   <td>130.643</td>
+   <td>3.854</td>
+   <td>3.372</td>
+   <td>5.038</td>
+   <td>1.155</td>
+   <td>263.330</td>
+   <td>33.935</td>
+   <td>231</td>
+   <td>12.044</td>
+   <td class='F1RESUL'>11.396</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft' class='F1TOTAL'>TOTAL</td>
+   
+   <td>38.015</td>
+   <td>73.186</td>
+   <td>33.167</td>
+   <td>78.626</td>
+   <td>207.395</td>
+   <td>103.694</td>
+   <td>115.072</td>
+   <td>172.973</td>
+   <td>95.298</td>
+   <td>98.509</td>
+   <td>12.964</td>
+   <td>24.449</td>
+   <td>1.076.365</td>
+   <td>39.442</td>
+   <td>25.734</td>
+   <td>46.028</td>
+   <td>27.578</td>
+   <td>2.268.495</td>
+   <td>161.242</td>
+   <td>553</td>
+   <td>31.676</td>
+   <td class='F1RESUL'>124.281</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados mujeres que cotizaron en 201809, por remuneraciones devengadas en Agosto de 2018.</li>
+<li>S/I Sin informaci&oacute;n</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 22 de Octubre de 2019
+<br>
+
+

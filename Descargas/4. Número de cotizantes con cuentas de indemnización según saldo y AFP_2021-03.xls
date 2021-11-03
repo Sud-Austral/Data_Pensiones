@@ -1,0 +1,195 @@
+
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES CON CUENTAS DE INDEMNIZACI&Oacute;N SEG&Uacute;N SALDO Y A.F.P. (Al 31 de Marzo de 2021)</h4>
+      <table border='1'>
+   
+<thead>
+<tr>
+<th rowspan="2" class="NOMBRE" nowrap="" >A.F.P.</th>
+<th colspan="14" class="TITUuno" >SALDO DE LA CUENTA DE INDEMNIZACI&Oacute;N (miles de pesos)</th>
+<th rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr>
+<th class="SUBTITUdos" nowrap="" >CERO</th>
+<th class="SUBTITUdos" nowrap="" >+ 0  >- 5</th>
+<th class="SUBTITUdos" nowrap="" >+ 5<BR  >- 10</th>
+<th class="SUBTITUdos" nowrap="" >+ 10<BR  >- 20</th>
+<th class="SUBTITUdos" nowrap="" >+ 20<BR  >- 50</th>
+<th class="SUBTITUdos" nowrap="" >+ 50<BR  >- 100</th>
+<th class="SUBTITUdos" nowrap="" >+ 100<BR  >- 200</th>
+<th class="SUBTITUdos" nowrap="" >+ 200<BR  >- 500</th>
+<th class="SUBTITUdos" nowrap="" >+ 500<BR  >- 1000</th>
+<th class="SUBTITUdos" nowrap="" >+ 1000<BR  >- 2000</th>
+<th class="SUBTITUdos" nowrap="" >+ 2000<BR  >- 3000</th>
+<th class="SUBTITUdos" nowrap="" >+ 3000<BR  >- 4000</th>
+<th class="SUBTITUdos" nowrap="" >+ 4000<BR  >- 5000</th>
+<th class="SUBTITUdos" nowrap="" >+ 5000</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   
+   <td>12.481</td>
+   <td>1.878</td>
+   <td>2.261</td>
+   <td>7.363</td>
+   <td>8.211</td>
+   <td>5.329</td>
+   <td>4.654</td>
+   <td>5.628</td>
+   <td>4.168</td>
+   <td>3.697</td>
+   <td>1.492</td>
+   <td>558</td>
+   <td>248</td>
+   <td>332</td>
+   <td class='F1RESUL'>58.300</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   
+   <td>5</td>
+   <td>51</td>
+   <td>28</td>
+   <td>43</td>
+   <td>109</td>
+   <td>128</td>
+   <td>191</td>
+   <td>362</td>
+   <td>359</td>
+   <td>345</td>
+   <td>140</td>
+   <td>50</td>
+   <td>14</td>
+   <td>34</td>
+   <td class='F1RESUL'>1.859</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   
+   <td>95</td>
+   <td>313</td>
+   <td>311</td>
+   <td>557</td>
+   <td>1.145</td>
+   <td>1.189</td>
+   <td>1.775</td>
+   <td>4.104</td>
+   <td>3.892</td>
+   <td>3.755</td>
+   <td>1.402</td>
+   <td>548</td>
+   <td>176</td>
+   <td>253</td>
+   <td class='F1RESUL'>19.515</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   
+   <td>8.663</td>
+   <td>1.954</td>
+   <td>2.020</td>
+   <td>4.976</td>
+   <td>6.943</td>
+   <td>5.369</td>
+   <td>5.510</td>
+   <td>8.291</td>
+   <td>3.038</td>
+   <td>2.168</td>
+   <td>349</td>
+   <td>49</td>
+   <td>15</td>
+   <td>6</td>
+   <td class='F1RESUL'>49.351</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   
+   <td>7.518</td>
+   <td>1.524</td>
+   <td>1.678</td>
+   <td>3.876</td>
+   <td>5.405</td>
+   <td>4.312</td>
+   <td>4.188</td>
+   <td>6.215</td>
+   <td>4.649</td>
+   <td>1.644</td>
+   <td>278</td>
+   <td>86</td>
+   <td>45</td>
+   <td>38</td>
+   <td class='F1RESUL'>41.456</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   
+   <td>169</td>
+   <td>181</td>
+   <td>227</td>
+   <td>613</td>
+   <td>2.158</td>
+   <td>3.387</td>
+   <td>5.863</td>
+   <td>12.257</td>
+   <td>11.273</td>
+   <td>9.069</td>
+   <td>2.532</td>
+   <td>788</td>
+   <td>376</td>
+   <td>244</td>
+   <td class='F1RESUL'>49.137</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   
+   <td>202</td>
+   <td>637</td>
+   <td>754</td>
+   <td>1.416</td>
+   <td>1.307</td>
+   <td>1.246</td>
+   <td>2.252</td>
+   <td>527</td>
+   <td>11</td>
+   <td>7</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>8.359</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft' nowrap>Total</td>
+   
+   <td>29.133</td>
+   <td>6.538</td>
+   <td>7.279</td>
+   <td>18.844</td>
+   <td>25.278</td>
+   <td>20.960</td>
+   <td>24.433</td>
+   <td>37.384</td>
+   <td>27.390</td>
+   <td>20.685</td>
+   <td>6.193</td>
+   <td>2.079</td>
+   <td>874</td>
+   <td>907</td>
+   <td class='F1RESUL'>227.977</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 10 de Mayo de 2021
+<br>
+
+

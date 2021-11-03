@@ -1,0 +1,224 @@
+<div class="table-responsive">
+<h4>INGRESO IMPONIBLE PROMEDIO MUJERES POR REGI&Oacute;N Y A.F.P. (1) (Al 30 de Junio de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >A.F.P.</th>
+<th  colspan="17" class="TITUuno" >REGI&Oacute;N</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+
+<tr  >
+<th  class="SUBTITUdos" >I</th>
+<th  class="SUBTITUdos" >II</th>
+<th  class="SUBTITUdos" >III</th>
+<th  class="SUBTITUdos" >IV</th>
+<th  class="SUBTITUdos" >V</th>
+<th  class="SUBTITUdos" >VI</th>
+<th  class="SUBTITUdos" >VII</th>
+<th  class="SUBTITUdos" >VIII</th>
+<th  class="SUBTITUdos" >IX</th>
+<th  class="SUBTITUdos" >X</th>
+<th  class="SUBTITUdos" >XI</th>
+<th  class="SUBTITUdos" >XII</th>
+<th  class="SUBTITUdos" >R. Metrop.</th>
+<th  class="SUBTITUdos" >XIV</th>
+<th  class="SUBTITUdos" >XV</th>
+<th  class="SUBTITUdos" >XVI</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft'>CAPITAL</td>
+   
+   <td>854.241</td>
+   <td>948.596</td>
+   <td>885.218</td>
+   <td>827.158</td>
+   <td>728.207</td>
+   <td>761.056</td>
+   <td>776.945</td>
+   <td>774.635</td>
+   <td>785.673</td>
+   <td>797.479</td>
+   <td>893.244</td>
+   <td>866.474</td>
+   <td>885.521</td>
+   <td>789.466</td>
+   <td>871.274</td>
+   <td>779.920</td>
+   <td>669.973</td>
+   <td class='F1RESUL'>832.810</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>CUPRUM</td>
+   
+   <td>1.316.594</td>
+   <td>1.343.973</td>
+   <td>1.352.683</td>
+   <td>1.329.077</td>
+   <td>1.301.886</td>
+   <td>1.314.402</td>
+   <td>1.278.756</td>
+   <td>1.349.307</td>
+   <td>1.387.610</td>
+   <td>1.359.393</td>
+   <td>1.465.264</td>
+   <td>1.362.969</td>
+   <td>1.556.301</td>
+   <td>1.404.507</td>
+   <td>1.352.802</td>
+   <td>1.399.986</td>
+   <td>1.081.872</td>
+   <td class='F1RESUL'>1.438.053</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>HABITAT</td>
+   
+   <td>897.250</td>
+   <td>1.018.179</td>
+   <td>900.895</td>
+   <td>894.421</td>
+   <td>890.940</td>
+   <td>886.325</td>
+   <td>882.538</td>
+   <td>858.666</td>
+   <td>845.817</td>
+   <td>874.569</td>
+   <td>1.106.439</td>
+   <td>821.328</td>
+   <td>1.052.978</td>
+   <td>797.609</td>
+   <td>741.351</td>
+   <td>832.670</td>
+   <td>618.466</td>
+   <td class='F1RESUL'>963.291</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>MODELO</td>
+   
+   <td>596.219</td>
+   <td>685.821</td>
+   <td>645.344</td>
+   <td>622.951</td>
+   <td>642.638</td>
+   <td>595.216</td>
+   <td>578.923</td>
+   <td>627.008</td>
+   <td>622.039</td>
+   <td>644.945</td>
+   <td>727.192</td>
+   <td>620.767</td>
+   <td>741.873</td>
+   <td>634.826</td>
+   <td>572.050</td>
+   <td>592.324</td>
+   <td>535.628</td>
+   <td class='F1RESUL'>693.466</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>PLANVITAL</td>
+   
+   <td>541.533</td>
+   <td>598.626</td>
+   <td>588.074</td>
+   <td>567.613</td>
+   <td>570.960</td>
+   <td>506.608</td>
+   <td>497.168</td>
+   <td>579.063</td>
+   <td>577.500</td>
+   <td>592.779</td>
+   <td>625.555</td>
+   <td>579.708</td>
+   <td>667.583</td>
+   <td>643.905</td>
+   <td>528.017</td>
+   <td>509.121</td>
+   <td>0</td>
+   <td class='F1RESUL'>611.530</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>PROVIDA</td>
+   
+   <td>681.224</td>
+   <td>708.537</td>
+   <td>611.335</td>
+   <td>543.917</td>
+   <td>596.195</td>
+   <td>538.639</td>
+   <td>520.105</td>
+   <td>550.421</td>
+   <td>548.330</td>
+   <td>608.767</td>
+   <td>651.053</td>
+   <td>690.604</td>
+   <td>742.971</td>
+   <td>607.561</td>
+   <td>698.878</td>
+   <td>539.442</td>
+   <td>540.197</td>
+   <td class='F1RESUL'>637.985</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>UNO</td>
+   
+   <td>433.549</td>
+   <td>466.404</td>
+   <td>454.706</td>
+   <td>431.557</td>
+   <td>457.729</td>
+   <td>403.800</td>
+   <td>453.975</td>
+   <td>483.505</td>
+   <td>522.502</td>
+   <td>473.793</td>
+   <td>489.557</td>
+   <td>392.476</td>
+   <td>510.272</td>
+   <td>560.803</td>
+   <td>415.377</td>
+   <td>471.881</td>
+   <td>1.022.227</td>
+   <td class='F1RESUL'>488.347</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft'>Total</td>
+   
+   <td>756.399</td>
+   <td>848.093</td>
+   <td>798.545</td>
+   <td>718.032</td>
+   <td>724.447</td>
+   <td>685.715</td>
+   <td>674.166</td>
+   <td>739.607</td>
+   <td>725.969</td>
+   <td>750.995</td>
+   <td>804.850</td>
+   <td>767.960</td>
+   <td>870.856</td>
+   <td>742.992</td>
+   <td>732.107</td>
+   <td>708.706</td>
+   <td>565.853</td>
+   <td class='F1RESUL'>797.437</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al ingreso promedio de los afiliados mujeres que cotizaron en 202006, por remuneraciones devengadas en Mayo de 2020.</li>
+<li>S/I Sin informaci&oacute;n</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Octubre de 2020
+<br>
+
+

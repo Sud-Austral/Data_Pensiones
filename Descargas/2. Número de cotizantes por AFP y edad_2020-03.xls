@@ -1,0 +1,187 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES POR A.F.P. Y EDAD (1) (Al 31 de Marzo de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >A.F.P.</th>
+<th  colspan="13" class="TITUuno" >EDAD (a&ntilde;os)</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >Hasta 20</th>
+<th  class="SUBTITUdos" >+20&nbsp;-25</th>
+<th  class="SUBTITUdos" >+25&nbsp;-30</th>
+<th  class="SUBTITUdos" >+30&nbsp;-35</th>
+<th  class="SUBTITUdos" >+35&nbsp;-40</th>
+<th  class="SUBTITUdos" >+40&nbsp;-45</th>
+<th  class="SUBTITUdos" >+45&nbsp;-50</th>
+<th  class="SUBTITUdos" >+50&nbsp;-55</th>
+<th  class="SUBTITUdos" >+55&nbsp;-60</th>
+<th  class="SUBTITUdos" >+60&nbsp;-65</th>
+<th  class="SUBTITUdos" >+65&nbsp;-70</th>
+<th  class="SUBTITUdos" >+de 70</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   
+   <td>3.229</td>
+   <td>21.108</td>
+   <td>101.701</td>
+   <td>136.838</td>
+   <td>118.832</td>
+   <td>113.630</td>
+   <td>119.947</td>
+   <td>117.010</td>
+   <td>95.400</td>
+   <td>41.359</td>
+   <td>2.880</td>
+   <td>688</td>
+   <td>0</td>
+   <td class='F1RESUL'>872.622</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   
+   <td>47</td>
+   <td>1.984</td>
+   <td>19.593</td>
+   <td>45.361</td>
+   <td>67.342</td>
+   <td>68.551</td>
+   <td>65.790</td>
+   <td>57.124</td>
+   <td>47.086</td>
+   <td>24.802</td>
+   <td>3.143</td>
+   <td>590</td>
+   <td>0</td>
+   <td class='F1RESUL'>401.413</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   
+   <td>329</td>
+   <td>6.862</td>
+   <td>89.798</td>
+   <td>168.525</td>
+   <td>188.429</td>
+   <td>168.227</td>
+   <td>152.970</td>
+   <td>134.139</td>
+   <td>108.034</td>
+   <td>45.880</td>
+   <td>3.766</td>
+   <td>869</td>
+   <td>0</td>
+   <td class='F1RESUL'>1.067.828</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   
+   <td>47.996</td>
+   <td>214.408</td>
+   <td>354.895</td>
+   <td>181.784</td>
+   <td>102.159</td>
+   <td>64.756</td>
+   <td>49.450</td>
+   <td>36.804</td>
+   <td>23.097</td>
+   <td>6.836</td>
+   <td>858</td>
+   <td>337</td>
+   <td>0</td>
+   <td class='F1RESUL'>1.083.380</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   
+   <td>32.533</td>
+   <td>209.717</td>
+   <td>153.404</td>
+   <td>106.428</td>
+   <td>71.822</td>
+   <td>52.320</td>
+   <td>43.147</td>
+   <td>36.241</td>
+   <td>26.076</td>
+   <td>10.430</td>
+   <td>926</td>
+   <td>329</td>
+   <td>0</td>
+   <td class='F1RESUL'>743.373</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   
+   <td>4.082</td>
+   <td>41.929</td>
+   <td>146.001</td>
+   <td>209.098</td>
+   <td>202.404</td>
+   <td>189.427</td>
+   <td>194.557</td>
+   <td>189.172</td>
+   <td>155.437</td>
+   <td>68.619</td>
+   <td>3.932</td>
+   <td>862</td>
+   <td>0</td>
+   <td class='F1RESUL'>1.405.520</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   
+   <td>6.189</td>
+   <td>7.573</td>
+   <td>7.352</td>
+   <td>4.927</td>
+   <td>3.192</td>
+   <td>2.252</td>
+   <td>1.566</td>
+   <td>1.065</td>
+   <td>643</td>
+   <td>313</td>
+   <td>116</td>
+   <td>33</td>
+   <td>0</td>
+   <td class='F1RESUL'>35.221</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft' nowrap>Total</td>
+   
+   <td>94.405</td>
+   <td>503.581</td>
+   <td>872.744</td>
+   <td>852.961</td>
+   <td>754.180</td>
+   <td>659.163</td>
+   <td>627.427</td>
+   <td>571.555</td>
+   <td>455.773</td>
+   <td>198.239</td>
+   <td>15.621</td>
+   <td>3.708</td>
+   <td>0</td>
+   <td class='F1RESUL'>5.609.357</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados que cotizaron en 202003, por remuneraciones devengadas en Febrero de 2020.</li>
+<li>S/I: Sin informaci&oacute;n.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Octubre de 2020
+<br>
+
+

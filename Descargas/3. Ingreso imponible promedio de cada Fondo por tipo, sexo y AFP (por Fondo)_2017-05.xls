@@ -1,0 +1,900 @@
+
+<div class="tab-content">
+   <div role="tabpanel" class="tab-pane " id="fondoA">       
+   <div class="table-responsive">                                       
+   <h4>INGRESO IMPONIBLE PROMEDIO FONDO TIPO A POR TIPO, SEXO Y A.F.P. (1) (Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>936.863</td>
+   <td>993773</td>
+   <td>846321</td>
+   <td>0</td>
+   <td>619.668</td>
+   <td>641.862</td>
+   <td>586.421</td>
+   <td>0</td>
+   <td>1.081.420</td>
+   <td>2.922.768</td>
+   <td>746.630</td>
+   <td>0</td>
+   <td>929.724</td>
+   <td>986.092</td>
+   <td>840.197</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>1.525.652</td>
+   <td>1568043</td>
+   <td>1440102</td>
+   <td>0</td>
+   <td>961.436</td>
+   <td>963.333</td>
+   <td>959.040</td>
+   <td>0</td>
+   <td>826.312</td>
+   <td>1.565.234</td>
+   <td>727.789</td>
+   <td>0</td>
+   <td>1.514.875</td>
+   <td>1.558.603</td>
+   <td>1.427.523</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>1.042.514</td>
+   <td>1106577</td>
+   <td>958097</td>
+   <td>0</td>
+   <td>717.655</td>
+   <td>745.465</td>
+   <td>686.515</td>
+   <td>0</td>
+   <td>675.181</td>
+   <td>708.855</td>
+   <td>655.441</td>
+   <td>0</td>
+   <td>1.037.070</td>
+   <td>1.100.983</td>
+   <td>953.098</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>960.023</td>
+   <td>1039119</td>
+   <td>845940</td>
+   <td>0</td>
+   <td>1.019.919</td>
+   <td>1.088.686</td>
+   <td>952.071</td>
+   <td>0</td>
+   <td>795.392</td>
+   <td>851.874</td>
+   <td>748.877</td>
+   <td>0</td>
+   <td>963.052</td>
+   <td>1.041.225</td>
+   <td>852.613</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>724.276</td>
+   <td>768408</td>
+   <td>653944</td>
+   <td>0</td>
+   <td>686.279</td>
+   <td>715.805</td>
+   <td>650.753</td>
+   <td>0</td>
+   <td>632.377</td>
+   <td>611.372</td>
+   <td>653.708</td>
+   <td>0</td>
+   <td>722.388</td>
+   <td>765.957</td>
+   <td>653.824</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>722.994</td>
+   <td>775705</td>
+   <td>632942</td>
+   <td>0</td>
+   <td>440.245</td>
+   <td>449.335</td>
+   <td>425.394</td>
+   <td>0</td>
+   <td>2.010.699</td>
+   <td>0</td>
+   <td>2.010.699</td>
+   <td>0</td>
+   <td>718.460</td>
+   <td>770.549</td>
+   <td>629.536</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>970.877</td>
+   <td>1030222</td>
+   <td>876507</td>
+   <td>0</td>
+   <td>711.992</td>
+   <td>723.240</td>
+   <td>697.416</td>
+   <td>0</td>
+   <td>699.386</td>
+   <td>717.755</td>
+   <td>685.689</td>
+   <td>0</td>
+   <td>965.230</td>
+   <td>1.024.100</td>
+   <td>872.070</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo A en Mayo de 2017, por remuneraciones devengadas en Abril de 2017.
+   </li>
+</li>
+
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoB">       
+   <div class="table-responsive">                                       
+   <h4>INGRESO IMPONIBLE PROMEDIO FONDO TIPO B POR TIPO, SEXO Y A.F.P. (1) (Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>681.038</td>
+   <td>723320</td>
+   <td>629122</td>
+   <td>0</td>
+   <td>452.213</td>
+   <td>454.034</td>
+   <td>450.133</td>
+   <td>0</td>
+   <td>548.182</td>
+   <td>707.209</td>
+   <td>492.055</td>
+   <td>0</td>
+   <td>677.078</td>
+   <td>718.821</td>
+   <td>625.893</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>1.302.248</td>
+   <td>1335008</td>
+   <td>1255651</td>
+   <td>0</td>
+   <td>876.340</td>
+   <td>931.504</td>
+   <td>813.081</td>
+   <td>0</td>
+   <td>725.503</td>
+   <td>470.278</td>
+   <td>773.358</td>
+   <td>0</td>
+   <td>1.292.841</td>
+   <td>1.326.956</td>
+   <td>1.244.570</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>738.996</td>
+   <td>751915</td>
+   <td>723876</td>
+   <td>0</td>
+   <td>552.936</td>
+   <td>554.302</td>
+   <td>551.643</td>
+   <td>0</td>
+   <td>700.956</td>
+   <td>648.223</td>
+   <td>720.487</td>
+   <td>0</td>
+   <td>736.682</td>
+   <td>749.694</td>
+   <td>721.496</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>535.808</td>
+   <td>547029</td>
+   <td>523072</td>
+   <td>0</td>
+   <td>677.652</td>
+   <td>720.817</td>
+   <td>641.588</td>
+   <td>0</td>
+   <td>454.125</td>
+   <td>452.417</td>
+   <td>455.183</td>
+   <td>0</td>
+   <td>541.242</td>
+   <td>552.763</td>
+   <td>528.318</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>475.296</td>
+   <td>489542</td>
+   <td>458214</td>
+   <td>0</td>
+   <td>570.388</td>
+   <td>592.135</td>
+   <td>552.455</td>
+   <td>0</td>
+   <td>610.340</td>
+   <td>596.802</td>
+   <td>623.271</td>
+   <td>0</td>
+   <td>477.758</td>
+   <td>491.727</td>
+   <td>461.166</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>572.876</td>
+   <td>608300</td>
+   <td>516729</td>
+   <td>0</td>
+   <td>367.609</td>
+   <td>375.693</td>
+   <td>357.001</td>
+   <td>0</td>
+   <td>820.432</td>
+   <td>0</td>
+   <td>820.432</td>
+   <td>0</td>
+   <td>570.061</td>
+   <td>605.343</td>
+   <td>514.285</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>613.364</td>
+   <td>638025</td>
+   <td>582134</td>
+   <td>0</td>
+   <td>583.628</td>
+   <td>601.060</td>
+   <td>567.268</td>
+   <td>0</td>
+   <td>598.692</td>
+   <td>584.325</td>
+   <td>609.892</td>
+   <td>0</td>
+   <td>612.691</td>
+   <td>637.290</td>
+   <td>581.755</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo B en Mayo de 2017, por remuneraciones devengadas en Abril de 2017.
+   </li>
+</li>
+
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoC">       
+   <div class="table-responsive">                                       
+   <h4>INGRESO IMPONIBLE PROMEDIO FONDO TIPO C POR TIPO, SEXO Y A.F.P. (1) (Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>662.889</td>
+   <td>711911</td>
+   <td>590507</td>
+   <td>0</td>
+   <td>371.805</td>
+   <td>372.109</td>
+   <td>371.141</td>
+   <td>0</td>
+   <td>587.187</td>
+   <td>702.829</td>
+   <td>542.709</td>
+   <td>0</td>
+   <td>649.689</td>
+   <td>694.295</td>
+   <td>582.704</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>1.243.685</td>
+   <td>1270754</td>
+   <td>1199074</td>
+   <td>0</td>
+   <td>748.037</td>
+   <td>765.268</td>
+   <td>721.064</td>
+   <td>0</td>
+   <td>562.999</td>
+   <td>882.901</td>
+   <td>483.023</td>
+   <td>0</td>
+   <td>1.231.517</td>
+   <td>1.258.797</td>
+   <td>1.186.647</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>757.431</td>
+   <td>790407</td>
+   <td>716243</td>
+   <td>0</td>
+   <td>474.355</td>
+   <td>466.915</td>
+   <td>486.066</td>
+   <td>0</td>
+   <td>560.787</td>
+   <td>540.283</td>
+   <td>564.888</td>
+   <td>0</td>
+   <td>751.857</td>
+   <td>783.450</td>
+   <td>712.239</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>657.988</td>
+   <td>761445</td>
+   <td>578259</td>
+   <td>0</td>
+   <td>642.511</td>
+   <td>693.540</td>
+   <td>603.932</td>
+   <td>0</td>
+   <td>331.504</td>
+   <td>330.147</td>
+   <td>332.749</td>
+   <td>0</td>
+   <td>656.361</td>
+   <td>757.313</td>
+   <td>578.579</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>539.572</td>
+   <td>583246</td>
+   <td>482857</td>
+   <td>0</td>
+   <td>427.773</td>
+   <td>420.045</td>
+   <td>438.711</td>
+   <td>0</td>
+   <td>502.055</td>
+   <td>550.741</td>
+   <td>466.410</td>
+   <td>0</td>
+   <td>534.024</td>
+   <td>574.907</td>
+   <td>480.757</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>567.139</td>
+   <td>605352</td>
+   <td>495786</td>
+   <td>0</td>
+   <td>323.707</td>
+   <td>323.048</td>
+   <td>325.369</td>
+   <td>0</td>
+   <td>294.935</td>
+   <td>0</td>
+   <td>294.935</td>
+   <td>0</td>
+   <td>559.504</td>
+   <td>595.652</td>
+   <td>491.404</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>687.832</td>
+   <td>726767</td>
+   <td>630392</td>
+   <td>0</td>
+   <td>418.303</td>
+   <td>408.366</td>
+   <td>436.824</td>
+   <td>0</td>
+   <td>442.771</td>
+   <td>447.250</td>
+   <td>440.008</td>
+   <td>0</td>
+   <td>679.046</td>
+   <td>715.523</td>
+   <td>624.857</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo C en Mayo de 2017, por remuneraciones devengadas en Abril de 2017.
+   </li>
+</li>
+
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoD">       
+   <div class="table-responsive">                                       
+   <h4>INGRESO IMPONIBLE PROMEDIO FONDO TIPO D POR TIPO, SEXO Y A.F.P. (1) (Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>877.295</td>
+   <td>950908</td>
+   <td>792035</td>
+   <td>0</td>
+   <td>475.946</td>
+   <td>502.003</td>
+   <td>445.864</td>
+   <td>0</td>
+   <td>1.305.166</td>
+   <td>2.212.274</td>
+   <td>624.835</td>
+   <td>0</td>
+   <td>859.864</td>
+   <td>931.533</td>
+   <td>776.875</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>1.188.574</td>
+   <td>1240160</td>
+   <td>1121142</td>
+   <td>0</td>
+   <td>651.707</td>
+   <td>658.077</td>
+   <td>642.683</td>
+   <td>0</td>
+   <td>783.499</td>
+   <td>1.076.032</td>
+   <td>713.848</td>
+   <td>0</td>
+   <td>1.168.577</td>
+   <td>1.218.003</td>
+   <td>1.103.842</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>701.205</td>
+   <td>771212</td>
+   <td>639025</td>
+   <td>0</td>
+   <td>449.969</td>
+   <td>461.800</td>
+   <td>436.347</td>
+   <td>0</td>
+   <td>485.404</td>
+   <td>621.855</td>
+   <td>464.412</td>
+   <td>0</td>
+   <td>692.427</td>
+   <td>759.104</td>
+   <td>632.714</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>681.030</td>
+   <td>800074</td>
+   <td>594730</td>
+   <td>0</td>
+   <td>608.402</td>
+   <td>678.817</td>
+   <td>563.233</td>
+   <td>0</td>
+   <td>298.588</td>
+   <td>499.709</td>
+   <td>248.308</td>
+   <td>0</td>
+   <td>677.469</td>
+   <td>794.677</td>
+   <td>593.012</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>577.804</td>
+   <td>698727</td>
+   <td>501279</td>
+   <td>0</td>
+   <td>433.604</td>
+   <td>441.345</td>
+   <td>427.727</td>
+   <td>0</td>
+   <td>624.679</td>
+   <td>494.414</td>
+   <td>782.367</td>
+   <td>0</td>
+   <td>569.270</td>
+   <td>681.084</td>
+   <td>497.618</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>529.889</td>
+   <td>580699</td>
+   <td>471426</td>
+   <td>0</td>
+   <td>323.485</td>
+   <td>329.239</td>
+   <td>313.822</td>
+   <td>0</td>
+   <td>561.133</td>
+   <td>0</td>
+   <td>561.133</td>
+   <td>0</td>
+   <td>516.889</td>
+   <td>562.342</td>
+   <td>463.361</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>695.475</td>
+   <td>765870</td>
+   <td>623965</td>
+   <td>0</td>
+   <td>414.798</td>
+   <td>417.200</td>
+   <td>411.636</td>
+   <td>0</td>
+   <td>604.980</td>
+   <td>716.164</td>
+   <td>562.377</td>
+   <td>0</td>
+   <td>681.693</td>
+   <td>746.716</td>
+   <td>614.823</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo D en Mayo de 2017, por remuneraciones devengadas en Abril de 2017.
+   </li>
+</li>
+
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoE">       
+   <div class="table-responsive">                                       
+   <h4>INGRESO IMPONIBLE PROMEDIO FONDO TIPO E POR TIPO, SEXO Y A.F.P. (1) (Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>1.040.569</td>
+   <td>1109356</td>
+   <td>939706</td>
+   <td>0</td>
+   <td>555.545</td>
+   <td>578.993</td>
+   <td>519.323</td>
+   <td>0</td>
+   <td>651.060</td>
+   <td>791.111</td>
+   <td>614.204</td>
+   <td>0</td>
+   <td>1.031.852</td>
+   <td>1.099.682</td>
+   <td>932.327</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>1.519.914</td>
+   <td>1571065</td>
+   <td>1427711</td>
+   <td>0</td>
+   <td>881.740</td>
+   <td>931.867</td>
+   <td>809.146</td>
+   <td>0</td>
+   <td>1.112.364</td>
+   <td>1.270.153</td>
+   <td>1.037.227</td>
+   <td>0</td>
+   <td>1.508.212</td>
+   <td>1.560.347</td>
+   <td>1.414.662</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>1.168.547</td>
+   <td>1252162</td>
+   <td>1070319</td>
+   <td>0</td>
+   <td>634.778</td>
+   <td>682.642</td>
+   <td>581.792</td>
+   <td>0</td>
+   <td>444.531</td>
+   <td>459.115</td>
+   <td>439.670</td>
+   <td>0</td>
+   <td>1.158.859</td>
+   <td>1.242.250</td>
+   <td>1.061.041</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>1.005.724</td>
+   <td>1125120</td>
+   <td>854006</td>
+   <td>0</td>
+   <td>857.872</td>
+   <td>941.731</td>
+   <td>773.374</td>
+   <td>0</td>
+   <td>514.387</td>
+   <td>675.694</td>
+   <td>444.253</td>
+   <td>0</td>
+   <td>999.518</td>
+   <td>1.118.297</td>
+   <td>850.074</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>848.090</td>
+   <td>917041</td>
+   <td>771210</td>
+   <td>0</td>
+   <td>676.741</td>
+   <td>720.042</td>
+   <td>636.126</td>
+   <td>0</td>
+   <td>705.304</td>
+   <td>781.292</td>
+   <td>632.030</td>
+   <td>0</td>
+   <td>841.962</td>
+   <td>910.576</td>
+   <td>765.928</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>865.843</td>
+   <td>917817</td>
+   <td>778280</td>
+   <td>0</td>
+   <td>433.134</td>
+   <td>450.156</td>
+   <td>405.627</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>858.106</td>
+   <td>909.583</td>
+   <td>771.445</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>1.074.750</td>
+   <td>1149838</td>
+   <td>968934</td>
+   <td>0</td>
+   <td>674.200</td>
+   <td>710.549</td>
+   <td>629.790</td>
+   <td>0</td>
+   <td>652.941</td>
+   <td>767.099</td>
+   <td>596.701</td>
+   <td>0</td>
+   <td>1.065.646</td>
+   <td>1.140.503</td>
+   <td>960.528</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo E en Mayo de 2017, por remuneraciones devengadas en Abril de 2017.
+   </li>
+</li>
+
+   </ul>
+   <br />
+   </div> 
+
+</div>          
+
+Informaci&oacute;n actualizada el 10 de Julio de 2017
+
+<br>
+
+

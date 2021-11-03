@@ -1,0 +1,485 @@
+
+<div class="tab-content">						
+   <div role="tabpanel" class="tab-pane " id="fondoA">	
+   <div class="table-responsive">					
+   <h4>N&Uacute;MERO DE CUENTAS DE CAPITALIZACI&Oacute;N INDIVIDUAL VOLUNTARIA VIGENTE POR FONDO TIPO A, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y  MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. <br>(Al 30 de Junio de 2021)</h4>							
+         <table border='1'>
+   
+   <tr>
+   	<th class="NOMBRE" nowrap><p align="center" >AFP</th>
+   	<th class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br>DE CAPITALIZACI&Oacute;N INDIVIDUAL<br>DE AFILIADO VOLUNTARO<br>VIGENTES</th>
+	<th class="TITUuno" nowrap>SALDO TOTAL<br>ACUMULADO<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>DEP&Oacute;SITOS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS DEP&Oacute;SITOS<br>DEL MES<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>RETIROS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS RETIROS<br>DEL MES<br>M$</th>
+   </tr>
+
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+      <td>975</td>
+   <td>349.573</td>
+   <td>100</td>
+   <td>2.555</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+      <td>1.058</td>
+   <td>588.089</td>
+   <td>60</td>
+   <td>3.043</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+      <td>1.613</td>
+   <td>1.275.975</td>
+   <td>107</td>
+   <td>4.818</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+      <td>3.195</td>
+   <td>928.569</td>
+   <td>278</td>
+   <td>7.908</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+      <td>1.821</td>
+   <td>404.413</td>
+   <td>148</td>
+   <td>2.957</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+      <td>459</td>
+   <td>98.523</td>
+   <td>9</td>
+   <td>398</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+      <td>4.063</td>
+   <td>142.374</td>
+   <td>418</td>
+   <td>8.261</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+      <td>13.184</td>
+   <td>3.787.516</td>
+   <td>1.120</td>
+   <td>29.940</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>								
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoB">	
+   <div class="table-responsive">					
+   <h4>N&Uacute;MERO DE CUENTAS DE CAPITALIZACI&Oacute;N INDIVIDUAL VOLUNTARIA VIGENTE POR FONDO TIPO B, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y  MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. <br>(Al 30 de Junio de 2021)</h4>							
+         <table border='1'>
+   
+   <tr>
+   	<th class="NOMBRE" nowrap><p align="center" >AFP</th>
+   	<th class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br>DE CAPITALIZACI&Oacute;N INDIVIDUAL<br>DE AFILIADO VOLUNTARO<br>VIGENTES</th>
+	<th class="TITUuno" nowrap>SALDO TOTAL<br>ACUMULADO<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>DEP&Oacute;SITOS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS DEP&Oacute;SITOS<br>DEL MES<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>RETIROS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS RETIROS<br>DEL MES<br>M$</th>
+   </tr>
+
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+      <td>631</td>
+   <td>190.461</td>
+   <td>78</td>
+   <td>2.065</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+      <td>739</td>
+   <td>322.087</td>
+   <td>38</td>
+   <td>1.589</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+      <td>1.153</td>
+   <td>680.907</td>
+   <td>87</td>
+   <td>4.378</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+      <td>2.715</td>
+   <td>454.859</td>
+   <td>220</td>
+   <td>5.402</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+      <td>3.581</td>
+   <td>304.010</td>
+   <td>184</td>
+   <td>4.482</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+      <td>415</td>
+   <td>67.931</td>
+   <td>12</td>
+   <td>637</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+      <td>7.381</td>
+   <td>81.249</td>
+   <td>336</td>
+   <td>6.752</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+      <td>16.615</td>
+   <td>2.101.504</td>
+   <td>955</td>
+   <td>25.305</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>								
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoC">	
+   <div class="table-responsive">					
+   <h4>N&Uacute;MERO DE CUENTAS DE CAPITALIZACI&Oacute;N INDIVIDUAL VOLUNTARIA VIGENTE POR FONDO TIPO C, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y  MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. <br>(Al 30 de Junio de 2021)</h4>							
+         <table border='1'>
+   
+   <tr>
+   	<th class="NOMBRE" nowrap><p align="center" >AFP</th>
+   	<th class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br>DE CAPITALIZACI&Oacute;N INDIVIDUAL<br>DE AFILIADO VOLUNTARO<br>VIGENTES</th>
+	<th class="TITUuno" nowrap>SALDO TOTAL<br>ACUMULADO<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>DEP&Oacute;SITOS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS DEP&Oacute;SITOS<br>DEL MES<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>RETIROS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS RETIROS<br>DEL MES<br>M$</th>
+   </tr>
+
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+      <td>1.895</td>
+   <td>279.131</td>
+   <td>87</td>
+   <td>1.747</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+      <td>2.404</td>
+   <td>667.508</td>
+   <td>101</td>
+   <td>4.534</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+      <td>3.346</td>
+   <td>1.370.898</td>
+   <td>192</td>
+   <td>8.290</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+      <td>14.221</td>
+   <td>3.065.326</td>
+   <td>147</td>
+   <td>6.348</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+      <td>2.357</td>
+   <td>375.639</td>
+   <td>55</td>
+   <td>1.149</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+      <td>9.246</td>
+   <td>753.061</td>
+   <td>2</td>
+   <td>74</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+      <td>3.734</td>
+   <td>151.160</td>
+   <td>180</td>
+   <td>3.625</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+      <td>37.203</td>
+   <td>6.662.723</td>
+   <td>764</td>
+   <td>25.767</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>								
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoD">	
+   <div class="table-responsive">					
+   <h4>N&Uacute;MERO DE CUENTAS DE CAPITALIZACI&Oacute;N INDIVIDUAL VOLUNTARIA VIGENTE POR FONDO TIPO D, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y  MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. <br>(Al 30 de Junio de 2021)</h4>							
+         <table border='1'>
+   
+   <tr>
+   	<th class="NOMBRE" nowrap><p align="center" >AFP</th>
+   	<th class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br>DE CAPITALIZACI&Oacute;N INDIVIDUAL<br>DE AFILIADO VOLUNTARO<br>VIGENTES</th>
+	<th class="TITUuno" nowrap>SALDO TOTAL<br>ACUMULADO<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>DEP&Oacute;SITOS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS DEP&Oacute;SITOS<br>DEL MES<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>RETIROS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS RETIROS<br>DEL MES<br>M$</th>
+   </tr>
+
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+      <td>4.191</td>
+   <td>322.468</td>
+   <td>70</td>
+   <td>2.380</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+      <td>2.241</td>
+   <td>503.684</td>
+   <td>90</td>
+   <td>3.579</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+      <td>22.827</td>
+   <td>1.635.819</td>
+   <td>42</td>
+   <td>1.597</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+      <td>46.723</td>
+   <td>9.969.253</td>
+   <td>31</td>
+   <td>806</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+      <td>10.914</td>
+   <td>1.081.088</td>
+   <td>13</td>
+   <td>197</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+      <td>5.700</td>
+   <td>428.716</td>
+   <td>26</td>
+   <td>738</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+      <td>2.980</td>
+   <td>322.252</td>
+   <td>184</td>
+   <td>3.404</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+      <td>95.576</td>
+   <td>14.263.280</td>
+   <td>456</td>
+   <td>12.701</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>								
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoE">	
+   <div class="table-responsive">					
+   <h4>N&Uacute;MERO DE CUENTAS DE CAPITALIZACI&Oacute;N INDIVIDUAL VOLUNTARIA VIGENTE POR FONDO TIPO E, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y  MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. <br>(Al 30 de Junio de 2021)</h4>							
+         <table border='1'>
+   
+   <tr>
+   	<th class="NOMBRE" nowrap><p align="center" >AFP</th>
+   	<th class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br>DE CAPITALIZACI&Oacute;N INDIVIDUAL<br>DE AFILIADO VOLUNTARO<br>VIGENTES</th>
+	<th class="TITUuno" nowrap>SALDO TOTAL<br>ACUMULADO<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>DEP&Oacute;SITOS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS DEP&Oacute;SITOS<br>DEL MES<br>M$</th>
+	<th class="TITUuno" nowrap>N&Uacute;MERO DE<br>RETIROS<br>DEL MES</th>
+	<th class="TITUuno" nowrap>MONTO TOTAL<br>DE LOS RETIROS<br>DEL MES<br>M$</th>
+   </tr>
+
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+      <td>3.466</td>
+   <td>308.851</td>
+   <td>111</td>
+   <td>2.668</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+      <td>2.434</td>
+   <td>426.642</td>
+   <td>87</td>
+   <td>3.322</td>
+   <td>1</td>
+   <td>787</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+      <td>2.411</td>
+   <td>704.382</td>
+   <td>117</td>
+   <td>4.149</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+      <td>28.271</td>
+   <td>6.582.246</td>
+   <td>273</td>
+   <td>4.491</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+      <td>3.997</td>
+   <td>348.288</td>
+   <td>123</td>
+   <td>1.924</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+      <td>6.376</td>
+   <td>490.000</td>
+   <td>22</td>
+   <td>777</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+      <td>3.822</td>
+   <td>235.653</td>
+   <td>249</td>
+   <td>4.136</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+      <td>50.777</td>
+   <td>9.096.062</td>
+   <td>982</td>
+   <td>21.467</td>
+   <td>1</td>
+   <td>787</td>
+   </tr>
+   
+   </table>
+   </div>								
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+
+</div>          
+
+Informaci&oacute;n actualizada el 9 de Septiembre de 2021
+
+<br>
+
+

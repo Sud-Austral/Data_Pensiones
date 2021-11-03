@@ -1,0 +1,187 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES POR A.F.P. Y EDAD (1) (Al 31 de Marzo de 2021)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >A.F.P.</th>
+<th  colspan="13" class="TITUuno" >EDAD (a&ntilde;os)</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >Hasta 20</th>
+<th  class="SUBTITUdos" >+20&nbsp;-25</th>
+<th  class="SUBTITUdos" >+25&nbsp;-30</th>
+<th  class="SUBTITUdos" >+30&nbsp;-35</th>
+<th  class="SUBTITUdos" >+35&nbsp;-40</th>
+<th  class="SUBTITUdos" >+40&nbsp;-45</th>
+<th  class="SUBTITUdos" >+45&nbsp;-50</th>
+<th  class="SUBTITUdos" >+50&nbsp;-55</th>
+<th  class="SUBTITUdos" >+55&nbsp;-60</th>
+<th  class="SUBTITUdos" >+60&nbsp;-65</th>
+<th  class="SUBTITUdos" >+65&nbsp;-70</th>
+<th  class="SUBTITUdos" >+de 70</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   
+   <td>1.899</td>
+   <td>21.116</td>
+   <td>83.619</td>
+   <td>145.301</td>
+   <td>122.856</td>
+   <td>112.028</td>
+   <td>120.055</td>
+   <td>114.200</td>
+   <td>97.215</td>
+   <td>43.974</td>
+   <td>3.625</td>
+   <td>767</td>
+   <td>0</td>
+   <td class='F1RESUL'>866.655</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   
+   <td>59</td>
+   <td>1.993</td>
+   <td>18.744</td>
+   <td>45.080</td>
+   <td>66.983</td>
+   <td>69.631</td>
+   <td>68.368</td>
+   <td>57.500</td>
+   <td>48.853</td>
+   <td>25.766</td>
+   <td>3.658</td>
+   <td>698</td>
+   <td>0</td>
+   <td class='F1RESUL'>407.333</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   
+   <td>233</td>
+   <td>5.597</td>
+   <td>66.094</td>
+   <td>161.414</td>
+   <td>181.954</td>
+   <td>164.965</td>
+   <td>152.463</td>
+   <td>128.282</td>
+   <td>107.947</td>
+   <td>47.686</td>
+   <td>4.406</td>
+   <td>965</td>
+   <td>0</td>
+   <td class='F1RESUL'>1.022.006</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   
+   <td>29.015</td>
+   <td>153.871</td>
+   <td>367.955</td>
+   <td>190.158</td>
+   <td>102.826</td>
+   <td>63.198</td>
+   <td>48.175</td>
+   <td>35.035</td>
+   <td>23.542</td>
+   <td>7.531</td>
+   <td>1.048</td>
+   <td>353</td>
+   <td>0</td>
+   <td class='F1RESUL'>1.022.707</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   
+   <td>9.882</td>
+   <td>212.420</td>
+   <td>154.215</td>
+   <td>114.126</td>
+   <td>74.560</td>
+   <td>53.951</td>
+   <td>43.733</td>
+   <td>35.465</td>
+   <td>26.560</td>
+   <td>10.989</td>
+   <td>1.091</td>
+   <td>328</td>
+   <td>0</td>
+   <td class='F1RESUL'>737.320</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   
+   <td>1.864</td>
+   <td>34.750</td>
+   <td>120.882</td>
+   <td>204.682</td>
+   <td>199.057</td>
+   <td>179.024</td>
+   <td>188.484</td>
+   <td>177.175</td>
+   <td>154.587</td>
+   <td>70.944</td>
+   <td>4.913</td>
+   <td>954</td>
+   <td>0</td>
+   <td class='F1RESUL'>1.337.316</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   
+   <td>79.189</td>
+   <td>53.757</td>
+   <td>32.336</td>
+   <td>19.120</td>
+   <td>12.556</td>
+   <td>8.186</td>
+   <td>6.029</td>
+   <td>4.363</td>
+   <td>2.819</td>
+   <td>1.304</td>
+   <td>314</td>
+   <td>127</td>
+   <td>0</td>
+   <td class='F1RESUL'>220.100</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft' nowrap>Total</td>
+   
+   <td>122.141</td>
+   <td>483.504</td>
+   <td>843.845</td>
+   <td>879.881</td>
+   <td>760.792</td>
+   <td>650.983</td>
+   <td>627.307</td>
+   <td>552.020</td>
+   <td>461.523</td>
+   <td>208.194</td>
+   <td>19.055</td>
+   <td>4.192</td>
+   <td>0</td>
+   <td class='F1RESUL'>5.613.437</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados que cotizaron en 202103, por remuneraciones devengadas en Febrero de 2021.</li>
+<li>S/I: Sin informaci&oacute;n.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 10 de Mayo de 2021
+<br>
+
+

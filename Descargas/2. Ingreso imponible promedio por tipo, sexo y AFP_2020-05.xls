@@ -1,0 +1,206 @@
+
+<div class="table-responsive">
+<h4>INGRESO IMPONIBLE PROMEDIO POR TIPO, SEXO Y A.F.P. (1)(Al 31 de Mayo de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="3" class="NOMBRE" >A.F.P.</th>
+<th  colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+</tr>
+<tr  >
+<th  colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+<th  colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+<th  colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+<th  colspan="4" class="C1RESUL" >TOTAL</th>
+</tr>
+<tr>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+</tr>
+</thead>
+
+<tbody>
+   <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>916.949</td>
+   <td>971.467</td>
+   <td>841.173</td>
+   <td>0</td>
+   <td>537.347</td>
+   <td>535.479</td>
+   <td>540.964</td>
+   <td>0</td>
+   <td>552.667</td>
+   <td>633.175</td>
+   <td>496.690</td>
+   <td>0</td>
+   <td>909.397</td>
+   <td>961.719</td>
+   <td>836.228</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>1.533.112</td>
+   <td>1.573.180</td>
+   <td>1.466.632</td>
+   <td>0</td>
+   <td>868.197</td>
+   <td>889.145</td>
+   <td>835.822</td>
+   <td>0</td>
+   <td>660.915</td>
+   <td>687.188</td>
+   <td>641.742</td>
+   <td>0</td>
+   <td>1.520.578</td>
+   <td>1.560.803</td>
+   <td>1.453.962</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>1.029.524</td>
+   <td>1.073.837</td>
+   <td>976.771</td>
+   <td>0</td>
+   <td>629.233</td>
+   <td>640.437</td>
+   <td>613.190</td>
+   <td>0</td>
+   <td>558.305</td>
+   <td>572.207</td>
+   <td>552.195</td>
+   <td>0</td>
+   <td>1.023.259</td>
+   <td>1.066.592</td>
+   <td>971.548</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>740.077</td>
+   <td>782.966</td>
+   <td>695.483</td>
+   <td>0</td>
+   <td>623.986</td>
+   <td>641.523</td>
+   <td>610.612</td>
+   <td>0</td>
+   <td>584.139</td>
+   <td>638.465</td>
+   <td>536.562</td>
+   <td>0</td>
+   <td>739.112</td>
+   <td>781.985</td>
+   <td>694.643</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>625.369</td>
+   <td>640.636</td>
+   <td>605.204</td>
+   <td>0</td>
+   <td>516.064</td>
+   <td>492.185</td>
+   <td>543.048</td>
+   <td>0</td>
+   <td>347.265</td>
+   <td>358.174</td>
+   <td>337.119</td>
+   <td>0</td>
+   <td>624.469</td>
+   <td>639.543</td>
+   <td>604.584</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>709.957</td>
+   <td>747.560</td>
+   <td>645.428</td>
+   <td>0</td>
+   <td>420.527</td>
+   <td>420.920</td>
+   <td>419.657</td>
+   <td>0</td>
+   <td>520.193</td>
+   <td>252.684</td>
+   <td>553.631</td>
+   <td>0</td>
+   <td>704.619</td>
+   <td>741.008</td>
+   <td>641.895</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>511.726</td>
+   <td>552.888</td>
+   <td>462.256</td>
+   <td>0</td>
+   <td>505.124</td>
+   <td>529.922</td>
+   <td>487.427</td>
+   <td>0</td>
+   <td>260.291</td>
+   <td>259.052</td>
+   <td>261.540</td>
+   <td>0</td>
+   <td>510.577</td>
+   <td>551.504</td>
+   <td>461.778</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>858.718</td>
+   <td>900.487</td>
+   <td>802.367</td>
+   <td>0</td>
+   <td>556.623</td>
+   <td>552.621</td>
+   <td>563.068</td>
+   <td>0</td>
+   <td>514.894</td>
+   <td>538.750</td>
+   <td>497.150</td>
+   <td>0</td>
+   <td>854.225</td>
+   <td>894.993</td>
+   <td>799.098</td>
+   <td>0</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en Mayo de 2020, por remuneraciones devengadas en Abril de 2020.
+Las cifras del n&uacute;mero de cotizantes independientes reportadas en este cuadro desde agosto de 2019 no son comparables con las de los periodos anteriores, debido a correcciones realizadas por una Administradora.
+</li>
+
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Mayo de 2021
+<br>
+
+

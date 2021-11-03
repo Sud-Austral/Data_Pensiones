@@ -1,0 +1,201 @@
+<div class="table-responsive">
+<h4>INGRESO IMPONIBLE PROMEDIO HOMBRES POR REGI&Oacute;N Y A.F.P. (1) (Al 31 de Diciembre de 2018)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >A.F.P.</th>
+<th  colspan="17" class="TITUuno" >REGI&Oacute;N</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >I</th>
+<th  class="SUBTITUdos" >II</th>
+<th  class="SUBTITUdos" >III</th>
+<th  class="SUBTITUdos" >IV</th>
+<th  class="SUBTITUdos" >V</th>
+<th  class="SUBTITUdos" >VI</th>
+<th  class="SUBTITUdos" >VII</th>
+<th  class="SUBTITUdos" >VIII</th>
+<th  class="SUBTITUdos" >IX</th>
+<th  class="SUBTITUdos" >X</th>
+<th  class="SUBTITUdos" >XI</th>
+<th  class="SUBTITUdos" >XII</th>
+<th  class="SUBTITUdos" >R. Metrop.</th>
+<th  class="SUBTITUdos" >XIV</th>
+<th  class="SUBTITUdos" >XV</th>
+<th  class="SUBTITUdos" >XVI</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td  class='alignLeft' class=ITEM>CAPITAL</td>
+   
+   <td>991.674</td>
+   <td>1.256.555</td>
+   <td>1.097.056</td>
+   <td>1.031.468</td>
+   <td>831.908</td>
+   <td>877.197</td>
+   <td>739.726</td>
+   <td>808.279</td>
+   <td>742.033</td>
+   <td>791.708</td>
+   <td>841.437</td>
+   <td>978.531</td>
+   <td>938.967</td>
+   <td>764.609</td>
+   <td>898.388</td>
+   <td>715.861</td>
+   <td>792.821</td>
+   <td class='F1RESUL'>894.037</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>CUPRUM</td>
+   
+   <td>1.489.673</td>
+   <td>1.610.952</td>
+   <td>1.493.969</td>
+   <td>1.515.032</td>
+   <td>1.453.449</td>
+   <td>1.467.277</td>
+   <td>1.308.489</td>
+   <td>1.402.406</td>
+   <td>1.394.157</td>
+   <td>1.369.647</td>
+   <td>1.461.295</td>
+   <td>1.462.485</td>
+   <td>1.602.227</td>
+   <td>1.363.767</td>
+   <td>1.410.401</td>
+   <td>1.419.709</td>
+   <td>1.227.718</td>
+   <td class='F1RESUL'>1.516.567</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>HABITAT</td>
+   
+   <td>1.009.805</td>
+   <td>1.313.064</td>
+   <td>1.077.245</td>
+   <td>1.016.344</td>
+   <td>926.784</td>
+   <td>973.117</td>
+   <td>860.213</td>
+   <td>896.377</td>
+   <td>782.259</td>
+   <td>834.254</td>
+   <td>1.025.209</td>
+   <td>962.317</td>
+   <td>1.044.773</td>
+   <td>772.800</td>
+   <td>825.587</td>
+   <td>800.853</td>
+   <td>630.433</td>
+   <td class='F1RESUL'>980.374</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>MODELO</td>
+   
+   <td>707.225</td>
+   <td>912.540</td>
+   <td>762.715</td>
+   <td>703.827</td>
+   <td>719.911</td>
+   <td>642.601</td>
+   <td>575.451</td>
+   <td>689.265</td>
+   <td>606.826</td>
+   <td>655.072</td>
+   <td>871.156</td>
+   <td>728.231</td>
+   <td>801.163</td>
+   <td>653.797</td>
+   <td>663.053</td>
+   <td>586.845</td>
+   <td>0</td>
+   <td class='F1RESUL'>755.022</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>PLANVITAL</td>
+   
+   <td>541.511</td>
+   <td>656.674</td>
+   <td>596.026</td>
+   <td>542.986</td>
+   <td>504.501</td>
+   <td>464.590</td>
+   <td>441.351</td>
+   <td>529.819</td>
+   <td>489.121</td>
+   <td>526.160</td>
+   <td>561.527</td>
+   <td>606.730</td>
+   <td>613.199</td>
+   <td>556.111</td>
+   <td>494.894</td>
+   <td>433.051</td>
+   <td>0</td>
+   <td class='F1RESUL'>560.768</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>PROVIDA</td>
+   
+   <td>800.328</td>
+   <td>982.686</td>
+   <td>789.848</td>
+   <td>657.037</td>
+   <td>684.258</td>
+   <td>618.011</td>
+   <td>534.343</td>
+   <td>653.589</td>
+   <td>546.684</td>
+   <td>596.926</td>
+   <td>661.014</td>
+   <td>772.388</td>
+   <td>788.699</td>
+   <td>577.504</td>
+   <td>762.714</td>
+   <td>551.398</td>
+   <td>560.892</td>
+   <td class='F1RESUL'>694.382</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td  class='alignLeft' class='F1TOTAL'>Total</td>
+   
+   <td>905.406</td>
+   <td>1.157.308</td>
+   <td>994.373</td>
+   <td>848.687</td>
+   <td>794.376</td>
+   <td>736.899</td>
+   <td>641.354</td>
+   <td>790.060</td>
+   <td>672.433</td>
+   <td>729.865</td>
+   <td>800.549</td>
+   <td>893.255</td>
+   <td>900.236</td>
+   <td>704.211</td>
+   <td>808.405</td>
+   <td>666.103</td>
+   <td>591.691</td>
+   <td class='F1RESUL'>837.686</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al ingreso promedio de los afiliados hombres que cotizaron en 201812, por remuneraciones devengadas en Noviembre de 2018.</td>
+<li>S/I Sin informaci&oacute;n</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 25 de Octubre de 2019
+<br>
+
+

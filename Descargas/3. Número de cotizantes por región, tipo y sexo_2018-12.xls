@@ -1,0 +1,368 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES POR REGI&Oacute;N, TIPO Y SEXO (1) (Al 31 de Diciembre de 2018)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >TIPO Y SEXO</th>
+<th  colspan="17" class="TITUuno" >REGI&Oacute;N</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >I</th>
+<th  class="SUBTITUdos" >II</th>
+<th  class="SUBTITUdos" >III</th>
+<th  class="SUBTITUdos" >IV</th>
+<th  class="SUBTITUdos" >V</th>
+<th  class="SUBTITUdos" >VI</th>
+<th  class="SUBTITUdos" >VII</th>
+<th  class="SUBTITUdos" >VIII</th>
+<th  class="SUBTITUdos" >IX</th>
+<th  class="SUBTITUdos" >X</th>
+<th  class="SUBTITUdos" >XI</th>
+<th  class="SUBTITUdos" >XII</th>
+<th  class="SUBTITUdos" >R. Metrop.</th>
+<th  class="SUBTITUdos" >XIV</th>
+<th  class="SUBTITUdos" >XV</th>
+
+<th  class="SUBTITUdos" >XVI</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+   <td class='alignLeft'>DEPENDIENTES</td>
+   <td>91.926</td>
+   <td>197.019</td>
+   <td>89.729</td>
+   <td>196.247</td>
+   <td>497.877</td>
+   <td>277.771</td>
+   <td>300.084</td>
+   <td>433.688</td>
+   <td>228.206</td>
+   <td>240.643</td>
+   <td>28.579</td>
+   <td>56.818</td>
+   <td>2.463.308</td>
+   <td>95.833</td>
+   <td>61.330</td>
+   <td>118.679</td>
+   <td>50.797</td>
+   <td class='F1RESUL'>5.428.534</td>
+   </tr>
+   <td class='alignLeft'>Masculino</td>
+   <td>54.052</td>
+   <td>121.621</td>
+   <td>56.074</td>
+   <td>117.392</td>
+   <td>290.766</td>
+   <td>165.161</td>
+   <td>173.592</td>
+   <td>258.917</td>
+   <td>132.197</td>
+   <td>139.323</td>
+   <td>15.093</td>
+   <td>32.183</td>
+   <td>1.381.558</td>
+   <td>56.009</td>
+   <td>35.253</td>
+   <td>69.371</td>
+   <td>30.928</td>
+   <td class='F1RESUL'>3.129.490</td>
+   </tr>
+   <td class='alignLeft'>Femenino</td>
+   <td>37.874</td>
+   <td>75.398</td>
+   <td>33.655</td>
+   <td>78.855</td>
+   <td>207.111</td>
+   <td>112.610</td>
+   <td>126.492</td>
+   <td>174.771</td>
+   <td>96.009</td>
+   <td>101.320</td>
+   <td>13.486</td>
+   <td>24.635</td>
+   <td>1.081.750</td>
+   <td>39.824</td>
+   <td>26.077</td>
+   <td>49.308</td>
+   <td>19.869</td>
+   <td class='F1RESUL'>2.299.044</td>
+   </tr>
+   <td class='alignLeft'>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+   <td class='alignLeft'>INDEPENDIENTES</td>
+   <td>1.797</td>
+   <td>3.634</td>
+   <td>1.681</td>
+   <td>4.312</td>
+   <td>13.424</td>
+   <td>5.758</td>
+   <td>5.978</td>
+   <td>8.714</td>
+   <td>4.276</td>
+   <td>4.068</td>
+   <td>750</td>
+   <td>1.519</td>
+   <td>66.676</td>
+   <td>1.696</td>
+   <td>1.179</td>
+   <td>2.902</td>
+   <td>595</td>
+   <td class='F1RESUL'>128.959</td>
+   </tr>
+   <td class='alignLeft'>Masculino</td>
+   <td>990</td>
+   <td>1.997</td>
+   <td>988</td>
+   <td>2.645</td>
+   <td>7.875</td>
+   <td>3.689</td>
+   <td>3.871</td>
+   <td>4.969</td>
+   <td>2.535</td>
+   <td>2.515</td>
+   <td>410</td>
+   <td>913</td>
+   <td>36.266</td>
+   <td>1.032</td>
+   <td>652</td>
+   <td>1.656</td>
+   <td>370</td>
+   <td class='F1RESUL'>73.373</td>
+   </tr>
+   <td class='alignLeft'>Femenino</td>
+   <td>807</td>
+   <td>1.637</td>
+   <td>693</td>
+   <td>1.667</td>
+   <td>5.549</td>
+   <td>2.069</td>
+   <td>2.107</td>
+   <td>3.745</td>
+   <td>1.741</td>
+   <td>1.553</td>
+   <td>340</td>
+   <td>606</td>
+   <td>30.410</td>
+   <td>664</td>
+   <td>527</td>
+   <td>1.246</td>
+   <td>225</td>
+   <td class='F1RESUL'>55.586</td>
+   </tr>
+   <td class='alignLeft'>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+   <td class='alignLeft'>VOLUNTARIOS</td>
+   <td>21</td>
+   <td>64</td>
+   <td>11</td>
+   <td>26</td>
+   <td>147</td>
+   <td>48</td>
+   <td>26</td>
+   <td>97</td>
+   <td>25</td>
+   <td>29</td>
+   <td>5</td>
+   <td>13</td>
+   <td>1.030</td>
+   <td>15</td>
+   <td>17</td>
+   <td>11</td>
+   <td>6</td>
+   <td class='F1RESUL'>1.591</td>
+   </tr>
+   <td class='alignLeft'>Masculino</td>
+   <td>10</td>
+   <td>23</td>
+   <td>6</td>
+   <td>5</td>
+   <td>50</td>
+   <td>16</td>
+   <td>10</td>
+   <td>31</td>
+   <td>6</td>
+   <td>7</td>
+   <td>3</td>
+   <td>3</td>
+   <td>372</td>
+   <td>7</td>
+   <td>9</td>
+   <td>4</td>
+   <td>3</td>
+   <td class='F1RESUL'>565</td>
+   </tr>
+   <td class='alignLeft'>Femenino</td>
+   <td>11</td>
+   <td>41</td>
+   <td>5</td>
+   <td>21</td>
+   <td>97</td>
+   <td>32</td>
+   <td>16</td>
+   <td>66</td>
+   <td>19</td>
+   <td>22</td>
+   <td>2</td>
+   <td>10</td>
+   <td>658</td>
+   <td>8</td>
+   <td>8</td>
+   <td>7</td>
+   <td>3</td>
+   <td class='F1RESUL'>1.026</td>
+   </tr>
+   <td class='alignLeft'>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+   <td class='alignLeft'>TOTAL</td>
+   <td>93.744</td>
+   <td>200.717</td>
+   <td>91.421</td>
+   <td>200.585</td>
+   <td>511.448</td>
+   <td>283.577</td>
+   <td>306.088</td>
+   <td>442.499</td>
+   <td>232.507</td>
+   <td>244.740</td>
+   <td>29.334</td>
+   <td>58.350</td>
+   <td>2.531.014</td>
+   <td>97.544</td>
+   <td>62.526</td>
+   <td>121.592</td>
+   <td>51.398</td>
+   <td class='F1RESUL'>5.559.084</td>
+   </tr>
+   <td class='alignLeft'>Masculino</td>
+   <td>55.052</td>
+   <td>123.641</td>
+   <td>57.068</td>
+   <td>120.042</td>
+   <td>298.691</td>
+   <td>168.866</td>
+   <td>177.473</td>
+   <td>263.917</td>
+   <td>134.738</td>
+   <td>141.845</td>
+   <td>15.506</td>
+   <td>33.099</td>
+   <td>1.418.196</td>
+   <td>57.048</td>
+   <td>35.914</td>
+   <td>71.031</td>
+   <td>31.301</td>
+   <td class='F1RESUL'>3.203.428</td>
+   </tr>
+   <td class='alignLeft'>Femenino</td>
+   <td>38.692</td>
+   <td>77.076</td>
+   <td>34.353</td>
+   <td>80.543</td>
+   <td>212.757</td>
+   <td>114.711</td>
+   <td>128.615</td>
+   <td>178.582</td>
+   <td>97.769</td>
+   <td>102.895</td>
+   <td>13.828</td>
+   <td>25.251</td>
+   <td>1.112.818</td>
+   <td>40.496</td>
+   <td>26.612</td>
+   <td>50.561</td>
+   <td>20.097</td>
+   <td class='F1RESUL'>2.355.656</td>
+   </tr>
+   <td class='alignLeft'>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados que cotizaron en 201812, por remuneraciones devengadas en Noviembre de 2018.</li>
+<li>S/I: Sin informaci&oacute;n.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 25 de Octubre de 2019
+<br>
+
+

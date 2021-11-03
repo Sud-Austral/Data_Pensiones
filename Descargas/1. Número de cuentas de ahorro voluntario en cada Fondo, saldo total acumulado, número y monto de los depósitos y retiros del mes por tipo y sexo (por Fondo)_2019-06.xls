@@ -1,0 +1,1365 @@
+
+<div class="tab-content">
+   <div role="tabpanel" class="tab-pane " id="fondoA">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO A, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR TIPO Y SEXO<br>(Al 30 de Junio de 2019)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>TIPO<br />Y<br />SEXO</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</td>
+   </tr>
+   </thead>
+   
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>DEPENDIENTES</td>
+   <td>123.403</td>
+   <td>164.605</td>
+   <td>182.743.945</td>
+   <td>36.358</td>
+   <td>11.347.591</td>
+   <td>10.355</td>
+   <td>6.039.388</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>80.983</td>
+   <td>109.762</td>
+   <td>134.589.814</td>
+   <td>23.468</td>
+   <td>9.675.444</td>
+   <td>7.047</td>
+   <td>4.853.147</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>42.420</td>
+   <td>54.843</td>
+   <td>48.154.131</td>
+   <td>12.890</td>
+   <td>1.672.147</td>
+   <td>3.308</td>
+   <td>1.186.241</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>INDEPENDIENTES</td>
+   <td>4.945</td>
+   <td>9.296</td>
+   <td>24.278.170</td>
+   <td>671</td>
+   <td>787.734</td>
+   <td>128</td>
+   <td>475.951</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>3.066</td>
+   <td>5.815</td>
+   <td>15.521.931</td>
+   <td>409</td>
+   <td>543.685</td>
+   <td>87</td>
+   <td>353.131</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>1.879</td>
+   <td>3.481</td>
+   <td>8.756.239</td>
+   <td>262</td>
+   <td>244.049</td>
+   <td>41</td>
+   <td>122.820</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>VOLUNTARIOS</td>
+   <td>229</td>
+   <td>1.190</td>
+   <td>4.139.178</td>
+   <td>193</td>
+   <td>1.090.026</td>
+   <td>17</td>
+   <td>262.609</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>124</td>
+   <td>583</td>
+   <td>1.373.197</td>
+   <td>105</td>
+   <td>482.490</td>
+   <td>6</td>
+   <td>109.319</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>105</td>
+   <td>607</td>
+   <td>2.765.981</td>
+   <td>88</td>
+   <td>607.536</td>
+   <td>11</td>
+   <td>153.290</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>ACTIVOS</td>
+   <td>128.577</td>
+   <td>175.091</td>
+   <td>211.161.293</td>
+   <td>37.222</td>
+   <td>13.225.350</td>
+   <td>10.500</td>
+   <td>6.777.948</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>84.173</td>
+   <td>116.160</td>
+   <td>151.484.942</td>
+   <td>23.982</td>
+   <td>10.701.619</td>
+   <td>7.140</td>
+   <td>5.315.597</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>44.404</td>
+   <td>58.931</td>
+   <td>59.676.351</td>
+   <td>13.240</td>
+   <td>2.523.731</td>
+   <td>3.360</td>
+   <td>1.462.351</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PASIVOS</td>
+   <td>14.754</td>
+   <td>15.184</td>
+   <td>83.536.652</td>
+   <td>1.151</td>
+   <td>873.426</td>
+   <td>514</td>
+   <td>1.318.731</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>8.924</td>
+   <td>9.658</td>
+   <td>62.402.042</td>
+   <td>741</td>
+   <td>614.292</td>
+   <td>373</td>
+   <td>1.159.115</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>5.830</td>
+   <td>5.526</td>
+   <td>21.134.610</td>
+   <td>410</td>
+   <td>259.134</td>
+   <td>141</td>
+   <td>159.616</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>143.331</td>
+   <td>190.275</td>
+   <td>294.697.945</td>
+   <td>38.373</td>
+   <td>14.098.776</td>
+   <td>11.014</td>
+   <td>8.096.679</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>93.097</td>
+   <td>125.818</td>
+   <td>213.886.985</td>
+   <td>24.723</td>
+   <td>11.315.911</td>
+   <td>7.513</td>
+   <td>6.474.712</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>50.234</td>
+   <td>64.457</td>
+   <td>80.810.960</td>
+   <td>13.650</td>
+   <td>2.782.865</td>
+   <td>3.501</td>
+   <td>1.621.967</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoB">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO B, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR TIPO Y SEXO<br>(Al 30 de Junio de 2019)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>TIPO<br />Y<br />SEXO</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</td>
+   </tr>
+   </thead>
+   
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>DEPENDIENTES</td>
+   <td>67.889</td>
+   <td>89.715</td>
+   <td>57.145.353</td>
+   <td>19.240</td>
+   <td>2.311.933</td>
+   <td>5.443</td>
+   <td>896.405</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>41.228</td>
+   <td>53.549</td>
+   <td>36.512.467</td>
+   <td>10.416</td>
+   <td>1.592.471</td>
+   <td>3.284</td>
+   <td>581.408</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>26.661</td>
+   <td>36.166</td>
+   <td>20.632.886</td>
+   <td>8.824</td>
+   <td>719.462</td>
+   <td>2.159</td>
+   <td>314.997</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>INDEPENDIENTES</td>
+   <td>2.535</td>
+   <td>4.530</td>
+   <td>8.477.058</td>
+   <td>236</td>
+   <td>95.533</td>
+   <td>52</td>
+   <td>94.721</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>1.405</td>
+   <td>2.526</td>
+   <td>5.247.468</td>
+   <td>129</td>
+   <td>57.062</td>
+   <td>31</td>
+   <td>80.879</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>1.130</td>
+   <td>2.004</td>
+   <td>3.229.590</td>
+   <td>107</td>
+   <td>38.472</td>
+   <td>21</td>
+   <td>13.842</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>VOLUNTARIOS</td>
+   <td>33</td>
+   <td>182</td>
+   <td>902.662</td>
+   <td>21</td>
+   <td>1.857</td>
+   <td>9</td>
+   <td>31.825</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>14</td>
+   <td>81</td>
+   <td>559.178</td>
+   <td>13</td>
+   <td>1.272</td>
+   <td>3</td>
+   <td>31.222</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>19</td>
+   <td>101</td>
+   <td>343.484</td>
+   <td>8</td>
+   <td>585</td>
+   <td>6</td>
+   <td>603</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>ACTIVOS</td>
+   <td>70.457</td>
+   <td>94.427</td>
+   <td>66.525.073</td>
+   <td>19.497</td>
+   <td>2.409.324</td>
+   <td>5.504</td>
+   <td>1.022.951</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>42.647</td>
+   <td>56.156</td>
+   <td>42.319.113</td>
+   <td>10.558</td>
+   <td>1.650.805</td>
+   <td>3.318</td>
+   <td>693.509</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>27.810</td>
+   <td>38.271</td>
+   <td>24.205.960</td>
+   <td>8.939</td>
+   <td>758.518</td>
+   <td>2.186</td>
+   <td>329.442</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PASIVOS</td>
+   <td>11.269</td>
+   <td>9.381</td>
+   <td>24.462.142</td>
+   <td>669</td>
+   <td>173.774</td>
+   <td>222</td>
+   <td>193.357</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>5.941</td>
+   <td>5.217</td>
+   <td>18.339.077</td>
+   <td>347</td>
+   <td>99.181</td>
+   <td>142</td>
+   <td>138.577</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>5.328</td>
+   <td>4.164</td>
+   <td>6.123.065</td>
+   <td>322</td>
+   <td>74.593</td>
+   <td>80</td>
+   <td>54.780</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>81.726</td>
+   <td>103.808</td>
+   <td>90.987.215</td>
+   <td>20.166</td>
+   <td>2.583.098</td>
+   <td>5.726</td>
+   <td>1.216.308</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>48.588</td>
+   <td>61.373</td>
+   <td>60.658.190</td>
+   <td>10.905</td>
+   <td>1.749.987</td>
+   <td>3.460</td>
+   <td>832.086</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>33.138</td>
+   <td>42.435</td>
+   <td>30.329.025</td>
+   <td>9.261</td>
+   <td>833.111</td>
+   <td>2.266</td>
+   <td>384.222</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoC">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO C, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR TIPO Y SEXO<br>(Al 30 de Junio de 2019)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>TIPO<br />Y<br />SEXO</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</td>
+   </tr>
+   </thead>
+   
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>DEPENDIENTES</td>
+   <td>301.092</td>
+   <td>337.513</td>
+   <td>217.288.680</td>
+   <td>67.981</td>
+   <td>5.843.819</td>
+   <td>18.793</td>
+   <td>3.203.416</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>206.208</td>
+   <td>223.589</td>
+   <td>142.128.997</td>
+   <td>38.735</td>
+   <td>3.734.259</td>
+   <td>11.628</td>
+   <td>1.956.401</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>94.884</td>
+   <td>113.924</td>
+   <td>75.159.683</td>
+   <td>29.246</td>
+   <td>2.109.560</td>
+   <td>7.165</td>
+   <td>1.247.015</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>INDEPENDIENTES</td>
+   <td>12.814</td>
+   <td>16.857</td>
+   <td>31.331.065</td>
+   <td>773</td>
+   <td>844.417</td>
+   <td>136</td>
+   <td>325.983</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>8.666</td>
+   <td>11.263</td>
+   <td>21.194.854</td>
+   <td>477</td>
+   <td>741.618</td>
+   <td>84</td>
+   <td>226.296</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>4.148</td>
+   <td>5.594</td>
+   <td>10.136.211</td>
+   <td>296</td>
+   <td>102.799</td>
+   <td>52</td>
+   <td>99.687</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>VOLUNTARIOS</td>
+   <td>108</td>
+   <td>406</td>
+   <td>3.946.986</td>
+   <td>39</td>
+   <td>20.178</td>
+   <td>14</td>
+   <td>17.708</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>48</td>
+   <td>155</td>
+   <td>1.362.931</td>
+   <td>11</td>
+   <td>2.820</td>
+   <td>9</td>
+   <td>14.494</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>60</td>
+   <td>251</td>
+   <td>2.584.055</td>
+   <td>28</td>
+   <td>17.358</td>
+   <td>5</td>
+   <td>3.214</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>ACTIVOS</td>
+   <td>314.014</td>
+   <td>354.776</td>
+   <td>252.566.731</td>
+   <td>68.793</td>
+   <td>6.708.414</td>
+   <td>18.943</td>
+   <td>3.547.107</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>214.922</td>
+   <td>235.007</td>
+   <td>164.686.782</td>
+   <td>39.223</td>
+   <td>4.478.697</td>
+   <td>11.721</td>
+   <td>2.197.191</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>99.092</td>
+   <td>119.769</td>
+   <td>87.879.949</td>
+   <td>29.570</td>
+   <td>2.229.717</td>
+   <td>7.222</td>
+   <td>1.349.916</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PASIVOS</td>
+   <td>59.554</td>
+   <td>38.503</td>
+   <td>197.702.126</td>
+   <td>5.184</td>
+   <td>2.666.053</td>
+   <td>1.769</td>
+   <td>1.268.099</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>37.370</td>
+   <td>24.166</td>
+   <td>145.747.868</td>
+   <td>2.967</td>
+   <td>1.524.965</td>
+   <td>1.092</td>
+   <td>824.529</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>22.184</td>
+   <td>14.337</td>
+   <td>51.954.258</td>
+   <td>2.217</td>
+   <td>1.141.088</td>
+   <td>677</td>
+   <td>443.570</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>373.568</td>
+   <td>393.279</td>
+   <td>450.268.857</td>
+   <td>73.977</td>
+   <td>9.374.467</td>
+   <td>20.712</td>
+   <td>4.815.206</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>252.292</td>
+   <td>259.173</td>
+   <td>310.434.650</td>
+   <td>42.190</td>
+   <td>6.003.662</td>
+   <td>12.813</td>
+   <td>3.021.720</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>121.276</td>
+   <td>134.106</td>
+   <td>139.834.207</td>
+   <td>31.787</td>
+   <td>3.370.805</td>
+   <td>7.899</td>
+   <td>1.793.486</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoD">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO D, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR TIPO Y SEXO<br>(Al 30 de Junio de 2019)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>TIPO<br />Y<br />SEXO</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</td>
+   </tr>
+   </thead>
+   
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>DEPENDIENTES</td>
+   <td>137.806</td>
+   <td>132.936</td>
+   <td>80.757.966</td>
+   <td>21.626</td>
+   <td>2.012.362</td>
+   <td>4.808</td>
+   <td>1.467.587</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>77.533</td>
+   <td>76.825</td>
+   <td>51.017.028</td>
+   <td>11.554</td>
+   <td>1.237.828</td>
+   <td>2.764</td>
+   <td>1.102.550</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>60.273</td>
+   <td>56.111</td>
+   <td>29.740.938</td>
+   <td>10.072</td>
+   <td>774.534</td>
+   <td>2.044</td>
+   <td>365.037</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>INDEPENDIENTES</td>
+   <td>8.250</td>
+   <td>9.763</td>
+   <td>11.330.809</td>
+   <td>444</td>
+   <td>247.679</td>
+   <td>65</td>
+   <td>63.685</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>4.545</td>
+   <td>5.870</td>
+   <td>7.287.373</td>
+   <td>256</td>
+   <td>160.735</td>
+   <td>36</td>
+   <td>48.136</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>3.705</td>
+   <td>3.893</td>
+   <td>4.043.436</td>
+   <td>188</td>
+   <td>86.944</td>
+   <td>29</td>
+   <td>15.549</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>VOLUNTARIOS</td>
+   <td>77</td>
+   <td>155</td>
+   <td>1.599.562</td>
+   <td>19</td>
+   <td>4.367</td>
+   <td>3</td>
+   <td>2.278</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>30</td>
+   <td>40</td>
+   <td>275.346</td>
+   <td>8</td>
+   <td>2.618</td>
+   <td>3</td>
+   <td>2.278</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>47</td>
+   <td>115</td>
+   <td>1.324.216</td>
+   <td>11</td>
+   <td>1.749</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>ACTIVOS</td>
+   <td>146.133</td>
+   <td>142.854</td>
+   <td>93.688.338</td>
+   <td>22.089</td>
+   <td>2.264.408</td>
+   <td>4.876</td>
+   <td>1.533.550</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>82.108</td>
+   <td>82.735</td>
+   <td>58.579.747</td>
+   <td>11.818</td>
+   <td>1.401.181</td>
+   <td>2.803</td>
+   <td>1.152.964</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>64.025</td>
+   <td>60.119</td>
+   <td>35.108.591</td>
+   <td>10.271</td>
+   <td>863.227</td>
+   <td>2.073</td>
+   <td>380.586</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PASIVOS</td>
+   <td>158.697</td>
+   <td>97.089</td>
+   <td>81.030.853</td>
+   <td>5.994</td>
+   <td>1.455.139</td>
+   <td>1.758</td>
+   <td>577.842</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>90.771</td>
+   <td>58.402</td>
+   <td>56.887.322</td>
+   <td>3.444</td>
+   <td>1.012.934</td>
+   <td>1.066</td>
+   <td>406.646</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>67.926</td>
+   <td>38.687</td>
+   <td>24.143.531</td>
+   <td>2.550</td>
+   <td>442.205</td>
+   <td>692</td>
+   <td>171.196</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>304.830</td>
+   <td>239.943</td>
+   <td>174.719.191</td>
+   <td>28.083</td>
+   <td>3.719.547</td>
+   <td>6.634</td>
+   <td>2.111.392</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>172.879</td>
+   <td>141.137</td>
+   <td>115.467.069</td>
+   <td>15.262</td>
+   <td>2.414.115</td>
+   <td>3.869</td>
+   <td>1.559.609</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>131.951</td>
+   <td>98.806</td>
+   <td>59.252.122</td>
+   <td>12.821</td>
+   <td>1.305.432</td>
+   <td>2.765</td>
+   <td>551.783</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoE">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO E, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR TIPO Y SEXO<br>(Al 30 de Junio de 2019)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>TIPO<br />Y<br />SEXO</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</td>
+   </tr>
+   </thead>
+   
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>DEPENDIENTES</td>
+   <td>108.987</td>
+   <td>161.832</td>
+   <td>202.278.399</td>
+   <td>57.891</td>
+   <td>11.206.321</td>
+   <td>17.856</td>
+   <td>8.745.878</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>67.143</td>
+   <td>95.682</td>
+   <td>141.613.185</td>
+   <td>32.285</td>
+   <td>8.257.958</td>
+   <td>10.422</td>
+   <td>6.904.167</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>41.844</td>
+   <td>66.150</td>
+   <td>60.665.214</td>
+   <td>25.606</td>
+   <td>2.948.363</td>
+   <td>7.434</td>
+   <td>1.841.711</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>INDEPENDIENTES</td>
+   <td>3.380</td>
+   <td>7.066</td>
+   <td>27.782.952</td>
+   <td>825</td>
+   <td>1.069.327</td>
+   <td>211</td>
+   <td>679.530</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>1.988</td>
+   <td>3.993</td>
+   <td>17.107.704</td>
+   <td>492</td>
+   <td>791.355</td>
+   <td>132</td>
+   <td>367.489</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>1.392</td>
+   <td>3.073</td>
+   <td>10.675.248</td>
+   <td>333</td>
+   <td>277.972</td>
+   <td>79</td>
+   <td>312.041</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>VOLUNTARIOS</td>
+   <td>286</td>
+   <td>1.100</td>
+   <td>3.038.267</td>
+   <td>284</td>
+   <td>63.279</td>
+   <td>18</td>
+   <td>764.067</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>134</td>
+   <td>521</td>
+   <td>1.222.894</td>
+   <td>144</td>
+   <td>47.873</td>
+   <td>10</td>
+   <td>378.335</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>152</td>
+   <td>579</td>
+   <td>1.815.373</td>
+   <td>140</td>
+   <td>15.406</td>
+   <td>8</td>
+   <td>385.732</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>ACTIVOS</td>
+   <td>112.653</td>
+   <td>169.998</td>
+   <td>233.099.618</td>
+   <td>59.000</td>
+   <td>12.338.927</td>
+   <td>18.085</td>
+   <td>10.189.475</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>69.265</td>
+   <td>100.196</td>
+   <td>159.943.783</td>
+   <td>32.921</td>
+   <td>9.097.186</td>
+   <td>10.564</td>
+   <td>7.649.991</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>43.388</td>
+   <td>69.802</td>
+   <td>73.155.835</td>
+   <td>26.079</td>
+   <td>3.241.741</td>
+   <td>7.521</td>
+   <td>2.539.484</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PASIVOS</td>
+   <td>26.281</td>
+   <td>29.991</td>
+   <td>140.441.707</td>
+   <td>6.015</td>
+   <td>4.529.994</td>
+   <td>2.005</td>
+   <td>2.209.657</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>13.722</td>
+   <td>16.729</td>
+   <td>99.633.031</td>
+   <td>3.394</td>
+   <td>3.642.372</td>
+   <td>1.165</td>
+   <td>1.768.431</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>12.559</td>
+   <td>13.262</td>
+   <td>40.808.676</td>
+   <td>2.621</td>
+   <td>887.622</td>
+   <td>840</td>
+   <td>441.226</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>138.934</td>
+   <td>199.989</td>
+   <td>373.541.325</td>
+   <td>65.015</td>
+   <td>16.868.921</td>
+   <td>20.090</td>
+   <td>12.399.132</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>82.987</td>
+   <td>116.925</td>
+   <td>259.576.814</td>
+   <td>36.315</td>
+   <td>12.739.558</td>
+   <td>11.729</td>
+   <td>9.418.422</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>55.947</td>
+   <td>83.064</td>
+   <td>113.964.511</td>
+   <td>28.700</td>
+   <td>4.129.363</td>
+   <td>8.361</td>
+   <td>2.980.710</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   <br />
+   </div> 
+
+</div>          
+
+Informaci&oacute;n actualizada el 9 de Noviembre de 2020
+
+<br>
+
+

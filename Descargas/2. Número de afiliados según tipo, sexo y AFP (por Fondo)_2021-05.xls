@@ -1,0 +1,2295 @@
+
+<div class="tab-content">  <!-- AGREGAR FUERA DE FOREACH, ESTA ES EL DIV QUE DEFINE EN DONDE ESTARAN LOS TABS-->
+    <div role="tabpanel" class="tab-pane " id="fondoA"> <!-- AGREGAR DENTRO DE FOREACH, ESTO DEFINE DONDE COMIENZA UN TAB PANEL, EL ID DEBE EXISTIR COMO HREF EN LOS TABS -->
+
+<!--    <a name="fondoA">ANCLA</a>     --> <!-- ESTA ANCLA SE DEBE ELIMINAR YA QUE NO ES NECESARIA NI FUNCIONAL PARA LA INTERFAZ -->
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE AFILIADOS EN EL FONDO TIPO A SEG&Uacute;N SEXO Y A.F.P. (Al 31 de Mayo de 2021)</strong></h4>
+         <table border='1'>
+   
+
+         <tr>
+   <td class='alignLeft' nowrap></td>
+         <th class='alignRight'>CAPITAL</th>
+      <th class='alignRight'>CUPRUM</th>
+      <th class='alignRight'>HABITAT</th>
+      <th class='alignRight'>MODELO</th>
+      <th class='alignRight'>PLANVITAL</th>
+      <th class='alignRight'>PROVIDA</th>
+               <th class='alignRight'>UNO</th>
+            <th>TOTAL</th>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS QUE OPTAN</td>
+         <td class='alignRight'>285.825</td>
+      <td class='alignRight'>162.948</td>
+      <td class='alignRight'>305.536</td>
+      <td class='alignRight'>146.239</td>
+      <td class='alignRight'>81.117</td>
+      <td class='alignRight'>370.348</td>
+               <td class='alignRight'>34.516</td>
+            <td class='alignRight'>1.386.529</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>268.897</td>
+      <td class='alignRight'>152.755</td>
+      <td class='alignRight'>286.417</td>
+      <td class='alignRight'>137.455</td>
+      <td class='alignRight'>74.941</td>
+      <td class='alignRight'>363.784</td>
+               <td class='alignRight'>31.377</td>
+            <td class='alignRight'>1.315.626</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>158.352</td>
+      <td class='alignRight'>100.989</td>
+      <td class='alignRight'>161.846</td>
+      <td class='alignRight'>78.155</td>
+      <td class='alignRight'>44.650</td>
+      <td class='alignRight'>216.812</td>
+               <td class='alignRight'>20.397</td>
+            <td class='alignRight'>781.201</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>110.545</td>
+      <td class='alignRight'>51.766</td>
+      <td class='alignRight'>124.571</td>
+      <td class='alignRight'>59.300</td>
+      <td class='alignRight'>30.291</td>
+      <td class='alignRight'>146.972</td>
+               <td class='alignRight'>10.978</td>
+            <td class='alignRight'>534.423</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>2</td>
+            <td class='alignRight'>2</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>16.737</td>
+      <td class='alignRight'>10.053</td>
+      <td class='alignRight'>18.433</td>
+      <td class='alignRight'>6.806</td>
+      <td class='alignRight'>4.713</td>
+      <td class='alignRight'>6.522</td>
+               <td class='alignRight'>1.346</td>
+            <td class='alignRight'>64.610</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>9.120</td>
+      <td class='alignRight'>5.906</td>
+      <td class='alignRight'>9.615</td>
+      <td class='alignRight'>3.409</td>
+      <td class='alignRight'>2.508</td>
+      <td class='alignRight'>3.634</td>
+               <td class='alignRight'>740</td>
+            <td class='alignRight'>34.932</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>7.617</td>
+      <td class='alignRight'>4.147</td>
+      <td class='alignRight'>8.818</td>
+      <td class='alignRight'>3.397</td>
+      <td class='alignRight'>2.205</td>
+      <td class='alignRight'>2.888</td>
+               <td class='alignRight'>606</td>
+            <td class='alignRight'>29.678</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>191</td>
+      <td class='alignRight'>140</td>
+      <td class='alignRight'>686</td>
+      <td class='alignRight'>1.978</td>
+      <td class='alignRight'>1.463</td>
+      <td class='alignRight'>42</td>
+               <td class='alignRight'>1.793</td>
+            <td class='alignRight'>6.293</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>82</td>
+      <td class='alignRight'>59</td>
+      <td class='alignRight'>284</td>
+      <td class='alignRight'>1.014</td>
+      <td class='alignRight'>732</td>
+      <td class='alignRight'>14</td>
+               <td class='alignRight'>989</td>
+            <td class='alignRight'>3.174</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>109</td>
+      <td class='alignRight'>81</td>
+      <td class='alignRight'>402</td>
+      <td class='alignRight'>964</td>
+      <td class='alignRight'>731</td>
+      <td class='alignRight'>28</td>
+               <td class='alignRight'>804</td>
+            <td class='alignRight'>3.119</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS ASIGNADOS</td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL </td>
+         <td class='alignRight'>285.825</td>
+      <td class='alignRight'>162.948</td>
+      <td class='alignRight'>305.536</td>
+      <td class='alignRight'>146.239</td>
+      <td class='alignRight'>81.117</td>
+      <td class='alignRight'>370.348</td>
+               <td class='alignRight'>34.516</td>
+            <td class='alignRight'>1.386.529</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>268.897</td>
+      <td class='alignRight'>152.755</td>
+      <td class='alignRight'>286.417</td>
+      <td class='alignRight'>137.455</td>
+      <td class='alignRight'>74.941</td>
+      <td class='alignRight'>363.784</td>
+               <td class='alignRight'>31.377</td>
+            <td class='alignRight'>1.315.626</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>158.352</td>
+      <td class='alignRight'>100.989</td>
+      <td class='alignRight'>161.846</td>
+      <td class='alignRight'>78.155</td>
+      <td class='alignRight'>44.650</td>
+      <td class='alignRight'>216.812</td>
+               <td class='alignRight'>20.397</td>
+            <td class='alignRight'>781.201</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>110.545</td>
+      <td class='alignRight'>51.766</td>
+      <td class='alignRight'>124.571</td>
+      <td class='alignRight'>59.300</td>
+      <td class='alignRight'>30.291</td>
+      <td class='alignRight'>146.972</td>
+               <td class='alignRight'>10.978</td>
+            <td class='alignRight'>534.423</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>2</td>
+            <td class='alignRight'>2</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>16.737</td>
+      <td class='alignRight'>10.053</td>
+      <td class='alignRight'>18.433</td>
+      <td class='alignRight'>6.806</td>
+      <td class='alignRight'>4.713</td>
+      <td class='alignRight'>6.522</td>
+               <td class='alignRight'>1.346</td>
+            <td class='alignRight'>64.610</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>9.120</td>
+      <td class='alignRight'>5.906</td>
+      <td class='alignRight'>9.615</td>
+      <td class='alignRight'>3.409</td>
+      <td class='alignRight'>2.508</td>
+      <td class='alignRight'>3.634</td>
+               <td class='alignRight'>740</td>
+            <td class='alignRight'>34.932</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>7.617</td>
+      <td class='alignRight'>4.147</td>
+      <td class='alignRight'>8.818</td>
+      <td class='alignRight'>3.397</td>
+      <td class='alignRight'>2.205</td>
+      <td class='alignRight'>2.888</td>
+               <td class='alignRight'>606</td>
+            <td class='alignRight'>29.678</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>191</td>
+      <td class='alignRight'>140</td>
+      <td class='alignRight'>686</td>
+      <td class='alignRight'>1.978</td>
+      <td class='alignRight'>1.463</td>
+      <td class='alignRight'>42</td>
+               <td class='alignRight'>1.793</td>
+            <td class='alignRight'>6.293</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>82</td>
+      <td class='alignRight'>59</td>
+      <td class='alignRight'>284</td>
+      <td class='alignRight'>1.014</td>
+      <td class='alignRight'>732</td>
+      <td class='alignRight'>14</td>
+               <td class='alignRight'>989</td>
+            <td class='alignRight'>3.174</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>109</td>
+      <td class='alignRight'>81</td>
+      <td class='alignRight'>402</td>
+      <td class='alignRight'>964</td>
+      <td class='alignRight'>731</td>
+      <td class='alignRight'>28</td>
+               <td class='alignRight'>804</td>
+            <td class='alignRight'>3.119</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Un afiliado podr&iacute;a distribuir su saldo a lo mas en dos fondos.</li>
+   </ul>
+   <br />
+</div> 
+    <div role="tabpanel" class="tab-pane " id="fondoB"> <!-- AGREGAR DENTRO DE FOREACH, ESTO DEFINE DONDE COMIENZA UN TAB PANEL, EL ID DEBE EXISTIR COMO HREF EN LOS TABS -->
+
+<!--    <a name="fondoB">ANCLA</a>     --> <!-- ESTA ANCLA SE DEBE ELIMINAR YA QUE NO ES NECESARIA NI FUNCIONAL PARA LA INTERFAZ -->
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE AFILIADOS EN EL FONDO TIPO B SEG&Uacute;N SEXO Y A.F.P. (Al 31 de Mayo de 2021)</strong></h4>
+         <table border='1'>
+   
+
+         <tr>
+   <td class='alignLeft' nowrap></td>
+         <th class='alignRight'>CAPITAL</th>
+      <th class='alignRight'>CUPRUM</th>
+      <th class='alignRight'>HABITAT</th>
+      <th class='alignRight'>MODELO</th>
+      <th class='alignRight'>PLANVITAL</th>
+      <th class='alignRight'>PROVIDA</th>
+               <th class='alignRight'>UNO</th>
+            <th>TOTAL</th>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS QUE OPTAN</td>
+         <td class='alignRight'>231.052</td>
+      <td class='alignRight'>90.657</td>
+      <td class='alignRight'>209.186</td>
+      <td class='alignRight'>433.881</td>
+      <td class='alignRight'>188.202</td>
+      <td class='alignRight'>688.352</td>
+               <td class='alignRight'>103.480</td>
+            <td class='alignRight'>1.944.810</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>215.915</td>
+      <td class='alignRight'>84.432</td>
+      <td class='alignRight'>195.828</td>
+      <td class='alignRight'>419.723</td>
+      <td class='alignRight'>167.894</td>
+      <td class='alignRight'>673.221</td>
+               <td class='alignRight'>102.311</td>
+            <td class='alignRight'>1.859.324</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>112.040</td>
+      <td class='alignRight'>48.643</td>
+      <td class='alignRight'>94.018</td>
+      <td class='alignRight'>213.580</td>
+      <td class='alignRight'>95.699</td>
+      <td class='alignRight'>370.205</td>
+               <td class='alignRight'>56.396</td>
+            <td class='alignRight'>990.581</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>103.875</td>
+      <td class='alignRight'>35.789</td>
+      <td class='alignRight'>101.810</td>
+      <td class='alignRight'>206.143</td>
+      <td class='alignRight'>72.195</td>
+      <td class='alignRight'>303.016</td>
+               <td class='alignRight'>45.915</td>
+            <td class='alignRight'>868.743</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>15.063</td>
+      <td class='alignRight'>6.121</td>
+      <td class='alignRight'>13.189</td>
+      <td class='alignRight'>13.312</td>
+      <td class='alignRight'>20.095</td>
+      <td class='alignRight'>15.111</td>
+               <td class='alignRight'>1.130</td>
+            <td class='alignRight'>84.021</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>7.502</td>
+      <td class='alignRight'>3.286</td>
+      <td class='alignRight'>6.148</td>
+      <td class='alignRight'>5.636</td>
+      <td class='alignRight'>9.431</td>
+      <td class='alignRight'>7.187</td>
+               <td class='alignRight'>503</td>
+            <td class='alignRight'>39.693</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>7.561</td>
+      <td class='alignRight'>2.835</td>
+      <td class='alignRight'>7.041</td>
+      <td class='alignRight'>7.676</td>
+      <td class='alignRight'>10.664</td>
+      <td class='alignRight'>7.924</td>
+               <td class='alignRight'>627</td>
+            <td class='alignRight'>44.328</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>74</td>
+      <td class='alignRight'>104</td>
+      <td class='alignRight'>169</td>
+      <td class='alignRight'>846</td>
+      <td class='alignRight'>213</td>
+      <td class='alignRight'>20</td>
+               <td class='alignRight'>39</td>
+            <td class='alignRight'>1.465</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>23</td>
+      <td class='alignRight'>39</td>
+      <td class='alignRight'>56</td>
+      <td class='alignRight'>363</td>
+      <td class='alignRight'>87</td>
+      <td class='alignRight'>8</td>
+               <td class='alignRight'>8</td>
+            <td class='alignRight'>584</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>51</td>
+      <td class='alignRight'>65</td>
+      <td class='alignRight'>113</td>
+      <td class='alignRight'>483</td>
+      <td class='alignRight'>126</td>
+      <td class='alignRight'>12</td>
+               <td class='alignRight'>31</td>
+            <td class='alignRight'>881</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS ASIGNADOS</td>
+         <td class='alignRight'>146.279</td>
+      <td class='alignRight'>28.565</td>
+      <td class='alignRight'>253.918</td>
+      <td class='alignRight'>909.661</td>
+      <td class='alignRight'>919.651</td>
+      <td class='alignRight'>69.624</td>
+               <td class='alignRight'>248.688</td>
+            <td class='alignRight'>2.576.386</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>135.785</td>
+      <td class='alignRight'>26.014</td>
+      <td class='alignRight'>238.385</td>
+      <td class='alignRight'>853.623</td>
+      <td class='alignRight'>876.755</td>
+      <td class='alignRight'>69.152</td>
+               <td class='alignRight'>244.459</td>
+            <td class='alignRight'>2.444.173</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>64.177</td>
+      <td class='alignRight'>15.023</td>
+      <td class='alignRight'>130.137</td>
+      <td class='alignRight'>425.727</td>
+      <td class='alignRight'>456.956</td>
+      <td class='alignRight'>44.972</td>
+               <td class='alignRight'>129.693</td>
+            <td class='alignRight'>1.266.685</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>71.608</td>
+      <td class='alignRight'>10.991</td>
+      <td class='alignRight'>108.248</td>
+      <td class='alignRight'>427.896</td>
+      <td class='alignRight'>419.799</td>
+      <td class='alignRight'>24.180</td>
+               <td class='alignRight'>114.765</td>
+            <td class='alignRight'>1.177.487</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>1</td>
+            <td class='alignRight'>1</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>10.473</td>
+      <td class='alignRight'>2.540</td>
+      <td class='alignRight'>15.319</td>
+      <td class='alignRight'>55.098</td>
+      <td class='alignRight'>41.936</td>
+      <td class='alignRight'>456</td>
+               <td class='alignRight'>1.830</td>
+            <td class='alignRight'>127.652</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>4.717</td>
+      <td class='alignRight'>1.367</td>
+      <td class='alignRight'>7.374</td>
+      <td class='alignRight'>24.052</td>
+      <td class='alignRight'>19.133</td>
+      <td class='alignRight'>321</td>
+               <td class='alignRight'>915</td>
+            <td class='alignRight'>57.879</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>5.756</td>
+      <td class='alignRight'>1.173</td>
+      <td class='alignRight'>7.945</td>
+      <td class='alignRight'>31.046</td>
+      <td class='alignRight'>22.803</td>
+      <td class='alignRight'>135</td>
+               <td class='alignRight'>915</td>
+            <td class='alignRight'>69.773</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>21</td>
+      <td class='alignRight'>11</td>
+      <td class='alignRight'>214</td>
+      <td class='alignRight'>940</td>
+      <td class='alignRight'>960</td>
+      <td class='alignRight'>16</td>
+               <td class='alignRight'>2.399</td>
+            <td class='alignRight'>4.561</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>3</td>
+      <td class='alignRight'>2</td>
+      <td class='alignRight'>45</td>
+      <td class='alignRight'>401</td>
+      <td class='alignRight'>420</td>
+      <td class='alignRight'>4</td>
+               <td class='alignRight'>1.190</td>
+            <td class='alignRight'>2.065</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>18</td>
+      <td class='alignRight'>9</td>
+      <td class='alignRight'>169</td>
+      <td class='alignRight'>539</td>
+      <td class='alignRight'>540</td>
+      <td class='alignRight'>12</td>
+               <td class='alignRight'>1.209</td>
+            <td class='alignRight'>2.496</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL </td>
+         <td class='alignRight'>377.331</td>
+      <td class='alignRight'>119.222</td>
+      <td class='alignRight'>463.104</td>
+      <td class='alignRight'>1.343.542</td>
+      <td class='alignRight'>1.107.853</td>
+      <td class='alignRight'>757.976</td>
+               <td class='alignRight'>352.168</td>
+            <td class='alignRight'>4.521.196</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>351.700</td>
+      <td class='alignRight'>110.446</td>
+      <td class='alignRight'>434.213</td>
+      <td class='alignRight'>1.273.346</td>
+      <td class='alignRight'>1.044.649</td>
+      <td class='alignRight'>742.373</td>
+               <td class='alignRight'>346.770</td>
+            <td class='alignRight'>4.303.497</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>176.217</td>
+      <td class='alignRight'>63.666</td>
+      <td class='alignRight'>224.155</td>
+      <td class='alignRight'>639.307</td>
+      <td class='alignRight'>552.655</td>
+      <td class='alignRight'>415.177</td>
+               <td class='alignRight'>186.089</td>
+            <td class='alignRight'>2.257.266</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>175.483</td>
+      <td class='alignRight'>46.780</td>
+      <td class='alignRight'>210.058</td>
+      <td class='alignRight'>634.039</td>
+      <td class='alignRight'>491.994</td>
+      <td class='alignRight'>327.196</td>
+               <td class='alignRight'>160.680</td>
+            <td class='alignRight'>2.046.230</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>1</td>
+            <td class='alignRight'>1</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>25.536</td>
+      <td class='alignRight'>8.661</td>
+      <td class='alignRight'>28.508</td>
+      <td class='alignRight'>68.410</td>
+      <td class='alignRight'>62.031</td>
+      <td class='alignRight'>15.567</td>
+               <td class='alignRight'>2.960</td>
+            <td class='alignRight'>211.673</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>12.219</td>
+      <td class='alignRight'>4.653</td>
+      <td class='alignRight'>13.522</td>
+      <td class='alignRight'>29.688</td>
+      <td class='alignRight'>28.564</td>
+      <td class='alignRight'>7.508</td>
+               <td class='alignRight'>1.418</td>
+            <td class='alignRight'>97.572</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>13.317</td>
+      <td class='alignRight'>4.008</td>
+      <td class='alignRight'>14.986</td>
+      <td class='alignRight'>38.722</td>
+      <td class='alignRight'>33.467</td>
+      <td class='alignRight'>8.059</td>
+               <td class='alignRight'>1.542</td>
+            <td class='alignRight'>114.101</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>95</td>
+      <td class='alignRight'>115</td>
+      <td class='alignRight'>383</td>
+      <td class='alignRight'>1.786</td>
+      <td class='alignRight'>1.173</td>
+      <td class='alignRight'>36</td>
+               <td class='alignRight'>2.438</td>
+            <td class='alignRight'>6.026</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>26</td>
+      <td class='alignRight'>41</td>
+      <td class='alignRight'>101</td>
+      <td class='alignRight'>764</td>
+      <td class='alignRight'>507</td>
+      <td class='alignRight'>12</td>
+               <td class='alignRight'>1.198</td>
+            <td class='alignRight'>2.649</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>69</td>
+      <td class='alignRight'>74</td>
+      <td class='alignRight'>282</td>
+      <td class='alignRight'>1.022</td>
+      <td class='alignRight'>666</td>
+      <td class='alignRight'>24</td>
+               <td class='alignRight'>1.240</td>
+            <td class='alignRight'>3.377</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Un afiliado podr&iacute;a distribuir su saldo a lo mas en dos fondos.</li>
+   </ul>
+   <br />
+</div> 
+    <div role="tabpanel" class="tab-pane " id="fondoC"> <!-- AGREGAR DENTRO DE FOREACH, ESTO DEFINE DONDE COMIENZA UN TAB PANEL, EL ID DEBE EXISTIR COMO HREF EN LOS TABS -->
+
+<!--    <a name="fondoC">ANCLA</a>     --> <!-- ESTA ANCLA SE DEBE ELIMINAR YA QUE NO ES NECESARIA NI FUNCIONAL PARA LA INTERFAZ -->
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE AFILIADOS EN EL FONDO TIPO C SEG&Uacute;N SEXO Y A.F.P. (Al 31 de Mayo de 2021)</strong></h4>
+         <table border='1'>
+   
+
+         <tr>
+   <td class='alignLeft' nowrap></td>
+         <th class='alignRight'>CAPITAL</th>
+      <th class='alignRight'>CUPRUM</th>
+      <th class='alignRight'>HABITAT</th>
+      <th class='alignRight'>MODELO</th>
+      <th class='alignRight'>PLANVITAL</th>
+      <th class='alignRight'>PROVIDA</th>
+               <th class='alignRight'>UNO</th>
+            <th>TOTAL</th>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS QUE OPTAN</td>
+         <td class='alignRight'>239.811</td>
+      <td class='alignRight'>143.895</td>
+      <td class='alignRight'>290.706</td>
+      <td class='alignRight'>246.560</td>
+      <td class='alignRight'>163.644</td>
+      <td class='alignRight'>494.117</td>
+               <td class='alignRight'>88.378</td>
+            <td class='alignRight'>1.667.111</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>229.281</td>
+      <td class='alignRight'>136.812</td>
+      <td class='alignRight'>275.747</td>
+      <td class='alignRight'>237.550</td>
+      <td class='alignRight'>154.121</td>
+      <td class='alignRight'>477.009</td>
+               <td class='alignRight'>87.396</td>
+            <td class='alignRight'>1.597.916</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>127.387</td>
+      <td class='alignRight'>81.680</td>
+      <td class='alignRight'>137.665</td>
+      <td class='alignRight'>105.446</td>
+      <td class='alignRight'>91.864</td>
+      <td class='alignRight'>264.203</td>
+               <td class='alignRight'>52.539</td>
+            <td class='alignRight'>860.784</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>101.894</td>
+      <td class='alignRight'>55.132</td>
+      <td class='alignRight'>138.082</td>
+      <td class='alignRight'>132.104</td>
+      <td class='alignRight'>62.257</td>
+      <td class='alignRight'>212.806</td>
+               <td class='alignRight'>34.854</td>
+            <td class='alignRight'>737.129</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>3</td>
+            <td class='alignRight'>3</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>10.423</td>
+      <td class='alignRight'>6.894</td>
+      <td class='alignRight'>14.629</td>
+      <td class='alignRight'>8.328</td>
+      <td class='alignRight'>9.310</td>
+      <td class='alignRight'>17.076</td>
+               <td class='alignRight'>942</td>
+            <td class='alignRight'>67.602</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>5.648</td>
+      <td class='alignRight'>3.932</td>
+      <td class='alignRight'>7.254</td>
+      <td class='alignRight'>3.527</td>
+      <td class='alignRight'>4.700</td>
+      <td class='alignRight'>8.182</td>
+               <td class='alignRight'>445</td>
+            <td class='alignRight'>33.688</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>4.775</td>
+      <td class='alignRight'>2.962</td>
+      <td class='alignRight'>7.375</td>
+      <td class='alignRight'>4.801</td>
+      <td class='alignRight'>4.610</td>
+      <td class='alignRight'>8.894</td>
+               <td class='alignRight'>497</td>
+            <td class='alignRight'>33.914</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>107</td>
+      <td class='alignRight'>189</td>
+      <td class='alignRight'>330</td>
+      <td class='alignRight'>682</td>
+      <td class='alignRight'>213</td>
+      <td class='alignRight'>32</td>
+               <td class='alignRight'>40</td>
+            <td class='alignRight'>1.593</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>51</td>
+      <td class='alignRight'>46</td>
+      <td class='alignRight'>87</td>
+      <td class='alignRight'>274</td>
+      <td class='alignRight'>89</td>
+      <td class='alignRight'>15</td>
+               <td class='alignRight'>23</td>
+            <td class='alignRight'>585</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>56</td>
+      <td class='alignRight'>143</td>
+      <td class='alignRight'>243</td>
+      <td class='alignRight'>408</td>
+      <td class='alignRight'>124</td>
+      <td class='alignRight'>17</td>
+               <td class='alignRight'>17</td>
+            <td class='alignRight'>1.008</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS ASIGNADOS</td>
+         <td class='alignRight'>401.423</td>
+      <td class='alignRight'>85.089</td>
+      <td class='alignRight'>627.898</td>
+      <td class='alignRight'>142.774</td>
+      <td class='alignRight'>174.739</td>
+      <td class='alignRight'>754.002</td>
+               <td class='alignRight'>18.403</td>
+            <td class='alignRight'>2.204.328</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>370.636</td>
+      <td class='alignRight'>76.086</td>
+      <td class='alignRight'>580.665</td>
+      <td class='alignRight'>127.510</td>
+      <td class='alignRight'>167.540</td>
+      <td class='alignRight'>734.150</td>
+               <td class='alignRight'>16.228</td>
+            <td class='alignRight'>2.072.815</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>207.872</td>
+      <td class='alignRight'>44.595</td>
+      <td class='alignRight'>317.909</td>
+      <td class='alignRight'>52.513</td>
+      <td class='alignRight'>89.743</td>
+      <td class='alignRight'>466.645</td>
+               <td class='alignRight'>7.354</td>
+            <td class='alignRight'>1.186.631</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>162.764</td>
+      <td class='alignRight'>31.491</td>
+      <td class='alignRight'>262.756</td>
+      <td class='alignRight'>74.997</td>
+      <td class='alignRight'>77.797</td>
+      <td class='alignRight'>267.505</td>
+               <td class='alignRight'>8.873</td>
+            <td class='alignRight'>886.183</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>1</td>
+            <td class='alignRight'>1</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>30.712</td>
+      <td class='alignRight'>8.979</td>
+      <td class='alignRight'>46.706</td>
+      <td class='alignRight'>14.490</td>
+      <td class='alignRight'>6.804</td>
+      <td class='alignRight'>19.524</td>
+               <td class='alignRight'>688</td>
+            <td class='alignRight'>127.903</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>18.889</td>
+      <td class='alignRight'>5.119</td>
+      <td class='alignRight'>25.795</td>
+      <td class='alignRight'>6.377</td>
+      <td class='alignRight'>3.472</td>
+      <td class='alignRight'>14.472</td>
+               <td class='alignRight'>333</td>
+            <td class='alignRight'>74.457</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>11.823</td>
+      <td class='alignRight'>3.860</td>
+      <td class='alignRight'>20.911</td>
+      <td class='alignRight'>8.113</td>
+      <td class='alignRight'>3.332</td>
+      <td class='alignRight'>5.052</td>
+               <td class='alignRight'>355</td>
+            <td class='alignRight'>53.446</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>75</td>
+      <td class='alignRight'>24</td>
+      <td class='alignRight'>527</td>
+      <td class='alignRight'>774</td>
+      <td class='alignRight'>395</td>
+      <td class='alignRight'>328</td>
+               <td class='alignRight'>1.487</td>
+            <td class='alignRight'>3.610</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>13</td>
+      <td class='alignRight'>8</td>
+      <td class='alignRight'>128</td>
+      <td class='alignRight'>207</td>
+      <td class='alignRight'>166</td>
+      <td class='alignRight'>15</td>
+               <td class='alignRight'>714</td>
+            <td class='alignRight'>1.251</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>62</td>
+      <td class='alignRight'>16</td>
+      <td class='alignRight'>399</td>
+      <td class='alignRight'>567</td>
+      <td class='alignRight'>229</td>
+      <td class='alignRight'>313</td>
+               <td class='alignRight'>773</td>
+            <td class='alignRight'>2.359</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL </td>
+         <td class='alignRight'>641.234</td>
+      <td class='alignRight'>228.984</td>
+      <td class='alignRight'>918.604</td>
+      <td class='alignRight'>389.334</td>
+      <td class='alignRight'>338.383</td>
+      <td class='alignRight'>1.248.119</td>
+               <td class='alignRight'>106.781</td>
+            <td class='alignRight'>3.871.439</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>599.917</td>
+      <td class='alignRight'>212.898</td>
+      <td class='alignRight'>856.412</td>
+      <td class='alignRight'>365.060</td>
+      <td class='alignRight'>321.661</td>
+      <td class='alignRight'>1.211.159</td>
+               <td class='alignRight'>103.624</td>
+            <td class='alignRight'>3.670.731</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>335.259</td>
+      <td class='alignRight'>126.275</td>
+      <td class='alignRight'>455.574</td>
+      <td class='alignRight'>157.959</td>
+      <td class='alignRight'>181.607</td>
+      <td class='alignRight'>730.848</td>
+               <td class='alignRight'>59.893</td>
+            <td class='alignRight'>2.047.415</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>264.658</td>
+      <td class='alignRight'>86.623</td>
+      <td class='alignRight'>400.838</td>
+      <td class='alignRight'>207.101</td>
+      <td class='alignRight'>140.054</td>
+      <td class='alignRight'>480.311</td>
+               <td class='alignRight'>43.727</td>
+            <td class='alignRight'>1.623.312</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>4</td>
+            <td class='alignRight'>4</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>41.135</td>
+      <td class='alignRight'>15.873</td>
+      <td class='alignRight'>61.335</td>
+      <td class='alignRight'>22.818</td>
+      <td class='alignRight'>16.114</td>
+      <td class='alignRight'>36.600</td>
+               <td class='alignRight'>1.630</td>
+            <td class='alignRight'>195.505</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>24.537</td>
+      <td class='alignRight'>9.051</td>
+      <td class='alignRight'>33.049</td>
+      <td class='alignRight'>9.904</td>
+      <td class='alignRight'>8.172</td>
+      <td class='alignRight'>22.654</td>
+               <td class='alignRight'>778</td>
+            <td class='alignRight'>108.145</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>16.598</td>
+      <td class='alignRight'>6.822</td>
+      <td class='alignRight'>28.286</td>
+      <td class='alignRight'>12.914</td>
+      <td class='alignRight'>7.942</td>
+      <td class='alignRight'>13.946</td>
+               <td class='alignRight'>852</td>
+            <td class='alignRight'>87.360</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>182</td>
+      <td class='alignRight'>213</td>
+      <td class='alignRight'>857</td>
+      <td class='alignRight'>1.456</td>
+      <td class='alignRight'>608</td>
+      <td class='alignRight'>360</td>
+               <td class='alignRight'>1.527</td>
+            <td class='alignRight'>5.203</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>64</td>
+      <td class='alignRight'>54</td>
+      <td class='alignRight'>215</td>
+      <td class='alignRight'>481</td>
+      <td class='alignRight'>255</td>
+      <td class='alignRight'>30</td>
+               <td class='alignRight'>737</td>
+            <td class='alignRight'>1.836</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>118</td>
+      <td class='alignRight'>159</td>
+      <td class='alignRight'>642</td>
+      <td class='alignRight'>975</td>
+      <td class='alignRight'>353</td>
+      <td class='alignRight'>330</td>
+               <td class='alignRight'>790</td>
+            <td class='alignRight'>3.367</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Un afiliado podr&iacute;a distribuir su saldo a lo mas en dos fondos.</li>
+   </ul>
+   <br />
+</div> 
+    <div role="tabpanel" class="tab-pane " id="fondoD"> <!-- AGREGAR DENTRO DE FOREACH, ESTO DEFINE DONDE COMIENZA UN TAB PANEL, EL ID DEBE EXISTIR COMO HREF EN LOS TABS -->
+
+<!--    <a name="fondoD">ANCLA</a>     --> <!-- ESTA ANCLA SE DEBE ELIMINAR YA QUE NO ES NECESARIA NI FUNCIONAL PARA LA INTERFAZ -->
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE AFILIADOS EN EL FONDO TIPO D SEG&Uacute;N SEXO Y A.F.P. (Al 31 de Mayo de 2021)</strong></h4>
+         <table border='1'>
+   
+
+         <tr>
+   <td class='alignLeft' nowrap></td>
+         <th class='alignRight'>CAPITAL</th>
+      <th class='alignRight'>CUPRUM</th>
+      <th class='alignRight'>HABITAT</th>
+      <th class='alignRight'>MODELO</th>
+      <th class='alignRight'>PLANVITAL</th>
+      <th class='alignRight'>PROVIDA</th>
+               <th class='alignRight'>UNO</th>
+            <th>TOTAL</th>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS QUE OPTAN</td>
+         <td class='alignRight'>47.639</td>
+      <td class='alignRight'>24.498</td>
+      <td class='alignRight'>40.241</td>
+      <td class='alignRight'>61.012</td>
+      <td class='alignRight'>77.875</td>
+      <td class='alignRight'>54.520</td>
+               <td class='alignRight'>13.150</td>
+            <td class='alignRight'>318.935</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>45.177</td>
+      <td class='alignRight'>23.024</td>
+      <td class='alignRight'>37.820</td>
+      <td class='alignRight'>58.198</td>
+      <td class='alignRight'>75.924</td>
+      <td class='alignRight'>52.078</td>
+               <td class='alignRight'>12.775</td>
+            <td class='alignRight'>304.996</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>23.971</td>
+      <td class='alignRight'>13.183</td>
+      <td class='alignRight'>18.736</td>
+      <td class='alignRight'>24.852</td>
+      <td class='alignRight'>37.106</td>
+      <td class='alignRight'>27.937</td>
+               <td class='alignRight'>6.024</td>
+            <td class='alignRight'>151.809</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>21.206</td>
+      <td class='alignRight'>9.841</td>
+      <td class='alignRight'>19.084</td>
+      <td class='alignRight'>33.346</td>
+      <td class='alignRight'>38.818</td>
+      <td class='alignRight'>24.141</td>
+               <td class='alignRight'>6.751</td>
+            <td class='alignRight'>153.187</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>2.442</td>
+      <td class='alignRight'>1.430</td>
+      <td class='alignRight'>2.323</td>
+      <td class='alignRight'>2.649</td>
+      <td class='alignRight'>1.808</td>
+      <td class='alignRight'>2.436</td>
+               <td class='alignRight'>365</td>
+            <td class='alignRight'>13.453</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>1.277</td>
+      <td class='alignRight'>823</td>
+      <td class='alignRight'>1.141</td>
+      <td class='alignRight'>1.076</td>
+      <td class='alignRight'>852</td>
+      <td class='alignRight'>949</td>
+               <td class='alignRight'>139</td>
+            <td class='alignRight'>6.257</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>1.165</td>
+      <td class='alignRight'>607</td>
+      <td class='alignRight'>1.182</td>
+      <td class='alignRight'>1.573</td>
+      <td class='alignRight'>956</td>
+      <td class='alignRight'>1.487</td>
+               <td class='alignRight'>226</td>
+            <td class='alignRight'>7.196</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>20</td>
+      <td class='alignRight'>44</td>
+      <td class='alignRight'>98</td>
+      <td class='alignRight'>165</td>
+      <td class='alignRight'>143</td>
+      <td class='alignRight'>6</td>
+               <td class='alignRight'>10</td>
+            <td class='alignRight'>486</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>8</td>
+      <td class='alignRight'>8</td>
+      <td class='alignRight'>8</td>
+      <td class='alignRight'>52</td>
+      <td class='alignRight'>47</td>
+      <td class='alignRight'>1</td>
+               <td class='alignRight'>6</td>
+            <td class='alignRight'>130</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>12</td>
+      <td class='alignRight'>36</td>
+      <td class='alignRight'>90</td>
+      <td class='alignRight'>113</td>
+      <td class='alignRight'>96</td>
+      <td class='alignRight'>5</td>
+               <td class='alignRight'>4</td>
+            <td class='alignRight'>356</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS ASIGNADOS</td>
+         <td class='alignRight'>278.617</td>
+      <td class='alignRight'>48.336</td>
+      <td class='alignRight'>259.201</td>
+      <td class='alignRight'>41.271</td>
+      <td class='alignRight'>43.074</td>
+      <td class='alignRight'>519.455</td>
+               <td class='alignRight'>6.622</td>
+            <td class='alignRight'>1.196.576</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>253.631</td>
+      <td class='alignRight'>43.257</td>
+      <td class='alignRight'>237.741</td>
+      <td class='alignRight'>36.322</td>
+      <td class='alignRight'>41.507</td>
+      <td class='alignRight'>489.185</td>
+               <td class='alignRight'>4.840</td>
+            <td class='alignRight'>1.106.483</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>105.858</td>
+      <td class='alignRight'>21.281</td>
+      <td class='alignRight'>98.473</td>
+      <td class='alignRight'>8.588</td>
+      <td class='alignRight'>13.882</td>
+      <td class='alignRight'>233.762</td>
+               <td class='alignRight'>1.116</td>
+            <td class='alignRight'>482.960</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>147.773</td>
+      <td class='alignRight'>21.976</td>
+      <td class='alignRight'>139.268</td>
+      <td class='alignRight'>27.734</td>
+      <td class='alignRight'>27.625</td>
+      <td class='alignRight'>255.423</td>
+               <td class='alignRight'>3.724</td>
+            <td class='alignRight'>623.523</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>24.915</td>
+      <td class='alignRight'>5.040</td>
+      <td class='alignRight'>20.949</td>
+      <td class='alignRight'>3.808</td>
+      <td class='alignRight'>1.196</td>
+      <td class='alignRight'>30.107</td>
+               <td class='alignRight'>714</td>
+            <td class='alignRight'>86.729</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>13.183</td>
+      <td class='alignRight'>2.614</td>
+      <td class='alignRight'>10.193</td>
+      <td class='alignRight'>928</td>
+      <td class='alignRight'>455</td>
+      <td class='alignRight'>17.801</td>
+               <td class='alignRight'>155</td>
+            <td class='alignRight'>45.329</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>11.732</td>
+      <td class='alignRight'>2.426</td>
+      <td class='alignRight'>10.756</td>
+      <td class='alignRight'>2.880</td>
+      <td class='alignRight'>741</td>
+      <td class='alignRight'>12.306</td>
+               <td class='alignRight'>559</td>
+            <td class='alignRight'>41.400</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>71</td>
+      <td class='alignRight'>39</td>
+      <td class='alignRight'>511</td>
+      <td class='alignRight'>1.141</td>
+      <td class='alignRight'>371</td>
+      <td class='alignRight'>163</td>
+               <td class='alignRight'>1.068</td>
+            <td class='alignRight'>3.364</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>13</td>
+      <td class='alignRight'>7</td>
+      <td class='alignRight'>48</td>
+      <td class='alignRight'>42</td>
+      <td class='alignRight'>55</td>
+      <td class='alignRight'>9</td>
+               <td class='alignRight'>230</td>
+            <td class='alignRight'>404</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>58</td>
+      <td class='alignRight'>32</td>
+      <td class='alignRight'>463</td>
+      <td class='alignRight'>1.099</td>
+      <td class='alignRight'>316</td>
+      <td class='alignRight'>154</td>
+               <td class='alignRight'>838</td>
+            <td class='alignRight'>2.960</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL </td>
+         <td class='alignRight'>326.256</td>
+      <td class='alignRight'>72.834</td>
+      <td class='alignRight'>299.442</td>
+      <td class='alignRight'>102.283</td>
+      <td class='alignRight'>120.949</td>
+      <td class='alignRight'>573.975</td>
+               <td class='alignRight'>19.772</td>
+            <td class='alignRight'>1.515.511</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>298.808</td>
+      <td class='alignRight'>66.281</td>
+      <td class='alignRight'>275.561</td>
+      <td class='alignRight'>94.520</td>
+      <td class='alignRight'>117.431</td>
+      <td class='alignRight'>541.263</td>
+               <td class='alignRight'>17.615</td>
+            <td class='alignRight'>1.411.479</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>129.829</td>
+      <td class='alignRight'>34.464</td>
+      <td class='alignRight'>117.209</td>
+      <td class='alignRight'>33.440</td>
+      <td class='alignRight'>50.988</td>
+      <td class='alignRight'>261.699</td>
+               <td class='alignRight'>7.140</td>
+            <td class='alignRight'>634.769</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>168.979</td>
+      <td class='alignRight'>31.817</td>
+      <td class='alignRight'>158.352</td>
+      <td class='alignRight'>61.080</td>
+      <td class='alignRight'>66.443</td>
+      <td class='alignRight'>279.564</td>
+               <td class='alignRight'>10.475</td>
+            <td class='alignRight'>776.710</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>27.357</td>
+      <td class='alignRight'>6.470</td>
+      <td class='alignRight'>23.272</td>
+      <td class='alignRight'>6.457</td>
+      <td class='alignRight'>3.004</td>
+      <td class='alignRight'>32.543</td>
+               <td class='alignRight'>1.079</td>
+            <td class='alignRight'>100.182</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>14.460</td>
+      <td class='alignRight'>3.437</td>
+      <td class='alignRight'>11.334</td>
+      <td class='alignRight'>2.004</td>
+      <td class='alignRight'>1.307</td>
+      <td class='alignRight'>18.750</td>
+               <td class='alignRight'>294</td>
+            <td class='alignRight'>51.586</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>12.897</td>
+      <td class='alignRight'>3.033</td>
+      <td class='alignRight'>11.938</td>
+      <td class='alignRight'>4.453</td>
+      <td class='alignRight'>1.697</td>
+      <td class='alignRight'>13.793</td>
+               <td class='alignRight'>785</td>
+            <td class='alignRight'>48.596</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>91</td>
+      <td class='alignRight'>83</td>
+      <td class='alignRight'>609</td>
+      <td class='alignRight'>1.306</td>
+      <td class='alignRight'>514</td>
+      <td class='alignRight'>169</td>
+               <td class='alignRight'>1.078</td>
+            <td class='alignRight'>3.850</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>21</td>
+      <td class='alignRight'>15</td>
+      <td class='alignRight'>56</td>
+      <td class='alignRight'>94</td>
+      <td class='alignRight'>102</td>
+      <td class='alignRight'>10</td>
+               <td class='alignRight'>236</td>
+            <td class='alignRight'>534</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>70</td>
+      <td class='alignRight'>68</td>
+      <td class='alignRight'>553</td>
+      <td class='alignRight'>1.212</td>
+      <td class='alignRight'>412</td>
+      <td class='alignRight'>159</td>
+               <td class='alignRight'>842</td>
+            <td class='alignRight'>3.316</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Un afiliado podr&iacute;a distribuir su saldo a lo mas en dos fondos.</li>
+   </ul>
+   <br />
+</div> 
+    <div role="tabpanel" class="tab-pane " id="fondoE"> <!-- AGREGAR DENTRO DE FOREACH, ESTO DEFINE DONDE COMIENZA UN TAB PANEL, EL ID DEBE EXISTIR COMO HREF EN LOS TABS -->
+
+<!--    <a name="fondoE">ANCLA</a>     --> <!-- ESTA ANCLA SE DEBE ELIMINAR YA QUE NO ES NECESARIA NI FUNCIONAL PARA LA INTERFAZ -->
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE AFILIADOS EN EL FONDO TIPO E SEG&Uacute;N SEXO Y A.F.P. (Al 31 de Mayo de 2021)</strong></h4>
+         <table border='1'>
+   
+
+         <tr>
+   <td class='alignLeft' nowrap></td>
+         <th class='alignRight'>CAPITAL</th>
+      <th class='alignRight'>CUPRUM</th>
+      <th class='alignRight'>HABITAT</th>
+      <th class='alignRight'>MODELO</th>
+      <th class='alignRight'>PLANVITAL</th>
+      <th class='alignRight'>PROVIDA</th>
+               <th class='alignRight'>UNO</th>
+            <th>TOTAL</th>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS QUE OPTAN</td>
+         <td class='alignRight'>273.323</td>
+      <td class='alignRight'>136.524</td>
+      <td class='alignRight'>267.817</td>
+      <td class='alignRight'>207.156</td>
+      <td class='alignRight'>91.740</td>
+      <td class='alignRight'>252.914</td>
+               <td class='alignRight'>60.904</td>
+            <td class='alignRight'>1.290.378</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>260.073</td>
+      <td class='alignRight'>129.861</td>
+      <td class='alignRight'>253.868</td>
+      <td class='alignRight'>196.129</td>
+      <td class='alignRight'>85.532</td>
+      <td class='alignRight'>245.704</td>
+               <td class='alignRight'>57.923</td>
+            <td class='alignRight'>1.229.090</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>145.025</td>
+      <td class='alignRight'>79.694</td>
+      <td class='alignRight'>131.701</td>
+      <td class='alignRight'>94.733</td>
+      <td class='alignRight'>44.853</td>
+      <td class='alignRight'>146.224</td>
+               <td class='alignRight'>35.417</td>
+            <td class='alignRight'>677.647</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>115.048</td>
+      <td class='alignRight'>50.167</td>
+      <td class='alignRight'>122.167</td>
+      <td class='alignRight'>101.396</td>
+      <td class='alignRight'>40.679</td>
+      <td class='alignRight'>99.480</td>
+               <td class='alignRight'>22.505</td>
+            <td class='alignRight'>551.442</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>1</td>
+            <td class='alignRight'>1</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>13.040</td>
+      <td class='alignRight'>6.511</td>
+      <td class='alignRight'>13.406</td>
+      <td class='alignRight'>7.726</td>
+      <td class='alignRight'>4.925</td>
+      <td class='alignRight'>6.983</td>
+               <td class='alignRight'>1.204</td>
+            <td class='alignRight'>53.795</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>7.183</td>
+      <td class='alignRight'>3.793</td>
+      <td class='alignRight'>6.808</td>
+      <td class='alignRight'>3.387</td>
+      <td class='alignRight'>2.374</td>
+      <td class='alignRight'>3.549</td>
+               <td class='alignRight'>580</td>
+            <td class='alignRight'>27.674</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>5.857</td>
+      <td class='alignRight'>2.718</td>
+      <td class='alignRight'>6.598</td>
+      <td class='alignRight'>4.339</td>
+      <td class='alignRight'>2.551</td>
+      <td class='alignRight'>3.434</td>
+               <td class='alignRight'>624</td>
+            <td class='alignRight'>26.121</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>210</td>
+      <td class='alignRight'>152</td>
+      <td class='alignRight'>543</td>
+      <td class='alignRight'>3.301</td>
+      <td class='alignRight'>1.283</td>
+      <td class='alignRight'>227</td>
+               <td class='alignRight'>1.777</td>
+            <td class='alignRight'>7.493</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>91</td>
+      <td class='alignRight'>68</td>
+      <td class='alignRight'>173</td>
+      <td class='alignRight'>1.136</td>
+      <td class='alignRight'>595</td>
+      <td class='alignRight'>22</td>
+               <td class='alignRight'>820</td>
+            <td class='alignRight'>2.905</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>119</td>
+      <td class='alignRight'>84</td>
+      <td class='alignRight'>370</td>
+      <td class='alignRight'>2.165</td>
+      <td class='alignRight'>688</td>
+      <td class='alignRight'>205</td>
+               <td class='alignRight'>957</td>
+            <td class='alignRight'>4.588</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>AFILIADOS ASIGNADOS</td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL </td>
+         <td class='alignRight'>273.323</td>
+      <td class='alignRight'>136.524</td>
+      <td class='alignRight'>267.817</td>
+      <td class='alignRight'>207.156</td>
+      <td class='alignRight'>91.740</td>
+      <td class='alignRight'>252.914</td>
+               <td class='alignRight'>60.904</td>
+            <td class='alignRight'>1.290.378</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- DEPENDIENTES </td>
+         <td class='alignRight'>260.073</td>
+      <td class='alignRight'>129.861</td>
+      <td class='alignRight'>253.868</td>
+      <td class='alignRight'>196.129</td>
+      <td class='alignRight'>85.532</td>
+      <td class='alignRight'>245.704</td>
+               <td class='alignRight'>57.923</td>
+            <td class='alignRight'>1.229.090</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>145.025</td>
+      <td class='alignRight'>79.694</td>
+      <td class='alignRight'>131.701</td>
+      <td class='alignRight'>94.733</td>
+      <td class='alignRight'>44.853</td>
+      <td class='alignRight'>146.224</td>
+               <td class='alignRight'>35.417</td>
+            <td class='alignRight'>677.647</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>115.048</td>
+      <td class='alignRight'>50.167</td>
+      <td class='alignRight'>122.167</td>
+      <td class='alignRight'>101.396</td>
+      <td class='alignRight'>40.679</td>
+      <td class='alignRight'>99.480</td>
+               <td class='alignRight'>22.505</td>
+            <td class='alignRight'>551.442</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>1</td>
+            <td class='alignRight'>1</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- INDEPENDIENTES </td>
+         <td class='alignRight'>13.040</td>
+      <td class='alignRight'>6.511</td>
+      <td class='alignRight'>13.406</td>
+      <td class='alignRight'>7.726</td>
+      <td class='alignRight'>4.925</td>
+      <td class='alignRight'>6.983</td>
+               <td class='alignRight'>1.204</td>
+            <td class='alignRight'>53.795</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>7.183</td>
+      <td class='alignRight'>3.793</td>
+      <td class='alignRight'>6.808</td>
+      <td class='alignRight'>3.387</td>
+      <td class='alignRight'>2.374</td>
+      <td class='alignRight'>3.549</td>
+               <td class='alignRight'>580</td>
+            <td class='alignRight'>27.674</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>5.857</td>
+      <td class='alignRight'>2.718</td>
+      <td class='alignRight'>6.598</td>
+      <td class='alignRight'>4.339</td>
+      <td class='alignRight'>2.551</td>
+      <td class='alignRight'>3.434</td>
+               <td class='alignRight'>624</td>
+            <td class='alignRight'>26.121</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>- VOLUNTARIOS </td>
+         <td class='alignRight'>210</td>
+      <td class='alignRight'>152</td>
+      <td class='alignRight'>543</td>
+      <td class='alignRight'>3.301</td>
+      <td class='alignRight'>1.283</td>
+      <td class='alignRight'>227</td>
+               <td class='alignRight'>1.777</td>
+            <td class='alignRight'>7.493</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Masculino </td>
+         <td class='alignRight'>91</td>
+      <td class='alignRight'>68</td>
+      <td class='alignRight'>173</td>
+      <td class='alignRight'>1.136</td>
+      <td class='alignRight'>595</td>
+      <td class='alignRight'>22</td>
+               <td class='alignRight'>820</td>
+            <td class='alignRight'>2.905</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- Femenino </td>
+         <td class='alignRight'>119</td>
+      <td class='alignRight'>84</td>
+      <td class='alignRight'>370</td>
+      <td class='alignRight'>2.165</td>
+      <td class='alignRight'>688</td>
+      <td class='alignRight'>205</td>
+               <td class='alignRight'>957</td>
+            <td class='alignRight'>4.588</td>
+      </tr>
+      <tr>
+   <td class='alignLeft' nowrap>-- S/I </td>
+         <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+               <td class='alignRight'>0</td>
+            <td class='alignRight'>0</td>
+      </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>(1) Un afiliado podr&iacute;a distribuir su saldo a lo mas en dos fondos.</li>
+   </ul>
+   <br />
+</div> 
+
+</div> 
+
+Informaci&oacute;n actualizada el 25 de Agosto de 2021
+
+<br>
+
+

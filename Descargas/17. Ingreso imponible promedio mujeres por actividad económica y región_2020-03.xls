@@ -1,0 +1,553 @@
+<div class="table-responsive">
+<h4>INGRESO IMPONIBLE PROMEDIO MUJERES POR ACTIVIDAD ECON&Oacute;MICA Y REGI&Oacute;N (1) (Al 31 de Marzo de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE">ACTIVIDAD ECON&Oacute;MICA</th>
+<th  colspan="17" class="TITUuno" >REGION</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+
+<tr  >
+<th  class="SUBTITUdos" >I</th>
+<th  class="SUBTITUdos" >II</th>
+<th  class="SUBTITUdos" >III</th>
+<th  class="SUBTITUdos" >IV</th>
+<th  class="SUBTITUdos" >V</th>
+<th  class="SUBTITUdos" >VI</th>
+<th  class="SUBTITUdos" >VII</th>
+<th  class="SUBTITUdos" >VIII</th>
+<th  class="SUBTITUdos" >IX</th>
+<th  class="SUBTITUdos" >X</th>
+<th  class="SUBTITUdos" >XI</th>
+<th  class="SUBTITUdos" >XII</th>
+<th  class="SUBTITUdos" >R. Metrop.</th>
+<th  class="SUBTITUdos" >XIV</th>
+<th  class="SUBTITUdos" >XV</th>
+<th  class="SUBTITUdos" >XVI</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft' class=ITEM>AGRICULTURA, GANADER&Iacute;A, SILVICULTURA Y PESCA</td>
+   
+   <td>721.920</td>
+   <td>934.884</td>
+   <td>516.734</td>
+   <td>415.833</td>
+   <td>441.655</td>
+   <td>405.817</td>
+   <td>365.390</td>
+   <td>546.915</td>
+   <td>321.828</td>
+   <td>585.161</td>
+   <td>675.738</td>
+   <td>669.422</td>
+   <td>507.983</td>
+   <td>366.329</td>
+   <td>458.333</td>
+   <td>297.206</td>
+   <td>347.599</td>
+   <td class='F1RESUL'>446.478</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>EXPLOTACI&Oacute;N DE MINAS Y CANTERAS</td>
+   
+   <td>1.800.908</td>
+   <td>1.904.277</td>
+   <td>1.711.175</td>
+   <td>1.511.008</td>
+   <td>1.446.335</td>
+   <td>1.676.162</td>
+   <td>1.205.682</td>
+   <td>1.380.989</td>
+   <td>1.109.743</td>
+   <td>961.311</td>
+   <td>1.523.665</td>
+   <td>1.981.080</td>
+   <td>1.772.934</td>
+   <td>770.864</td>
+   <td>1.426.554</td>
+   <td>1.136.218</td>
+   <td>1.451.564</td>
+   <td class='F1RESUL'>1.725.172</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>INDUSTRIA MANUFACTURERA</td>
+   
+   <td>719.850</td>
+   <td>933.717</td>
+   <td>831.837</td>
+   <td>647.981</td>
+   <td>663.945</td>
+   <td>630.989</td>
+   <td>541.934</td>
+   <td>719.228</td>
+   <td>574.938</td>
+   <td>673.286</td>
+   <td>508.743</td>
+   <td>733.846</td>
+   <td>917.926</td>
+   <td>658.319</td>
+   <td>604.849</td>
+   <td>536.463</td>
+   <td>578.248</td>
+   <td class='F1RESUL'>801.548</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO</td>
+   
+   <td>958.202</td>
+   <td>1.707.772</td>
+   <td>1.442.511</td>
+   <td>962.063</td>
+   <td>1.757.626</td>
+   <td>1.264.182</td>
+   <td>1.139.169</td>
+   <td>1.226.429</td>
+   <td>1.075.243</td>
+   <td>1.259.889</td>
+   <td>1.314.793</td>
+   <td>1.139.862</td>
+   <td>1.674.624</td>
+   <td>1.079.282</td>
+   <td>852.279</td>
+   <td>883.492</td>
+   <td>1.155.028</td>
+   <td class='F1RESUL'>1.531.402</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>SUMINISTRO DE AGUA, EVALUACI&Oacute;N DE AGUAS RESIDUALES Y GESTI&Oacute;N DE DESECHOS Y CONTAMINACI&Oacute;N</td>
+   
+   <td>614.095</td>
+   <td>1.430.449</td>
+   <td>875.695</td>
+   <td>892.246</td>
+   <td>809.470</td>
+   <td>685.499</td>
+   <td>543.896</td>
+   <td>1.053.586</td>
+   <td>684.881</td>
+   <td>742.991</td>
+   <td>798.822</td>
+   <td>899.852</td>
+   <td>678.941</td>
+   <td>610.759</td>
+   <td>551.704</td>
+   <td>476.674</td>
+   <td>492.612</td>
+   <td class='F1RESUL'>742.748</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>CONSTRUCCI&Oacute;N</td>
+   
+   <td>733.394</td>
+   <td>826.549</td>
+   <td>774.302</td>
+   <td>722.785</td>
+   <td>714.200</td>
+   <td>696.880</td>
+   <td>620.192</td>
+   <td>689.153</td>
+   <td>643.790</td>
+   <td>600.805</td>
+   <td>630.170</td>
+   <td>756.338</td>
+   <td>830.673</td>
+   <td>580.100</td>
+   <td>666.598</td>
+   <td>617.860</td>
+   <td>534.032</td>
+   <td class='F1RESUL'>757.570</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>COMERCIO AL POR MAYOR Y AL POR MENOR, REPARACI&Oacute;N DE VEH&Iacute;CULOS AUTOMOTORES Y MOTOCICLETAS</td>
+   
+   <td>574.028</td>
+   <td>710.152</td>
+   <td>566.916</td>
+   <td>564.917</td>
+   <td>564.950</td>
+   <td>543.795</td>
+   <td>495.312</td>
+   <td>573.552</td>
+   <td>513.606</td>
+   <td>569.946</td>
+   <td>524.940</td>
+   <td>592.056</td>
+   <td>778.600</td>
+   <td>540.364</td>
+   <td>494.050</td>
+   <td>493.299</td>
+   <td>508.897</td>
+   <td class='F1RESUL'>663.538</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>TRANSPORTE Y ALMACENAMIENTO</td>
+   
+   <td>715.015</td>
+   <td>880.636</td>
+   <td>666.360</td>
+   <td>599.388</td>
+   <td>746.757</td>
+   <td>497.360</td>
+   <td>438.348</td>
+   <td>701.803</td>
+   <td>515.506</td>
+   <td>659.158</td>
+   <td>554.477</td>
+   <td>697.518</td>
+   <td>936.347</td>
+   <td>536.889</td>
+   <td>585.649</td>
+   <td>495.054</td>
+   <td>552.564</td>
+   <td class='F1RESUL'>811.139</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE ALOJAMIENTO Y DE SERVICIO DE COMIDAS</td>
+   
+   <td>508.650</td>
+   <td>524.701</td>
+   <td>493.637</td>
+   <td>498.962</td>
+   <td>460.250</td>
+   <td>433.007</td>
+   <td>446.846</td>
+   <td>432.809</td>
+   <td>450.037</td>
+   <td>479.065</td>
+   <td>410.508</td>
+   <td>519.144</td>
+   <td>515.332</td>
+   <td>427.357</td>
+   <td>489.540</td>
+   <td>431.856</td>
+   <td>453.034</td>
+   <td class='F1RESUL'>487.838</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>INFORMACI&Oacute;N Y COMUNICACIONES</td>
+   
+   <td>641.398</td>
+   <td>760.741</td>
+   <td>685.211</td>
+   <td>639.320</td>
+   <td>762.669</td>
+   <td>692.534</td>
+   <td>615.964</td>
+   <td>741.493</td>
+   <td>689.557</td>
+   <td>691.915</td>
+   <td>748.468</td>
+   <td>681.854</td>
+   <td>1.118.467</td>
+   <td>1.071.823</td>
+   <td>618.926</td>
+   <td>665.172</td>
+   <td>856.576</td>
+   <td class='F1RESUL'>1.019.955</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES FINANCIERAS Y DE SEGUROS</td>
+   
+   <td>1.023.464</td>
+   <td>1.097.554</td>
+   <td>986.006</td>
+   <td>949.205</td>
+   <td>968.383</td>
+   <td>861.826</td>
+   <td>890.261</td>
+   <td>927.840</td>
+   <td>962.690</td>
+   <td>947.710</td>
+   <td>1.048.364</td>
+   <td>965.117</td>
+   <td>1.209.863</td>
+   <td>908.569</td>
+   <td>1.022.885</td>
+   <td>890.941</td>
+   <td>819.340</td>
+   <td class='F1RESUL'>1.110.433</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES INMOBILIARIAS</td>
+   
+   <td>721.360</td>
+   <td>754.937</td>
+   <td>634.282</td>
+   <td>861.300</td>
+   <td>826.811</td>
+   <td>790.216</td>
+   <td>711.755</td>
+   <td>870.920</td>
+   <td>737.858</td>
+   <td>693.847</td>
+   <td>682.578</td>
+   <td>919.090</td>
+   <td>1.070.920</td>
+   <td>600.384</td>
+   <td>740.458</td>
+   <td>528.247</td>
+   <td>881.481</td>
+   <td class='F1RESUL'>942.351</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES PROFESIONALES, CIENT&Iacute;FICAS Y T&Eacute;CNICAS</td>
+   
+   <td>753.110</td>
+   <td>845.486</td>
+   <td>663.064</td>
+   <td>694.130</td>
+   <td>722.599</td>
+   <td>717.527</td>
+   <td>636.120</td>
+   <td>724.551</td>
+   <td>624.200</td>
+   <td>669.571</td>
+   <td>626.137</td>
+   <td>732.037</td>
+   <td>1.056.282</td>
+   <td>592.452</td>
+   <td>634.330</td>
+   <td>589.650</td>
+   <td>674.711</td>
+   <td class='F1RESUL'>926.487</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE SERVICIOS ADMINISTRATIVOS Y DE APOYO</td>
+   
+   <td>558.426</td>
+   <td>653.001</td>
+   <td>608.089</td>
+   <td>536.161</td>
+   <td>510.674</td>
+   <td>525.742</td>
+   <td>443.303</td>
+   <td>496.113</td>
+   <td>430.346</td>
+   <td>517.680</td>
+   <td>441.474</td>
+   <td>668.015</td>
+   <td>635.319</td>
+   <td>468.180</td>
+   <td>425.229</td>
+   <td>435.486</td>
+   <td>462.105</td>
+   <td class='F1RESUL'>582.088</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ADMINISTRACI&Oacute;N P&Uacute;BLICA Y DEFENSA, PLANES DE SEGURIDAD SOCIAL DE AFILIACI&Oacute;N OBLIGATORIA</td>
+   
+   <td>1.029.669</td>
+   <td>1.069.234</td>
+   <td>1.014.054</td>
+   <td>975.245</td>
+   <td>1.007.799</td>
+   <td>945.620</td>
+   <td>983.096</td>
+   <td>943.602</td>
+   <td>1.027.906</td>
+   <td>1.040.222</td>
+   <td>1.048.861</td>
+   <td>1.181.321</td>
+   <td>1.208.320</td>
+   <td>1.026.418</td>
+   <td>1.045.979</td>
+   <td>967.672</td>
+   <td>770.163</td>
+   <td class='F1RESUL'>1.050.695</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ENSE&Ntilde;ANZA</td>
+   
+   <td>911.810</td>
+   <td>1.069.956</td>
+   <td>868.258</td>
+   <td>852.954</td>
+   <td>860.933</td>
+   <td>858.342</td>
+   <td>837.326</td>
+   <td>939.571</td>
+   <td>894.680</td>
+   <td>938.293</td>
+   <td>1.051.423</td>
+   <td>962.501</td>
+   <td>965.009</td>
+   <td>883.157</td>
+   <td>841.133</td>
+   <td>939.476</td>
+   <td>763.253</td>
+   <td class='F1RESUL'>928.499</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE ATENCI&Oacute;N DE LA SALUD HUMANA Y DE ASISTENCIA SOCIAL</td>
+   
+   <td>856.562</td>
+   <td>916.334</td>
+   <td>738.680</td>
+   <td>711.186</td>
+   <td>802.600</td>
+   <td>722.279</td>
+   <td>801.427</td>
+   <td>777.586</td>
+   <td>864.794</td>
+   <td>867.898</td>
+   <td>881.419</td>
+   <td>832.640</td>
+   <td>994.597</td>
+   <td>842.826</td>
+   <td>849.901</td>
+   <td>654.220</td>
+   <td>670.006</td>
+   <td class='F1RESUL'>904.283</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES ART&Iacute;STICAS, DE ENTRETENIMIENTO Y RECREATIVAS</td>
+   
+   <td>511.773</td>
+   <td>617.620</td>
+   <td>504.358</td>
+   <td>499.909</td>
+   <td>602.618</td>
+   <td>497.769</td>
+   <td>458.857</td>
+   <td>521.649</td>
+   <td>426.614</td>
+   <td>456.046</td>
+   <td>564.877</td>
+   <td>519.838</td>
+   <td>690.868</td>
+   <td>424.423</td>
+   <td>478.082</td>
+   <td>427.400</td>
+   <td>563.522</td>
+   <td class='F1RESUL'>611.202</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>OTRAS ACTIVIDADES DE SERVICIOS</td>
+   
+   <td>832.967</td>
+   <td>797.274</td>
+   <td>833.529</td>
+   <td>728.610</td>
+   <td>698.980</td>
+   <td>584.489</td>
+   <td>582.461</td>
+   <td>487.850</td>
+   <td>528.018</td>
+   <td>606.968</td>
+   <td>808.133</td>
+   <td>724.798</td>
+   <td>801.342</td>
+   <td>565.517</td>
+   <td>577.606</td>
+   <td>544.018</td>
+   <td>535.860</td>
+   <td class='F1RESUL'>723.458</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES, ACTIVIDADES NO DIFERENCIADAS DE LOS HOGARES</td>
+   
+   <td>298.486</td>
+   <td>310.444</td>
+   <td>281.856</td>
+   <td>281.017</td>
+   <td>281.610</td>
+   <td>283.231</td>
+   <td>276.966</td>
+   <td>298.009</td>
+   <td>310.564</td>
+   <td>310.917</td>
+   <td>300.302</td>
+   <td>307.616</td>
+   <td>383.672</td>
+   <td>319.383</td>
+   <td>254.886</td>
+   <td>284.987</td>
+   <td>293.499</td>
+   <td class='F1RESUL'>343.661</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE ORGANIZACIONES Y &Oacute;RGANOS EXTRATERRITORIALES</td>
+   
+   <td>1.270.930</td>
+   <td>1.469.443</td>
+   <td>1.250.305</td>
+   <td>1.353.550</td>
+   <td>1.131.802</td>
+   <td>1.264.174</td>
+   <td>1.310.300</td>
+   <td>1.353.012</td>
+   <td>1.351.505</td>
+   <td>1.334.869</td>
+   <td>1.255.778</td>
+   <td>1.308.699</td>
+   <td>1.455.819</td>
+   <td>1.254.270</td>
+   <td>1.430.120</td>
+   <td>1.312.164</td>
+   <td>722.840</td>
+   <td class='F1RESUL'>1.310.924</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' class=ITEM>SIN INFORMACI&Oacute;N</td>
+   
+   <td>563.311</td>
+   <td>597.499</td>
+   <td>563.685</td>
+   <td>515.433</td>
+   <td>559.484</td>
+   <td>527.415</td>
+   <td>513.700</td>
+   <td>555.259</td>
+   <td>571.107</td>
+   <td>537.858</td>
+   <td>516.986</td>
+   <td>619.441</td>
+   <td>728.785</td>
+   <td>569.078</td>
+   <td>537.348</td>
+   <td>538.138</td>
+   <td>526.108</td>
+   <td class='F1RESUL'>635.387</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft' class='F1TOTAL'>TOTAL</td>
+   
+   <td>741.974</td>
+   <td>846.454</td>
+   <td>771.319</td>
+   <td>697.268</td>
+   <td>702.838</td>
+   <td>632.759</td>
+   <td>634.675</td>
+   <td>720.429</td>
+   <td>689.421</td>
+   <td>712.633</td>
+   <td>776.616</td>
+   <td>749.255</td>
+   <td>868.731</td>
+   <td>693.009</td>
+   <td>695.103</td>
+   <td>657.121</td>
+   <td>555.439</td>
+   <td class='F1RESUL'>779.781</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al ingreso promedio de los afiliados mujeres que cotizaron en 202003, por remuneraciones devengadas en Febrero de 2020.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Octubre de 2020
+<br>
+
+

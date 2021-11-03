@@ -1,0 +1,355 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES POR REGI&Oacute;N Y EDAD (1) (Al 30 de Junio de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >EDAD (a&ntilde;os)</th>
+<th  colspan="17" class="TITUuno" >REGI&Oacute;N</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >I</th>
+<th  class="SUBTITUdos" >II</th>
+<th  class="SUBTITUdos" >III</th>
+<th  class="SUBTITUdos" >IV</th>
+<th  class="SUBTITUdos" >V</th>
+<th  class="SUBTITUdos" >VI</th>
+<th  class="SUBTITUdos" >VII</th>
+<th  class="SUBTITUdos" >VIII</th>
+<th  class="SUBTITUdos" >IX</th>
+<th  class="SUBTITUdos" >X</th>
+<th  class="SUBTITUdos" >XI</th>
+<th  class="SUBTITUdos" >XII</th>
+<th  class="SUBTITUdos">R. Metrop.</th>
+<th  class="SUBTITUdos" >XIV</th>
+<th  class="SUBTITUdos" >XV</th>
+<th  class="SUBTITUdos" >XVI</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft'>Hasta 20</td>
+   
+   <td>997</td>
+   <td>1.872</td>
+   <td>750</td>
+   <td>1.785</td>
+   <td>4.213</td>
+   <td>3.158</td>
+   <td>3.273</td>
+   <td>3.394</td>
+   <td>2.296</td>
+   <td>3.264</td>
+   <td>616</td>
+   <td>1.052</td>
+   <td>29.697</td>
+   <td>1.008</td>
+   <td>500</td>
+   <td>1.078</td>
+   <td>755</td>
+   <td class='F1RESUL'>59.708</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 20 hasta 25</td>
+   
+   <td>7.638</td>
+   <td>15.280</td>
+   <td>6.550</td>
+   <td>13.858</td>
+   <td>32.577</td>
+   <td>20.226</td>
+   <td>21.790</td>
+   <td>26.260</td>
+   <td>16.369</td>
+   <td>19.651</td>
+   <td>2.208</td>
+   <td>4.510</td>
+   <td>190.280</td>
+   <td>6.662</td>
+   <td>4.235</td>
+   <td>7.932</td>
+   <td>3.618</td>
+   <td class='F1RESUL'>399.644</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 25 hasta 30</td>
+   
+   <td>14.223</td>
+   <td>29.256</td>
+   <td>13.021</td>
+   <td>27.473</td>
+   <td>65.299</td>
+   <td>35.180</td>
+   <td>40.634</td>
+   <td>58.214</td>
+   <td>32.132</td>
+   <td>34.986</td>
+   <td>4.000</td>
+   <td>7.311</td>
+   <td>371.213</td>
+   <td>13.202</td>
+   <td>8.241</td>
+   <td>15.592</td>
+   <td>12.945</td>
+   <td class='F1RESUL'>782.922</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 30 hasta 35</td>
+   
+   <td>15.013</td>
+   <td>30.828</td>
+   <td>13.526</td>
+   <td>28.615</td>
+   <td>69.703</td>
+   <td>36.426</td>
+   <td>39.736</td>
+   <td>60.764</td>
+   <td>32.106</td>
+   <td>35.871</td>
+   <td>4.349</td>
+   <td>7.781</td>
+   <td>374.247</td>
+   <td>13.301</td>
+   <td>9.138</td>
+   <td>16.125</td>
+   <td>12.551</td>
+   <td class='F1RESUL'>800.080</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 35 hasta 40</td>
+   
+   <td>13.486</td>
+   <td>26.932</td>
+   <td>11.933</td>
+   <td>25.681</td>
+   <td>64.083</td>
+   <td>33.495</td>
+   <td>36.207</td>
+   <td>57.493</td>
+   <td>29.177</td>
+   <td>33.206</td>
+   <td>4.076</td>
+   <td>7.011</td>
+   <td>323.930</td>
+   <td>12.276</td>
+   <td>8.211</td>
+   <td>14.675</td>
+   <td>6.684</td>
+   <td class='F1RESUL'>708.556</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 40 hasta 45</td>
+   
+   <td>11.329</td>
+   <td>24.475</td>
+   <td>10.555</td>
+   <td>23.542</td>
+   <td>57.132</td>
+   <td>31.011</td>
+   <td>33.649</td>
+   <td>51.775</td>
+   <td>25.971</td>
+   <td>29.613</td>
+   <td>3.779</td>
+   <td>6.731</td>
+   <td>274.313</td>
+   <td>11.341</td>
+   <td>7.269</td>
+   <td>13.210</td>
+   <td>3.340</td>
+   <td class='F1RESUL'>619.035</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 45 hasta 50</td>
+   
+   <td>10.190</td>
+   <td>22.341</td>
+   <td>9.877</td>
+   <td>22.127</td>
+   <td>54.512</td>
+   <td>29.496</td>
+   <td>31.461</td>
+   <td>52.614</td>
+   <td>25.988</td>
+   <td>28.086</td>
+   <td>3.256</td>
+   <td>5.991</td>
+   <td>259.988</td>
+   <td>10.886</td>
+   <td>7.416</td>
+   <td>13.439</td>
+   <td>2.086</td>
+   <td class='F1RESUL'>589.754</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 50 hasta 55</td>
+   
+   <td>8.277</td>
+   <td>17.499</td>
+   <td>9.271</td>
+   <td>20.074</td>
+   <td>52.573</td>
+   <td>28.170</td>
+   <td>30.616</td>
+   <td>49.810</td>
+   <td>23.439</td>
+   <td>24.957</td>
+   <td>2.948</td>
+   <td>5.484</td>
+   <td>232.552</td>
+   <td>10.786</td>
+   <td>5.966</td>
+   <td>12.923</td>
+   <td>1.358</td>
+   <td class='F1RESUL'>536.703</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 55 hasta 60</td>
+   
+   <td>6.508</td>
+   <td>14.093</td>
+   <td>7.374</td>
+   <td>15.687</td>
+   <td>44.149</td>
+   <td>22.439</td>
+   <td>24.614</td>
+   <td>39.116</td>
+   <td>17.864</td>
+   <td>18.097</td>
+   <td>2.230</td>
+   <td>4.677</td>
+   <td>192.758</td>
+   <td>8.458</td>
+   <td>4.780</td>
+   <td>9.613</td>
+   <td>1.158</td>
+   <td class='F1RESUL'>433.615</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 60 hasta 65</td>
+   
+   <td>2.723</td>
+   <td>5.959</td>
+   <td>3.348</td>
+   <td>6.776</td>
+   <td>19.687</td>
+   <td>10.182</td>
+   <td>11.053</td>
+   <td>16.869</td>
+   <td>8.045</td>
+   <td>7.727</td>
+   <td>1.057</td>
+   <td>2.185</td>
+   <td>84.135</td>
+   <td>3.767</td>
+   <td>2.006</td>
+   <td>4.199</td>
+   <td>456</td>
+   <td class='F1RESUL'>190.174</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 65 hasta 70</td>
+   
+   <td>254</td>
+   <td>541</td>
+   <td>298</td>
+   <td>493</td>
+   <td>1.606</td>
+   <td>570</td>
+   <td>568</td>
+   <td>1.079</td>
+   <td>540</td>
+   <td>478</td>
+   <td>113</td>
+   <td>176</td>
+   <td>8.182</td>
+   <td>205</td>
+   <td>238</td>
+   <td>210</td>
+   <td>52</td>
+   <td class='F1RESUL'>15.603</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>+ de 70</td>
+   
+   <td>50</td>
+   <td>83</td>
+   <td>46</td>
+   <td>104</td>
+   <td>376</td>
+   <td>101</td>
+   <td>144</td>
+   <td>217</td>
+   <td>113</td>
+   <td>85</td>
+   <td>33</td>
+   <td>52</td>
+   <td>2.072</td>
+   <td>57</td>
+   <td>43</td>
+   <td>46</td>
+   <td>14</td>
+   <td class='F1RESUL'>3.636</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>S/I</td>
+   
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft'>TOTAL</td>
+   
+   <td>90.688</td>
+   <td>189.159</td>
+   <td>86.549</td>
+   <td>186.215</td>
+   <td>465.910</td>
+   <td>250.454</td>
+   <td>273.745</td>
+   <td>417.605</td>
+   <td>214.040</td>
+   <td>236.021</td>
+   <td>28.665</td>
+   <td>52.961</td>
+   <td>2.343.367</td>
+   <td>91.949</td>
+   <td>58.043</td>
+   <td>109.042</td>
+   <td>45.017</td>
+   <td class='F1RESUL'>5.139.430</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados que cotizaron en 202006, por remuneraciones devengadas en Mayo de 2020.</li>
+<li>S/I: Sin informaci&oacute;n.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Octubre de 2020
+<br>
+
+

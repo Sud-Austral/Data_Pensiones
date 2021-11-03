@@ -1,0 +1,271 @@
+
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE CUENTAS DE INDEMNIZACI&Oacute;N SEG&Uacute;N SALDO, TIPO Y SEXO (Al 31 de Diciembre de 2017)</h4>
+      <table border='1'>
+   
+<thead>
+<tr>
+<th rowspan="2" class="NOMBRE" nowrap="" >TIPO Y SEXO</th>
+<th colspan="14" class="TITUuno" >SALDO DE LA CUENTA DE INDEMNIZACI&Oacute;N (miles de pesos)</th>
+<th rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr>
+<th class="SUBTITUdos" nowrap="" >CERO</th>
+<th class="SUBTITUdos" nowrap="" >+ 0<BR  >- 5</th>
+<th class="SUBTITUdos" nowrap="" >+ 5<BR  >- 10</th>
+<th class="SUBTITUdos" nowrap="" >+ 10<BR  >- 20</th>
+<th class="SUBTITUdos" nowrap="" >+ 20<BR  >- 50</th>
+<th class="SUBTITUdos" nowrap="" >+ 50<BR  >- 100</th>
+<th class="SUBTITUdos" nowrap="" >+ 100<BR  >- 200</th>
+<th class="SUBTITUdos" nowrap="" >+ 200<BR  >- 500</th>
+<th class="SUBTITUdos" nowrap="" >+ 500<BR  >- 1000</th>
+<th class="SUBTITUdos" nowrap="" >+ 1000<BR  >- 2000</th>
+<th class="SUBTITUdos" nowrap="" >+ 2000<BR  >- 3000</th>
+<th class="SUBTITUdos" nowrap="" >+ 3000<BR  >- 4000</th>
+<th class="SUBTITUdos" nowrap="" >+ 4000<BR  >- 5000</th>
+<th class="SUBTITUdos" nowrap="" >+ 5000</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft' nowrap>SUSTITUTIVA</td>
+   
+   <td>43.762</td>
+   <td>5.081</td>
+   <td>7.639</td>
+   <td>17.646</td>
+   <td>19.223</td>
+   <td>12.541</td>
+   <td>10.761</td>
+   <td>11.969</td>
+   <td>6.554</td>
+   <td>1.731</td>
+   <td>178</td>
+   <td>67</td>
+   <td>21</td>
+   <td>64</td>
+   <td class='F1RESUL'>137.237</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>Masculino</td>
+   
+   <td>3.248</td>
+   <td>601</td>
+   <td>822</td>
+   <td>1.907</td>
+   <td>1.784</td>
+   <td>970</td>
+   <td>814</td>
+   <td>775</td>
+   <td>397</td>
+   <td>161</td>
+   <td>40</td>
+   <td>10</td>
+   <td>10</td>
+   <td>28</td>
+   <td class='F1RESUL'>11.567</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>Femenino</td>
+   
+   <td>40.514</td>
+   <td>4.480</td>
+   <td>6.817</td>
+   <td>15.739</td>
+   <td>17.439</td>
+   <td>11.571</td>
+   <td>9.947</td>
+   <td>11.194</td>
+   <td>6.157</td>
+   <td>1.570</td>
+   <td>138</td>
+   <td>57</td>
+   <td>11</td>
+   <td>36</td>
+   <td class='F1RESUL'>125.670</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>S/I</td>
+   
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>OBLIGATORIA</td>
+   
+   <td>269.343</td>
+   <td>50.307</td>
+   <td>51.963</td>
+   <td>135.178</td>
+   <td>155.301</td>
+   <td>101.962</td>
+   <td>82.931</td>
+   <td>82.626</td>
+   <td>40.394</td>
+   <td>23.995</td>
+   <td>5.685</td>
+   <td>2.298</td>
+   <td>712</td>
+   <td>713</td>
+   <td class='F1RESUL'>1.003.408</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>Masculino</td>
+   
+   <td>18.904</td>
+   <td>4.712</td>
+   <td>6.487</td>
+   <td>17.197</td>
+   <td>14.604</td>
+   <td>8.073</td>
+   <td>6.164</td>
+   <td>5.938</td>
+   <td>3.177</td>
+   <td>2.144</td>
+   <td>596</td>
+   <td>243</td>
+   <td>106</td>
+   <td>143</td>
+   <td class='F1RESUL'>88.488</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>Femenino</td>
+   
+   <td>250.439</td>
+   <td>45.595</td>
+   <td>45.476</td>
+   <td>117.981</td>
+   <td>140.697</td>
+   <td>93.889</td>
+   <td>76.767</td>
+   <td>76.688</td>
+   <td>37.217</td>
+   <td>21.851</td>
+   <td>5.089</td>
+   <td>2.055</td>
+   <td>606</td>
+   <td>570</td>
+   <td class='F1RESUL'>914.920</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>S/I</td>
+   
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   
+   <td>313.105</td>
+   <td>55.388</td>
+   <td>59.602</td>
+   <td>152.824</td>
+   <td>174.524</td>
+   <td>114.503</td>
+   <td>93.692</td>
+   <td>94.595</td>
+   <td>46.948</td>
+   <td>25.726</td>
+   <td>5.863</td>
+   <td>2.365</td>
+   <td>733</td>
+   <td>777</td>
+   <td class='F1RESUL'>1.140.645</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>Masculino</td>
+   
+   <td>22.152</td>
+   <td>5.313</td>
+   <td>7.309</td>
+   <td>19.104</td>
+   <td>16.388</td>
+   <td>9.043</td>
+   <td>6.978</td>
+   <td>6.713</td>
+   <td>3.574</td>
+   <td>2.305</td>
+   <td>636</td>
+   <td>253</td>
+   <td>116</td>
+   <td>171</td>
+   <td class='F1RESUL'>100.055</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>Femenino</td>
+   
+   <td>290.953</td>
+   <td>50.075</td>
+   <td>52.293</td>
+   <td>133.720</td>
+   <td>158.136</td>
+   <td>105.460</td>
+   <td>86.714</td>
+   <td>87.882</td>
+   <td>43.374</td>
+   <td>23.421</td>
+   <td>5.227</td>
+   <td>2.112</td>
+   <td>617</td>
+   <td>606</td>
+   <td class='F1RESUL'>1.040.590</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>S/I</td>
+   
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 12 de Febrero de 2018
+<br>
+
+

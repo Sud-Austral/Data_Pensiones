@@ -1,0 +1,287 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES HOMBRES POR ACTIVIDAD ECON&Oacute;MICA Y A.F.P. (1) (Al 31 de Diciembre de 2018)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >ACTIVIDAD ECON&Oacute;MICA</th>
+<th  colspan="6" class="TITUuno" >A.F.P.</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+
+      <tr>
+   <th class="TITUuno">CAPITAL</th>
+   <th class="TITUuno">CUPRUM</th>
+   <th class="TITUuno">HABITAT</th>
+   <th class="TITUuno">MODELO</th>
+   <th class="TITUuno">PLANVITAL</th>
+   <th class="TITUuno">PROVIDA</th>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>AGRICULTURA, GANADERIA, SILVICULTURA Y PESCA</td>
+      <td>40.853</td>
+   <td>5.493</td>
+   <td>33.336</td>
+   <td>25.862</td>
+   <td>45.865</td>
+   <td>81.179</td>
+   <td class="F1RESUL">232.588</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>EXPLOTACIÓN DE MINAS Y CANTERAS</td>
+      <td>11.418</td>
+   <td>15.854</td>
+   <td>9.657</td>
+   <td>11.533</td>
+   <td>2.438</td>
+   <td>10.372</td>
+   <td class="F1RESUL">61.272</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>INDUSTRIA MANUFACTURERA</td>
+      <td>47.574</td>
+   <td>19.884</td>
+   <td>64.305</td>
+   <td>59.217</td>
+   <td>27.497</td>
+   <td>134.735</td>
+   <td class="F1RESUL">353.212</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO</td>
+      <td>2.150</td>
+   <td>2.200</td>
+   <td>3.989</td>
+   <td>1.699</td>
+   <td>639</td>
+   <td>2.562</td>
+   <td class="F1RESUL">13.239</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>SUMINISTRO DE AGUA, EVALUACIÓN DE AGUAS RESIDUALES Y GESTIÓN DE DESECHOS Y CONTAMINACIÓN</td>
+      <td>3.119</td>
+   <td>1.645</td>
+   <td>4.307</td>
+   <td>2.978</td>
+   <td>2.429</td>
+   <td>6.837</td>
+   <td class="F1RESUL">21.315</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>CONSTRUCCIÓN</td>
+      <td>55.077</td>
+   <td>14.807</td>
+   <td>105.749</td>
+   <td>29.464</td>
+   <td>44.995</td>
+   <td>104.698</td>
+   <td class="F1RESUL">354.790</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>COMERCIO AL POR MAYOR Y AL POR MENOR, REPARACIÓN DE VEHICULOS AUTOMOTORES Y MOTOCICLETAS</td>
+      <td>56.107</td>
+   <td>24.422</td>
+   <td>71.714</td>
+   <td>71.261</td>
+   <td>50.020</td>
+   <td>84.674</td>
+   <td class="F1RESUL">358.198</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>TRANSPORTE Y ALMACENAMIENTO</td>
+      <td>36.551</td>
+   <td>9.483</td>
+   <td>44.897</td>
+   <td>22.557</td>
+   <td>15.334</td>
+   <td>55.777</td>
+   <td class="F1RESUL">184.599</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE ALOJAMIENTO Y DE SERVICIO DE COMIDAS</td>
+      <td>9.220</td>
+   <td>1.868</td>
+   <td>12.825</td>
+   <td>14.978</td>
+   <td>12.360</td>
+   <td>14.969</td>
+   <td class="F1RESUL">66.220</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>INFORMACIÓN Y COMUNICACIONES</td>
+      <td>8.764</td>
+   <td>5.702</td>
+   <td>16.468</td>
+   <td>36.830</td>
+   <td>5.413</td>
+   <td>6.874</td>
+   <td class="F1RESUL">80.051</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES FINANCIERAS Y DE SEGUROS</td>
+      <td>19.883</td>
+   <td>12.224</td>
+   <td>27.028</td>
+   <td>22.470</td>
+   <td>11.765</td>
+   <td>12.271</td>
+   <td class="F1RESUL">105.641</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES INMOBILIARIAS</td>
+      <td>2.644</td>
+   <td>1.342</td>
+   <td>4.903</td>
+   <td>14.310</td>
+   <td>2.164</td>
+   <td>5.911</td>
+   <td class="F1RESUL">31.274</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS</td>
+      <td>10.295</td>
+   <td>8.099</td>
+   <td>29.138</td>
+   <td>17.520</td>
+   <td>8.416</td>
+   <td>18.127</td>
+   <td class="F1RESUL">91.595</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE SERVICIOS ADMINISTRATIVOS Y DE APOYO</td>
+      <td>35.060</td>
+   <td>9.167</td>
+   <td>48.066</td>
+   <td>17.217</td>
+   <td>20.170</td>
+   <td>36.822</td>
+   <td class="F1RESUL">166.502</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ADMINISTRACIÓN PÚBLICA Y DEFENSA, PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA</td>
+      <td>25.501</td>
+   <td>14.968</td>
+   <td>32.485</td>
+   <td>3.097</td>
+   <td>11.126</td>
+   <td>22.204</td>
+   <td class="F1RESUL">109.381</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ENSEÑANZA</td>
+      <td>14.037</td>
+   <td>11.314</td>
+   <td>25.365</td>
+   <td>11.979</td>
+   <td>5.641</td>
+   <td>12.004</td>
+   <td class="F1RESUL">80.340</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA Y DE ASISTENCIA SOCIAL</td>
+      <td>13.278</td>
+   <td>8.374</td>
+   <td>15.703</td>
+   <td>8.261</td>
+   <td>5.287</td>
+   <td>15.083</td>
+   <td class="F1RESUL">65.986</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES ARTISTICAS, DE ENTRETENIMIENTO Y RECREATIVAS</td>
+      <td>2.042</td>
+   <td>838</td>
+   <td>3.467</td>
+   <td>2.023</td>
+   <td>1.613</td>
+   <td>3.269</td>
+   <td class="F1RESUL">13.252</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>OTRAS ACTIVIDADES DE SERVICIOS</td>
+      <td>23.385</td>
+   <td>31.268</td>
+   <td>22.876</td>
+   <td>5.203</td>
+   <td>34.578</td>
+   <td>291.113</td>
+   <td class="F1RESUL">408.423</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES, ACTIVIDADES NO DIFERENCIADAS DE LOS HOGARES</td>
+      <td>1.179</td>
+   <td>1.329</td>
+   <td>0</td>
+   <td>0</td>
+   <td>97</td>
+   <td>0</td>
+   <td class="F1RESUL">2.605</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES DE ORGANIZACIONES Y ÓRGANOS EXTRATERRITORIALES</td>
+      <td>140</td>
+   <td>72</td>
+   <td>260</td>
+   <td>0</td>
+   <td>48</td>
+   <td>88</td>
+   <td class="F1RESUL">608</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>SIN INFORMACIÓN</td>
+      <td>92.939</td>
+   <td>63.251</td>
+   <td>24.045</td>
+   <td>84.268</td>
+   <td>137.834</td>
+   <td>0</td>
+   <td class="F1RESUL">402.337</td>
+
+      </tr>
+         <tr class='F1RESUL'>
+   <td class='alignLeft' class='F1TOTAL'>TOTAL</td>
+      <td>511.216</td>
+   <td>263.604</td>
+   <td>600.583</td>
+   <td>462.727</td>
+   <td>445.729</td>
+   <td>919.569</td>
+   <td class="F1RESUL">3.203.428</td>
+
+      </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados hombres que cotizaron en 201812, por remuneraciones devengadas en Noviembre de 2018.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 25 de Octubre de 2019
+<br>
+
+

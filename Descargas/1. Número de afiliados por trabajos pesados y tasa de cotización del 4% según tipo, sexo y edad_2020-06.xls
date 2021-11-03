@@ -1,0 +1,236 @@
+
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE AFILIADOS POR TRABAJOS PESADOS Y TASA DE COTIZACI&Oacute;N DEL 4% SEG&Uacute;N TIPO, SEXO Y EDAD (1) (Al 30 de Junio de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr>
+<th rowspan="2">TIPO Y SEXO</th>
+<th colspan="13">EDAD (a&ntilde;os)</th>
+<th rowspan="2">TOTAL</th>
+</tr>
+<tr>
+<th>Hasta 20</th>
+<th>+20&nbsp;-25</th>
+<th>+25&nbsp;-30</th>
+<th>+30&nbsp;-35</th>
+<th>+35&nbsp;-40</th>
+<th>+40&nbsp;-45</th>
+<th>+45&nbsp;-50</th>
+<th>+50&nbsp;-55</th>
+<th>+55&nbsp;-60</th>
+<th>+60&nbsp;-65</th>
+<th>+65&nbsp;-70</th>
+<th>+de 70</th>
+<th>S/I</th>
+</tr>
+</thead>
+
+<tbody>
+   <td class='alignLeft'>DEPENDIENTES</td>
+   <td>765</td>
+   <td>6.416</td>
+   <td>21.063</td>
+   <td>27.109</td>
+   <td>26.691</td>
+   <td>24.520</td>
+   <td>23.937</td>
+   <td>22.304</td>
+   <td>18.504</td>
+   <td>7.930</td>
+   <td>419</td>
+   <td>43</td>
+   <td>0</td>
+   <td class='F1RESUL'>179.701</td>
+   </tr>
+   <td class='alignLeft'>Masculino</td>
+   <td>692</td>
+   <td>5.426</td>
+   <td>17.191</td>
+   <td>22.179</td>
+   <td>22.763</td>
+   <td>21.474</td>
+   <td>21.190</td>
+   <td>19.902</td>
+   <td>16.557</td>
+   <td>7.321</td>
+   <td>373</td>
+   <td>29</td>
+   <td>0</td>
+   <td class='F1RESUL'>155.097</td>
+   </tr>
+   <td class='alignLeft'>Femenino</td>
+   <td>73</td>
+   <td>990</td>
+   <td>3.872</td>
+   <td>4.930</td>
+   <td>3.928</td>
+   <td>3.046</td>
+   <td>2.747</td>
+   <td>2.402</td>
+   <td>1.947</td>
+   <td>609</td>
+   <td>46</td>
+   <td>14</td>
+   <td>0</td>
+   <td class='F1RESUL'>24.604</td>
+   </tr>
+   <td class='alignLeft'>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+   <td class='alignLeft'>INDEPENDIENTES</td>
+   <td>0</td>
+   <td>72</td>
+   <td>273</td>
+   <td>261</td>
+   <td>276</td>
+   <td>258</td>
+   <td>298</td>
+   <td>362</td>
+   <td>446</td>
+   <td>202</td>
+   <td>11</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>2.459</td>
+   </tr>
+   <td class='alignLeft'>Masculino</td>
+   <td>0</td>
+   <td>58</td>
+   <td>191</td>
+   <td>193</td>
+   <td>221</td>
+   <td>201</td>
+   <td>267</td>
+   <td>336</td>
+   <td>416</td>
+   <td>194</td>
+   <td>10</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>2.087</td>
+   </tr>
+   <td class='alignLeft'>Femenino</td>
+   <td>0</td>
+   <td>14</td>
+   <td>82</td>
+   <td>68</td>
+   <td>55</td>
+   <td>57</td>
+   <td>31</td>
+   <td>26</td>
+   <td>30</td>
+   <td>8</td>
+   <td>1</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>372</td>
+   </tr>
+   <td class='alignLeft'>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+   <td class='alignLeft'>TOTAL</td>
+   <td>765</td>
+   <td>6.488</td>
+   <td>21.336</td>
+   <td>27.370</td>
+   <td>26.967</td>
+   <td>24.778</td>
+   <td>24.235</td>
+   <td>22.666</td>
+   <td>18.950</td>
+   <td>8.132</td>
+   <td>430</td>
+   <td>43</td>
+   <td>0</td>
+   <td class='F1RESUL'>182.160</td>
+   </tr>
+   <td class='alignLeft'>Masculino</td>
+   <td>692</td>
+   <td>5.484</td>
+   <td>17.382</td>
+   <td>22.372</td>
+   <td>22.984</td>
+   <td>21.675</td>
+   <td>21.457</td>
+   <td>20.238</td>
+   <td>16.973</td>
+   <td>7.515</td>
+   <td>383</td>
+   <td>29</td>
+   <td>0</td>
+   <td class='F1RESUL'>157.184</td>
+   </tr>
+   <td class='alignLeft'>Femenino</td>
+   <td>73</td>
+   <td>1.004</td>
+   <td>3.954</td>
+   <td>4.998</td>
+   <td>3.983</td>
+   <td>3.103</td>
+   <td>2.778</td>
+   <td>2.428</td>
+   <td>1.977</td>
+   <td>617</td>
+   <td>47</td>
+   <td>14</td>
+   <td>0</td>
+   <td class='F1RESUL'>24.976</td>
+   </tr>
+   <td class='alignLeft'>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>0</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Ver Art&iacute;culo 17bis de D.L. 3500 de 1980.</li>
+<li>S/I: Sin informaci&oacute;n</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Octubre de 2020
+<br>
+
+

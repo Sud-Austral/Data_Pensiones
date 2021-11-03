@@ -1,0 +1,982 @@
+<html>
+	<head>
+				
+	</head>
+	<body>
+		
+<table  width="605" border="0" cellspacing="0" cellpadding="0" class="table" >
+  <tr  align="left" valign="top" > 
+    <td  width="12" ><img  src="/safpstats/stats/imag/auxi/block_transparente.gif" width="12" height="17" ></td>
+    <td  >&nbsp;</td>
+  </tr>
+  <tr  align="left" valign="top" > 
+    <td  width="12" >&nbsp;</td>
+    <td  ><!-- Generado con TW v2.5 --><!--contenido-->
+<p  class="titular00" >INGRESO IMPONIBLE PROMEDIO POR FONDO, TIPO, SEXO Y A.F.P.</p>
+<table  border="1" cellspacing="0" class="table tw15" >
+<caption  ></caption>
+<tr  >
+<td  class="TITUtres" ></td>
+<td  class="TITUtres" > 
+            
+               
+                |</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoA" class="parrafo00" >Fondo A</td>
+<td  class="TITUtres" >|</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoB" class="parrafo00" >Fondo B</td>
+<td  class="TITUtres" >|</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoC" class="parrafo00" >Fondo C</td>
+<td  class="TITUtres" >|</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoD" class="parrafo00" >Fondo D</td>
+<td  class="TITUtres" >|</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoE" class="parrafo00" >Fondo E</td>
+</tr>
+</table>
+
+          </td>
+        </tr>
+</table>
+<br  >
+<a  name="fondoA" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >INGRESO IMPONIBLE PROMEDIO FONDO TIPO A POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Mayo de 2012)</caption>
+<tr  >
+<td  rowspan="3" class="NOMBRE" >A.F.P.</td>
+<td  colspan="16" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  colspan="4" class="C1RESUL" >DEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >INDEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</td>
+<td  colspan="4" class="C1RESUL" >TOTAL</td>
+</tr>
+<tr  >
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CAPITAL                  </td>
+<td  >    753.960</td>
+<td  >    806.280</td>
+<td  >    668.823</td>
+<td  >          0</td>
+<td  >    616.219</td>
+<td  >    668.441</td>
+<td  >    540.000</td>
+<td  >          0</td>
+<td  >    496.661</td>
+<td  >    534.804</td>
+<td  >    472.821</td>
+<td  >          0</td>
+<td  >    750.518</td>
+<td  >    802.981</td>
+<td  >    665.386</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CUPRUM                   </td>
+<td  >  1.148.748</td>
+<td  >  1.195.302</td>
+<td  >  1.058.812</td>
+<td  >          0</td>
+<td  >    713.229</td>
+<td  >    759.338</td>
+<td  >    655.280</td>
+<td  >          0</td>
+<td  >    700.118</td>
+<td  >  1.104.396</td>
+<td  >    582.204</td>
+<td  >          0</td>
+<td  >  1.139.821</td>
+<td  >  1.187.802</td>
+<td  >  1.048.014</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >HABITAT                  </td>
+<td  >    741.799</td>
+<td  >    791.345</td>
+<td  >    675.924</td>
+<td  >          0</td>
+<td  >    489.526</td>
+<td  >    534.630</td>
+<td  >    437.420</td>
+<td  >          0</td>
+<td  >    342.512</td>
+<td  >    505.793</td>
+<td  >    311.411</td>
+<td  >          0</td>
+<td  >    737.925</td>
+<td  >    787.672</td>
+<td  >    671.938</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >MODELO                   </td>
+<td  >    563.334</td>
+<td  >    613.336</td>
+<td  >    499.835</td>
+<td  >          0</td>
+<td  >    538.438</td>
+<td  >    596.872</td>
+<td  >    485.328</td>
+<td  >          0</td>
+<td  >    248.794</td>
+<td  >    182.003</td>
+<td  >    293.321</td>
+<td  >          0</td>
+<td  >    562.266</td>
+<td  >    612.701</td>
+<td  >    499.086</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PLANVITAL                </td>
+<td  >    437.605</td>
+<td  >    465.174</td>
+<td  >    379.754</td>
+<td  >          0</td>
+<td  >    277.289</td>
+<td  >    271.956</td>
+<td  >    288.255</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >    435.501</td>
+<td  >    462.656</td>
+<td  >    378.537</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PROVIDA                  </td>
+<td  >    591.251</td>
+<td  >    638.362</td>
+<td  >    508.405</td>
+<td  >          0</td>
+<td  >    403.416</td>
+<td  >    436.791</td>
+<td  >    350.314</td>
+<td  >          0</td>
+<td  >    214.160</td>
+<td  >    230.238</td>
+<td  >    182.003</td>
+<td  >          0</td>
+<td  >    589.177</td>
+<td  >    636.217</td>
+<td  >    506.548</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >TOTAL</td>
+<td  >    742.962</td>
+<td  >    792.927</td>
+<td  >    661.549</td>
+<td  >          0</td>
+<td  >    550.840</td>
+<td  >    592.739</td>
+<td  >    494.258</td>
+<td  >          0</td>
+<td  >    501.422</td>
+<td  >    662.622</td>
+<td  >    444.860</td>
+<td  >          0</td>
+<td  >    739.590</td>
+<td  >    789.680</td>
+<td  >    658.256</td>
+<td  >          0</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo A en Mayo de 2012, por remuneraciones devengadas en Abril de 2012.</td>
+</tr>
+</table>
+
+<br  >
+<a  name="fondoB" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >INGRESO IMPONIBLE PROMEDIO FONDO TIPO B POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Mayo de 2012)</caption>
+<tr  >
+<td  rowspan="3" class="NOMBRE" >A.F.P.</td>
+<td  colspan="16" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  colspan="4" class="C1RESUL" >DEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >INDEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</td>
+<td  colspan="4" class="C1RESUL" >TOTAL</td>
+</tr>
+<tr  >
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CAPITAL                  </td>
+<td  >    495.048</td>
+<td  >    527.965</td>
+<td  >    450.885</td>
+<td  >          0</td>
+<td  >    449.614</td>
+<td  >    466.238</td>
+<td  >    431.615</td>
+<td  >          0</td>
+<td  >    719.083</td>
+<td  >  2.224.801</td>
+<td  >    503.981</td>
+<td  >          0</td>
+<td  >    494.238</td>
+<td  >    526.969</td>
+<td  >    450.500</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CUPRUM                   </td>
+<td  >    918.947</td>
+<td  >    955.849</td>
+<td  >    870.146</td>
+<td  >          0</td>
+<td  >    618.808</td>
+<td  >    701.348</td>
+<td  >    543.045</td>
+<td  >          0</td>
+<td  >    615.298</td>
+<td  >    896.324</td>
+<td  >    590.861</td>
+<td  >          0</td>
+<td  >    912.907</td>
+<td  >    951.577</td>
+<td  >    862.167</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >HABITAT                  </td>
+<td  >    500.399</td>
+<td  >    514.597</td>
+<td  >    481.778</td>
+<td  >          0</td>
+<td  >    356.727</td>
+<td  >    384.034</td>
+<td  >    332.959</td>
+<td  >          0</td>
+<td  >    311.606</td>
+<td  >    417.990</td>
+<td  >    288.604</td>
+<td  >          0</td>
+<td  >    498.799</td>
+<td  >    513.414</td>
+<td  >    479.723</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >MODELO                   </td>
+<td  >    310.778</td>
+<td  >    326.048</td>
+<td  >    293.079</td>
+<td  >          0</td>
+<td  >    369.433</td>
+<td  >    393.802</td>
+<td  >    353.805</td>
+<td  >          0</td>
+<td  >    263.695</td>
+<td  >    249.596</td>
+<td  >    274.268</td>
+<td  >          0</td>
+<td  >    311.215</td>
+<td  >    326.415</td>
+<td  >    293.674</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PLANVITAL                </td>
+<td  >    369.932</td>
+<td  >    395.003</td>
+<td  >    320.515</td>
+<td  >          0</td>
+<td  >    236.516</td>
+<td  >    241.047</td>
+<td  >    228.153</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >    368.186</td>
+<td  >    393.033</td>
+<td  >    319.254</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PROVIDA                  </td>
+<td  >    411.376</td>
+<td  >    441.173</td>
+<td  >    360.539</td>
+<td  >          0</td>
+<td  >    281.133</td>
+<td  >    295.093</td>
+<td  >    263.373</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >    410.220</td>
+<td  >    440.020</td>
+<td  >    359.513</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >TOTAL</td>
+<td  >    467.535</td>
+<td  >    491.504</td>
+<td  >    432.873</td>
+<td  >          0</td>
+<td  >    387.268</td>
+<td  >    407.192</td>
+<td  >    366.568</td>
+<td  >          0</td>
+<td  >    459.741</td>
+<td  >    688.997</td>
+<td  >    415.653</td>
+<td  >          0</td>
+<td  >    466.587</td>
+<td  >    490.647</td>
+<td  >    431.934</td>
+<td  >          0</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo B en Mayo de 2012, por remuneraciones devengadas en Abril de 2012.</td>
+</tr>
+</table>
+
+<br  >
+<a  name="fondoC" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >INGRESO IMPONIBLE PROMEDIO FONDO TIPO C POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Mayo de 2012)</caption>
+<tr  >
+<td  rowspan="3" class="NOMBRE" >A.F.P.</td>
+<td  colspan="16" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  colspan="4" class="C1RESUL" >DEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >INDEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</td>
+<td  colspan="4" class="C1RESUL" >TOTAL</td>
+</tr>
+<tr  >
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CAPITAL                  </td>
+<td  >    481.110</td>
+<td  >    522.893</td>
+<td  >    410.931</td>
+<td  >          0</td>
+<td  >    344.808</td>
+<td  >    355.416</td>
+<td  >    322.926</td>
+<td  >          0</td>
+<td  >    456.387</td>
+<td  >    614.176</td>
+<td  >    382.753</td>
+<td  >          0</td>
+<td  >    474.928</td>
+<td  >    514.764</td>
+<td  >    407.416</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CUPRUM                   </td>
+<td  >    884.499</td>
+<td  >    916.547</td>
+<td  >    833.226</td>
+<td  >          0</td>
+<td  >    532.168</td>
+<td  >    558.670</td>
+<td  >    491.978</td>
+<td  >          0</td>
+<td  >    455.190</td>
+<td  >    490.530</td>
+<td  >    450.478</td>
+<td  >          0</td>
+<td  >    874.281</td>
+<td  >    906.508</td>
+<td  >    822.842</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >HABITAT                  </td>
+<td  >    516.705</td>
+<td  >    551.648</td>
+<td  >    467.816</td>
+<td  >          0</td>
+<td  >    331.013</td>
+<td  >    334.702</td>
+<td  >    325.495</td>
+<td  >          0</td>
+<td  >    317.581</td>
+<td  >    394.687</td>
+<td  >    311.078</td>
+<td  >          0</td>
+<td  >    512.558</td>
+<td  >    546.722</td>
+<td  >    464.713</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >MODELO                   </td>
+<td  >    380.634</td>
+<td  >    479.087</td>
+<td  >    308.460</td>
+<td  >          0</td>
+<td  >    331.980</td>
+<td  >    355.590</td>
+<td  >    315.650</td>
+<td  >          0</td>
+<td  >    136.988</td>
+<td  >    266.753</td>
+<td  >    128.886</td>
+<td  >          0</td>
+<td  >    371.539</td>
+<td  >    474.846</td>
+<td  >    299.464</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PLANVITAL                </td>
+<td  >    349.619</td>
+<td  >    376.228</td>
+<td  >    297.011</td>
+<td  >          0</td>
+<td  >    216.043</td>
+<td  >    217.302</td>
+<td  >    212.738</td>
+<td  >          0</td>
+<td  >    268.000</td>
+<td  >    364.000</td>
+<td  >    172.000</td>
+<td  >          0</td>
+<td  >    344.137</td>
+<td  >    369.146</td>
+<td  >    294.144</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PROVIDA                  </td>
+<td  >    399.687</td>
+<td  >    434.558</td>
+<td  >    335.213</td>
+<td  >          0</td>
+<td  >    260.872</td>
+<td  >    264.467</td>
+<td  >    252.925</td>
+<td  >          0</td>
+<td  >    161.437</td>
+<td  >          0</td>
+<td  >    161.437</td>
+<td  >          0</td>
+<td  >    396.621</td>
+<td  >    430.581</td>
+<td  >    333.593</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >TOTAL</td>
+<td  >    484.191</td>
+<td  >    518.608</td>
+<td  >    427.706</td>
+<td  >          0</td>
+<td  >    323.702</td>
+<td  >    328.398</td>
+<td  >    314.752</td>
+<td  >          0</td>
+<td  >    170.968</td>
+<td  >    326.345</td>
+<td  >    159.605</td>
+<td  >          0</td>
+<td  >    479.407</td>
+<td  >    512.912</td>
+<td  >    424.290</td>
+<td  >          0</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo C en Mayo de 2012, por remuneraciones devengadas en Abril de 2012.</td>
+</tr>
+</table>
+
+<br  >
+<a  name="fondoD" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >INGRESO IMPONIBLE PROMEDIO FONDO TIPO D POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Mayo de 2012)</caption>
+<tr  >
+<td  rowspan="3" class="NOMBRE" >A.F.P.</td>
+<td  colspan="16" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  colspan="4" class="C1RESUL" >DEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >INDEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</td>
+<td  colspan="4" class="C1RESUL" >TOTAL</td>
+</tr>
+<tr  >
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CAPITAL                  </td>
+<td  >    520.157</td>
+<td  >    579.518</td>
+<td  >    457.746</td>
+<td  >          0</td>
+<td  >    361.123</td>
+<td  >    389.372</td>
+<td  >    328.015</td>
+<td  >          0</td>
+<td  >  1.418.769</td>
+<td  >    364.000</td>
+<td  >  1.506.666</td>
+<td  >          0</td>
+<td  >    506.383</td>
+<td  >    561.952</td>
+<td  >    447.424</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CUPRUM                   </td>
+<td  >    920.994</td>
+<td  >    989.685</td>
+<td  >    844.483</td>
+<td  >          0</td>
+<td  >    495.708</td>
+<td  >    549.258</td>
+<td  >    434.325</td>
+<td  >          0</td>
+<td  >    505.152</td>
+<td  >    781.987</td>
+<td  >    366.734</td>
+<td  >          0</td>
+<td  >    905.350</td>
+<td  >    973.376</td>
+<td  >    829.521</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >HABITAT                  </td>
+<td  >    510.673</td>
+<td  >    573.810</td>
+<td  >    453.899</td>
+<td  >          0</td>
+<td  >    332.233</td>
+<td  >    366.379</td>
+<td  >    299.367</td>
+<td  >          0</td>
+<td  >    200.645</td>
+<td  >    172.489</td>
+<td  >    203.558</td>
+<td  >          0</td>
+<td  >    503.364</td>
+<td  >    565.251</td>
+<td  >    447.630</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >MODELO                   </td>
+<td  >    354.307</td>
+<td  >    444.878</td>
+<td  >    294.496</td>
+<td  >          0</td>
+<td  >    295.145</td>
+<td  >    331.170</td>
+<td  >    277.678</td>
+<td  >          0</td>
+<td  >    173.386</td>
+<td  >    155.384</td>
+<td  >    299.397</td>
+<td  >          0</td>
+<td  >    352.012</td>
+<td  >    440.832</td>
+<td  >    293.836</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PLANVITAL                </td>
+<td  >    350.428</td>
+<td  >    377.142</td>
+<td  >    314.419</td>
+<td  >          0</td>
+<td  >    216.158</td>
+<td  >    218.371</td>
+<td  >    212.382</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >    338.237</td>
+<td  >    361.450</td>
+<td  >    306.283</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PROVIDA                  </td>
+<td  >    402.663</td>
+<td  >    442.863</td>
+<td  >    357.550</td>
+<td  >          0</td>
+<td  >    286.050</td>
+<td  >    304.993</td>
+<td  >    261.382</td>
+<td  >          0</td>
+<td  >    169.332</td>
+<td  >          0</td>
+<td  >    169.332</td>
+<td  >          0</td>
+<td  >    397.176</td>
+<td  >    435.953</td>
+<td  >    353.358</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >TOTAL</td>
+<td  >    523.543</td>
+<td  >    579.068</td>
+<td  >    466.460</td>
+<td  >          0</td>
+<td  >    334.433</td>
+<td  >    359.387</td>
+<td  >    305.375</td>
+<td  >          0</td>
+<td  >    394.675</td>
+<td  >    311.920</td>
+<td  >    413.065</td>
+<td  >          0</td>
+<td  >    513.524</td>
+<td  >    566.776</td>
+<td  >    458.443</td>
+<td  >          0</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo D en Mayo de 2012, por remuneraciones devengadas en Abril de 2012.</td>
+</tr>
+</table>
+
+<br  >
+<a  name="fondoE" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >INGRESO IMPONIBLE PROMEDIO FONDO TIPO E POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Mayo de 2012)</caption>
+<tr  >
+<td  rowspan="3" class="NOMBRE" >A.F.P.</td>
+<td  colspan="16" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  colspan="4" class="C1RESUL" >DEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >INDEPENDIENTES</td>
+<td  colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</td>
+<td  colspan="4" class="C1RESUL" >TOTAL</td>
+</tr>
+<tr  >
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+<td  >Total</td>
+<td  >Masculino</td>
+<td  >Femenino</td>
+<td  >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CAPITAL                  </td>
+<td  >    865.056</td>
+<td  >    923.072</td>
+<td  >    764.104</td>
+<td  >          0</td>
+<td  >    593.191</td>
+<td  >    643.416</td>
+<td  >    517.229</td>
+<td  >          0</td>
+<td  >    823.932</td>
+<td  >    994.483</td>
+<td  >    482.831</td>
+<td  >          0</td>
+<td  >    855.991</td>
+<td  >    914.238</td>
+<td  >    755.114</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >CUPRUM                   </td>
+<td  >  1.181.520</td>
+<td  >  1.234.105</td>
+<td  >  1.089.429</td>
+<td  >          0</td>
+<td  >    734.813</td>
+<td  >    795.697</td>
+<td  >    655.163</td>
+<td  >          0</td>
+<td  >    523.278</td>
+<td  >  1.273.515</td>
+<td  >    460.758</td>
+<td  >          0</td>
+<td  >  1.172.318</td>
+<td  >  1.226.278</td>
+<td  >  1.078.478</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >HABITAT                  </td>
+<td  >    862.210</td>
+<td  >    928.974</td>
+<td  >    772.805</td>
+<td  >          0</td>
+<td  >    448.536</td>
+<td  >    528.456</td>
+<td  >    360.203</td>
+<td  >          0</td>
+<td  >    258.257</td>
+<td  >          0</td>
+<td  >    258.257</td>
+<td  >          0</td>
+<td  >    853.156</td>
+<td  >    921.016</td>
+<td  >    762.701</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >MODELO                   </td>
+<td  >    457.976</td>
+<td  >    569.578</td>
+<td  >    354.022</td>
+<td  >          0</td>
+<td  >    393.133</td>
+<td  >    464.361</td>
+<td  >    343.104</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >    455.784</td>
+<td  >    566.520</td>
+<td  >    353.605</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PLANVITAL                </td>
+<td  >    503.631</td>
+<td  >    533.488</td>
+<td  >    450.157</td>
+<td  >          0</td>
+<td  >    284.824</td>
+<td  >    294.726</td>
+<td  >    265.986</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >    499.508</td>
+<td  >    528.894</td>
+<td  >    446.818</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >PROVIDA                  </td>
+<td  >    725.311</td>
+<td  >    770.138</td>
+<td  >    638.051</td>
+<td  >          0</td>
+<td  >    380.704</td>
+<td  >    399.562</td>
+<td  >    351.416</td>
+<td  >          0</td>
+<td  >    182.003</td>
+<td  >          0</td>
+<td  >    182.003</td>
+<td  >          0</td>
+<td  >    718.885</td>
+<td  >    763.780</td>
+<td  >    631.877</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >TOTAL</td>
+<td  >    871.486</td>
+<td  >    928.892</td>
+<td  >    777.928</td>
+<td  >          0</td>
+<td  >    523.061</td>
+<td  >    576.254</td>
+<td  >    452.249</td>
+<td  >          0</td>
+<td  >    499.795</td>
+<td  >  1.050.289</td>
+<td  >    380.122</td>
+<td  >          0</td>
+<td  >    863.301</td>
+<td  >    921.312</td>
+<td  >    769.241</td>
+<td  >          0</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en el Fondo Tipo E en Mayo de 2012, por remuneraciones devengadas en Abril de 2012.</td>
+</tr>
+</table>
+
+<br  ><p  class="parrafo00" >Informaci&oacute;n actualizada el 25 de julio de 2012</p>
+<!--/contenido--></td>
+  </tr>
+  <tr  align="left" valign="top" >
+    <td  width="12" >&nbsp;</td>
+    <td  align="center" >
+      <table  width="480" border="0" cellspacing="2" cellpadding="2" align="center" class="table" >
+        <tr  align="center" valign="top" > 
+          <td  ><a  href="javascript:history.back();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('volver','','/safpstats/stats/imag/auxi/vol_on.gif',1)" ></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr  align="left" valign="top" > 
+    <td  width="12" >&nbsp;</td>
+    <td  >&nbsp;</td>
+  </tr>
+</table>
+<br  >
+
+ 
+
+	</body>
+</html>

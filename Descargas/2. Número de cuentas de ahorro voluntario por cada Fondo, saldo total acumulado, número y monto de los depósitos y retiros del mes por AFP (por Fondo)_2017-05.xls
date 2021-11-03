@@ -1,0 +1,515 @@
+
+<div class="tab-content">
+   <div role="tabpanel" class="tab-pane " id="fondoA">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO A, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES POR A.F.P.<br>(Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>A.F.P.</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>33.392</td>
+   <td>39.384</td>
+   <td>29.221.890</td>
+   <td>8.258</td>
+   <td>905.698</td>
+   <td>3.251</td>
+   <td>580.823</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>23.637</td>
+   <td>32.147</td>
+   <td>72.990.263</td>
+   <td>7.301</td>
+   <td>3.018.121</td>
+   <td>1.584</td>
+   <td>1.637.699</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>25.101</td>
+   <td>40.918</td>
+   <td>88.664.062</td>
+   <td>9.986</td>
+   <td>3.054.517</td>
+   <td>2.181</td>
+   <td>1.534.956</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>1.685</td>
+   <td>4.076</td>
+   <td>8.973.762</td>
+   <td>1.138</td>
+   <td>741.094</td>
+   <td>223</td>
+   <td>239.174</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>4.638</td>
+   <td>6.192</td>
+   <td>2.193.594</td>
+   <td>836</td>
+   <td>83.138</td>
+   <td>272</td>
+   <td>27.949</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>30.449</td>
+   <td>41.767</td>
+   <td>27.593.926</td>
+   <td>5.690</td>
+   <td>875.191</td>
+   <td>1.993</td>
+   <td>589.623</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>118.902</td>
+   <td>164.484</td>
+   <td>229.637.497</td>
+   <td>33.209</td>
+   <td>8.677.759</td>
+   <td>9.504</td>
+   <td>4.610.224</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+<br>
+   <div role="tabpanel" class="tab-pane " id="fondoB">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO B, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES POR A.F.P.<br>(Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>A.F.P.</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>23.500</td>
+   <td>26.874</td>
+   <td>12.723.234</td>
+   <td>5.418</td>
+   <td>271.228</td>
+   <td>2.074</td>
+   <td>279.719</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>14.459</td>
+   <td>16.701</td>
+   <td>25.207.777</td>
+   <td>3.572</td>
+   <td>607.554</td>
+   <td>729</td>
+   <td>399.280</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>14.097</td>
+   <td>25.945</td>
+   <td>22.794.671</td>
+   <td>5.392</td>
+   <td>658.055</td>
+   <td>1.260</td>
+   <td>289.078</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>1.357</td>
+   <td>3.596</td>
+   <td>2.281.428</td>
+   <td>969</td>
+   <td>292.201</td>
+   <td>188</td>
+   <td>48.070</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>3.851</td>
+   <td>5.000</td>
+   <td>629.838</td>
+   <td>641</td>
+   <td>31.358</td>
+   <td>182</td>
+   <td>14.562</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>15.614</td>
+   <td>20.420</td>
+   <td>8.592.255</td>
+   <td>2.722</td>
+   <td>136.208</td>
+   <td>1.011</td>
+   <td>726.564</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>72.878</td>
+   <td>98.536</td>
+   <td>72.229.203</td>
+   <td>18.714</td>
+   <td>1.996.604</td>
+   <td>5.444</td>
+   <td>1.757.273</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+<br>
+   <div role="tabpanel" class="tab-pane " id="fondoC">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO C, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES POR A.F.P.<br>(Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>A.F.P.</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>94.342</td>
+   <td>80.499</td>
+   <td>43.031.564</td>
+   <td>14.214</td>
+   <td>1.299.092</td>
+   <td>4.815</td>
+   <td>681.177</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>49.568</td>
+   <td>52.419</td>
+   <td>131.535.945</td>
+   <td>12.724</td>
+   <td>3.408.275</td>
+   <td>2.645</td>
+   <td>1.824.954</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>61.812</td>
+   <td>91.461</td>
+   <td>146.619.951</td>
+   <td>21.432</td>
+   <td>5.989.633</td>
+   <td>4.808</td>
+   <td>1.578.865</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>1.563</td>
+   <td>4.893</td>
+   <td>6.747.106</td>
+   <td>1.856</td>
+   <td>374.655</td>
+   <td>333</td>
+   <td>98.019</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>12.780</td>
+   <td>12.713</td>
+   <td>2.168.120</td>
+   <td>1.830</td>
+   <td>106.605</td>
+   <td>607</td>
+   <td>80.587</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>152.085</td>
+   <td>151.283</td>
+   <td>33.457.398</td>
+   <td>16.651</td>
+   <td>821.028</td>
+   <td>6.000</td>
+   <td>705.850</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>372.150</td>
+   <td>393.268</td>
+   <td>363.560.084</td>
+   <td>68.707</td>
+   <td>11.999.288</td>
+   <td>19.208</td>
+   <td>4.969.452</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+<br>
+   <div role="tabpanel" class="tab-pane " id="fondoD">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO D, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES POR A.F.P.<br>(Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>A.F.P.</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>44.522</td>
+   <td>44.542</td>
+   <td>24.577.143</td>
+   <td>6.902</td>
+   <td>530.086</td>
+   <td>2.066</td>
+   <td>429.371</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>38.717</td>
+   <td>24.996</td>
+   <td>57.571.134</td>
+   <td>4.196</td>
+   <td>1.523.017</td>
+   <td>796</td>
+   <td>769.514</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>55.729</td>
+   <td>42.419</td>
+   <td>57.624.974</td>
+   <td>7.194</td>
+   <td>1.223.072</td>
+   <td>1.404</td>
+   <td>1.463.200</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>544</td>
+   <td>1.736</td>
+   <td>2.919.115</td>
+   <td>701</td>
+   <td>125.820</td>
+   <td>126</td>
+   <td>35.532</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>9.299</td>
+   <td>6.444</td>
+   <td>991.247</td>
+   <td>490</td>
+   <td>27.440</td>
+   <td>152</td>
+   <td>30.743</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>110.685</td>
+   <td>93.344</td>
+   <td>26.406.327</td>
+   <td>8.079</td>
+   <td>638.239</td>
+   <td>2.100</td>
+   <td>387.063</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>259.496</td>
+   <td>213.481</td>
+   <td>170.089.940</td>
+   <td>27.562</td>
+   <td>4.067.674</td>
+   <td>6.644</td>
+   <td>3.115.423</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+<br>
+   <div role="tabpanel" class="tab-pane " id="fondoE">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS DE AHORRO VOLUNTARIO FONDO TIPO E, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES POR A.F.P.<br>(Al 31 de Mayo de 2017)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE"  nowrap>A.F.P.</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE AHORRO VOLUNTARIO<br />VIGENTES</th>
+   <th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>CON SALDO<br />IGUAL A CERO</th>
+   <th nowrap>CON SALDO<br />MAYOR QUE CERO</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>29.447</td>
+   <td>53.341</td>
+   <td>46.525.986</td>
+   <td>22.895</td>
+   <td>1.614.520</td>
+   <td>8.762</td>
+   <td>1.421.438</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>21.590</td>
+   <td>36.683</td>
+   <td>127.564.395</td>
+   <td>11.544</td>
+   <td>3.398.666</td>
+   <td>3.039</td>
+   <td>5.878.877</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>20.559</td>
+   <td>48.726</td>
+   <td>132.024.481</td>
+   <td>19.985</td>
+   <td>3.076.516</td>
+   <td>4.338</td>
+   <td>2.966.027</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>2.814</td>
+   <td>11.296</td>
+   <td>20.049.452</td>
+   <td>4.259</td>
+   <td>954.071</td>
+   <td>862</td>
+   <td>770.807</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>3.286</td>
+   <td>8.202</td>
+   <td>2.792.301</td>
+   <td>2.752</td>
+   <td>154.410</td>
+   <td>873</td>
+   <td>70.792</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>30.647</td>
+   <td>45.611</td>
+   <td>52.104.491</td>
+   <td>15.080</td>
+   <td>2.021.486</td>
+   <td>6.174</td>
+   <td>1.198.048</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>108.343</td>
+   <td>203.859</td>
+   <td>381.061.106</td>
+   <td>76.515</td>
+   <td>11.219.669</td>
+   <td>24.048</td>
+   <td>12.305.989</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+<br>
+
+</div>          
+
+Informaci&oacute;n actualizada el 10 de Julio de 2017
+
+<br>
+
+

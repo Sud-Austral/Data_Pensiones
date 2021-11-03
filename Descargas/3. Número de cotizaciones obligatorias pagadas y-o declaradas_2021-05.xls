@@ -1,0 +1,193 @@
+
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZACIONES OBLIGATORIAS PAGADAS Y/O DECLARADAS Y DE AFILIADOS VOLUNTARIOS (Al 31 de Mayo de 2021)</h4>
+      <table border='1'>
+   
+<thead>
+<tr>
+<th rowspan="2" class="NOMBRE">MES EN QUE SE DEVENGARON<BR  >LAS REMUNERACIONES</th>
+<th colspan="4" class="TITUuno">TIPO DE AFILIADO QUE ORIGINA LA COTIZACION</th>
+<th rowspan="2" class="TITUuno">TOTAL</th>
+</tr>
+<tr>
+<th class="SUBTITUuno" >ACTIVOS</th>
+<th class="SUBTITUuno" >REZAGOS</th>
+<th class="SUBTITUuno" >PASIVOS</th>
+<th class="SUBTITUuno" >AFILIADO VOLUNTARIO</th>
+</tr>
+</thead>
+
+<tbody>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>ABRIL DE 2021</td>
+   <td>5.722.242</td>
+   <td>123.807</td>
+   <td>71.966</td>
+   <td>2.382</td>
+   <td class='F1RESUL'>5.920.397</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Declaradas</td>
+   <td>106.945</td>
+   <td>0</td>
+   <td>1.984</td>
+   <td>9</td>
+   <td class='F1RESUL'>108.938</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas Normales</td>
+   <td>5.470.739</td>
+   <td>115.679</td>
+   <td>67.672</td>
+   <td>2.297</td>
+   <td class='F1RESUL'>5.656.387</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas atrasadas con declaraci&oacute;n</td>
+   <td>71.768</td>
+   <td>1.404</td>
+   <td>1.411</td>
+   <td>68</td>
+   <td class='F1RESUL'>74.651</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas atrasadas  sin declaraci&oacute;n</td>
+   <td>72.790</td>
+   <td>6.724</td>
+   <td>899</td>
+   <td>8</td>
+   <td class='F1RESUL'>80.421</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>MARZO DE 2021</td>
+   <td>104.728</td>
+   <td>2.729</td>
+   <td>1.445</td>
+   <td>162</td>
+   <td class='F1RESUL'>109.064</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas con declaraci&oacute;n</td>
+   <td>50.885</td>
+   <td>48</td>
+   <td>606</td>
+   <td>5</td>
+   <td class='F1RESUL'>51.544</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas sin declaraci&oacute;n</td>
+   <td>53.843</td>
+   <td>2.681</td>
+   <td>839</td>
+   <td>157</td>
+   <td class='F1RESUL'>57.520</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>FEBRERO DE 2021</td>
+   <td>27.250</td>
+   <td>944</td>
+   <td>364</td>
+   <td>6</td>
+   <td class='F1RESUL'>28.564</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas con declaraci&oacute;n</td>
+   <td>11.654</td>
+   <td>2</td>
+   <td>125</td>
+   <td>0</td>
+   <td class='F1RESUL'>11.781</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas sin declaraci&oacute;n</td>
+   <td>15.596</td>
+   <td>942</td>
+   <td>239</td>
+   <td>6</td>
+   <td class='F1RESUL'>16.783</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>OTROS MESES</td>
+   <td>138.123</td>
+   <td>4.106</td>
+   <td>3.981</td>
+   <td>209</td>
+   <td class='F1RESUL'>146.419</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas con declaraci&oacute;n</td>
+   <td>22.365</td>
+   <td>47</td>
+   <td>530</td>
+   <td>16</td>
+   <td class='F1RESUL'>22.958</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas sin declaraci&oacute;n</td>
+   <td>115.758</td>
+   <td>4.059</td>
+   <td>3.451</td>
+   <td>193</td>
+   <td class='F1RESUL'>123.461</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>TOTAL</td>
+   <td>5.992.343</td>
+   <td>131.586</td>
+   <td>77.756</td>
+   <td>2.759</td>
+   <td class='F1RESUL'>6.204.444</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Declaradas</td>
+   <td>106.945</td>
+   <td>0</td>
+   <td>1.984</td>
+   <td>9</td>
+   <td class='F1RESUL'>108.938</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> - Pagadas</td>
+   <td>5.885.398</td>
+   <td>131.586</td>
+   <td>75.772</td>
+   <td>2.750</td>
+   <td class='F1RESUL'>6.095.506</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> -- Por el mes anterior</td>
+   <td>5.615.297</td>
+   <td>123.807</td>
+   <td>69.982</td>
+   <td>2.373</td>
+   <td class='F1RESUL'>5.811.459</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> -- Por otros meses con declaraci&oacute;n</td>
+   <td>84.904</td>
+   <td>97</td>
+   <td>1.261</td>
+   <td>21</td>
+   <td class='F1RESUL'>86.283</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap> -- Por otros meses sin declaraci&oacute;n</td>
+   <td>185.197</td>
+   <td>7.682</td>
+   <td>4.529</td>
+   <td>356</td>
+   <td class='F1RESUL'>197.764</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 25 de Agosto de 2021
+<br>
+
+

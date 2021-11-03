@@ -1,0 +1,20 @@
+SUPERINTENDENCIA DE PENSIONES - ESTADÍSTICAS
+Fecha: Viernes 8 de Octubre 2021
+
+Notas:
+
+
+Afiliados:
+-Tipo de Fondo: Datos inician en mes Octubre de 2002 con formato de sitio que no permite navegar con botones, pero tiene una tabla con datos que se puede extraer, de ser necesario descargarse así.
+Formato de url: https://www.spensiones.cl/inf_estadistica/aficot/mensual/2016/08/02A.html
+
+Cambia de vista a partir del mes 2016/10 a una con navegación por mes, con el siguiente formato de URL:
+https://www.spensiones.cl/apps/loadEstadisticas/genEstadAfiliadosCotizantes.php?id=inf_estadistica/aficot/mensual/2016/10/02A.html&p=M&menu=sci&menuN1=afil&menuN2=tipfon&orden=10&ext=.html
+
+* Algunos items están hasta el mes de Julio 2021 y otros hasta Junio, también de 2021
+** Al descargar estos archivos desde la vista superior de "Tipo de Fondo", se descargan en formato .xls
+
+
+-AFP: anotaciones similares al inciso anterior.
+Formato url de tabla antigua: https://www.spensiones.cl/inf_estadistica/aficot/mensual/2014/07/01C.html
+Formato a partir de 

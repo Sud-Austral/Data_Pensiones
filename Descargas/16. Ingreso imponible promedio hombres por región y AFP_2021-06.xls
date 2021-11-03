@@ -1,0 +1,223 @@
+<div class="table-responsive">
+<h4>INGRESO IMPONIBLE PROMEDIO HOMBRES POR REGI&Oacute;N Y A.F.P. (1) (Al 30 de Junio de 2021)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >A.F.P.</th>
+<th  colspan="17" class="TITUuno" >REGI&Oacute;N</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >I</th>
+<th  class="SUBTITUdos" >II</th>
+<th  class="SUBTITUdos" >III</th>
+<th  class="SUBTITUdos" >IV</th>
+<th  class="SUBTITUdos" >V</th>
+<th  class="SUBTITUdos" >VI</th>
+<th  class="SUBTITUdos" >VII</th>
+<th  class="SUBTITUdos" >VIII</th>
+<th  class="SUBTITUdos" >IX</th>
+<th  class="SUBTITUdos" >X</th>
+<th  class="SUBTITUdos" >XI</th>
+<th  class="SUBTITUdos" >XII</th>
+<th  class="SUBTITUdos" >R. Metrop.</th>
+<th  class="SUBTITUdos" >XIV</th>
+<th  class="SUBTITUdos" >XV</th>
+<th  class="SUBTITUdos" >XVI</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td  class='alignLeft' class=ITEM>CAPITAL</td>
+   
+   <td>1.140.637</td>
+   <td>1.324.362</td>
+   <td>1.230.062</td>
+   <td>1.152.604</td>
+   <td>940.875</td>
+   <td>986.483</td>
+   <td>856.599</td>
+   <td>940.016</td>
+   <td>858.561</td>
+   <td>910.018</td>
+   <td>984.397</td>
+   <td>1.130.883</td>
+   <td>1.064.075</td>
+   <td>869.565</td>
+   <td>1.039.297</td>
+   <td>851.149</td>
+   <td>815.208</td>
+   <td class='F1RESUL'>1.015.224</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>CUPRUM</td>
+   
+   <td>1.580.624</td>
+   <td>1.712.337</td>
+   <td>1.606.321</td>
+   <td>1.649.964</td>
+   <td>1.559.448</td>
+   <td>1.557.361</td>
+   <td>1.415.743</td>
+   <td>1.501.297</td>
+   <td>1.503.453</td>
+   <td>1.480.885</td>
+   <td>1.567.274</td>
+   <td>1.498.550</td>
+   <td>1.717.338</td>
+   <td>1.451.484</td>
+   <td>1.510.455</td>
+   <td>1.504.493</td>
+   <td>1.373.151</td>
+   <td class='F1RESUL'>1.622.060</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>HABITAT</td>
+   
+   <td>1.139.674</td>
+   <td>1.396.778</td>
+   <td>1.246.462</td>
+   <td>1.161.255</td>
+   <td>1.074.077</td>
+   <td>1.109.108</td>
+   <td>1.001.928</td>
+   <td>1.032.707</td>
+   <td>916.051</td>
+   <td>977.939</td>
+   <td>1.162.769</td>
+   <td>1.080.949</td>
+   <td>1.204.745</td>
+   <td>893.603</td>
+   <td>937.882</td>
+   <td>912.800</td>
+   <td>704.145</td>
+   <td class='F1RESUL'>1.128.523</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>MODELO</td>
+   
+   <td>752.080</td>
+   <td>924.281</td>
+   <td>847.794</td>
+   <td>776.791</td>
+   <td>782.744</td>
+   <td>721.384</td>
+   <td>657.320</td>
+   <td>761.182</td>
+   <td>692.353</td>
+   <td>746.037</td>
+   <td>803.775</td>
+   <td>779.682</td>
+   <td>877.490</td>
+   <td>732.831</td>
+   <td>709.604</td>
+   <td>670.221</td>
+   <td>592.829</td>
+   <td class='F1RESUL'>823.562</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>PLANVITAL</td>
+   
+   <td>687.301</td>
+   <td>826.561</td>
+   <td>767.937</td>
+   <td>669.335</td>
+   <td>641.502</td>
+   <td>582.154</td>
+   <td>562.185</td>
+   <td>666.343</td>
+   <td>609.781</td>
+   <td>640.597</td>
+   <td>673.519</td>
+   <td>732.967</td>
+   <td>752.897</td>
+   <td>667.541</td>
+   <td>643.742</td>
+   <td>565.208</td>
+   <td>0</td>
+   <td class='F1RESUL'>695.110</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>PROVIDA</td>
+   
+   <td>896.972</td>
+   <td>1.041.735</td>
+   <td>897.035</td>
+   <td>777.146</td>
+   <td>774.227</td>
+   <td>701.965</td>
+   <td>621.802</td>
+   <td>754.841</td>
+   <td>634.308</td>
+   <td>700.268</td>
+   <td>783.548</td>
+   <td>876.939</td>
+   <td>875.937</td>
+   <td>673.314</td>
+   <td>860.839</td>
+   <td>643.538</td>
+   <td>668.670</td>
+   <td class='F1RESUL'>787.511</td>
+   </tr>
+      <tr>
+   <td  class='alignLeft' class=ITEM>UNO</td>
+   
+   <td>706.550</td>
+   <td>854.777</td>
+   <td>728.784</td>
+   <td>709.838</td>
+   <td>677.804</td>
+   <td>609.571</td>
+   <td>560.229</td>
+   <td>674.305</td>
+   <td>621.688</td>
+   <td>632.857</td>
+   <td>665.666</td>
+   <td>697.267</td>
+   <td>687.164</td>
+   <td>661.380</td>
+   <td>617.060</td>
+   <td>604.483</td>
+   <td>969.990</td>
+   <td class='F1RESUL'>679.193</td>
+   </tr>
+      <tr class='F1RESUL'>
+   <td  class='alignLeft' class='F1TOTAL'>Total</td>
+   
+   <td>993.590</td>
+   <td>1.201.606</td>
+   <td>1.106.334</td>
+   <td>961.307</td>
+   <td>891.986</td>
+   <td>836.808</td>
+   <td>744.806</td>
+   <td>889.585</td>
+   <td>769.234</td>
+   <td>834.440</td>
+   <td>886.693</td>
+   <td>976.318</td>
+   <td>997.421</td>
+   <td>800.602</td>
+   <td>901.377</td>
+   <td>765.972</td>
+   <td>673.942</td>
+   <td class='F1RESUL'>935.319</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al ingreso promedio de los afiliados hombres que cotizaron en 202106, por remuneraciones devengadas en Mayo de 2021.</td>
+<li>S/I Sin informaci&oacute;n</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 10 de Agosto de 2021
+<br>
+
+

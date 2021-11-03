@@ -1,0 +1,990 @@
+
+<div class="tab-content">
+   <div role="tabpanel" class="tab-pane " id="fondoA">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE COTIZANTES EN EL FONDO A POR TIPO, SEXO Y A.F.P. (1) (Al 28 de Febrero de 2021)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>148.502</td>
+   <td>89465</td>
+   <td>59037</td>
+   <td>0</td>
+   <td>2.095</td>
+   <td>1.338</td>
+   <td>757</td>
+   <td>0</td>
+   <td>35</td>
+   <td>12</td>
+   <td>23</td>
+   <td>0</td>
+   <td>150.632</td>
+   <td>90.815</td>
+   <td>59.817</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>84.695</td>
+   <td>56985</td>
+   <td>27710</td>
+   <td>0</td>
+   <td>1.176</td>
+   <td>691</td>
+   <td>485</td>
+   <td>0</td>
+   <td>43</td>
+   <td>12</td>
+   <td>31</td>
+   <td>0</td>
+   <td>85.914</td>
+   <td>57.688</td>
+   <td>28.226</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>140.456</td>
+   <td>82270</td>
+   <td>58186</td>
+   <td>0</td>
+   <td>1.830</td>
+   <td>1.034</td>
+   <td>796</td>
+   <td>0</td>
+   <td>65</td>
+   <td>26</td>
+   <td>39</td>
+   <td>0</td>
+   <td>142.351</td>
+   <td>83.330</td>
+   <td>59.021</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>59.231</td>
+   <td>35305</td>
+   <td>23926</td>
+   <td>0</td>
+   <td>787</td>
+   <td>388</td>
+   <td>399</td>
+   <td>0</td>
+   <td>20</td>
+   <td>14</td>
+   <td>6</td>
+   <td>0</td>
+   <td>60.038</td>
+   <td>35.707</td>
+   <td>24.331</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>31.415</td>
+   <td>19415</td>
+   <td>12000</td>
+   <td>0</td>
+   <td>276</td>
+   <td>158</td>
+   <td>118</td>
+   <td>0</td>
+   <td>1</td>
+   <td>0</td>
+   <td>1</td>
+   <td>0</td>
+   <td>31.692</td>
+   <td>19.573</td>
+   <td>12.119</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>193.058</td>
+   <td>126039</td>
+   <td>67019</td>
+   <td>0</td>
+   <td>2.140</td>
+   <td>1.405</td>
+   <td>735</td>
+   <td>0</td>
+   <td>12</td>
+   <td>4</td>
+   <td>8</td>
+   <td>0</td>
+   <td>195.210</td>
+   <td>127.448</td>
+   <td>67.762</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>8.440</td>
+   <td>5425</td>
+   <td>3015</td>
+   <td>0</td>
+   <td>125</td>
+   <td>50</td>
+   <td>75</td>
+   <td>0</td>
+   <td>2</td>
+   <td>1</td>
+   <td>1</td>
+   <td>0</td>
+   <td>8.567</td>
+   <td>5.476</td>
+   <td>3.091</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>665.797</td>
+   <td>414904</td>
+   <td>250893</td>
+   <td>0</td>
+   <td>8.429</td>
+   <td>5.064</td>
+   <td>3.365</td>
+   <td>0</td>
+   <td>178</td>
+   <td>69</td>
+   <td>109</td>
+   <td>0</td>
+   <td>674.404</td>
+   <td>420.037</td>
+   <td>254.367</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo A en Febrero de 2021, por remuneraciones devengadas en Enero de 2021.
+Las cifras del n&uacute;mero de cotizantes independientes reportadas en este cuadro desde agosto de 2019 no son comparables con las de los periodos anteriores, debido a correcciones realizadas por una Administradora.</li>
+
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoB">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE COTIZANTES EN EL FONDO B POR TIPO, SEXO Y A.F.P. (1) (Al 28 de Febrero de 2021)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>234.215</td>
+   <td>129104</td>
+   <td>105111</td>
+   <td>0</td>
+   <td>3.024</td>
+   <td>1.736</td>
+   <td>1.288</td>
+   <td>0</td>
+   <td>34</td>
+   <td>8</td>
+   <td>26</td>
+   <td>0</td>
+   <td>237.273</td>
+   <td>130.848</td>
+   <td>106.425</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>59.336</td>
+   <td>35075</td>
+   <td>24261</td>
+   <td>0</td>
+   <td>1.184</td>
+   <td>690</td>
+   <td>494</td>
+   <td>0</td>
+   <td>24</td>
+   <td>11</td>
+   <td>13</td>
+   <td>0</td>
+   <td>60.544</td>
+   <td>35.776</td>
+   <td>24.768</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>185.421</td>
+   <td>99243</td>
+   <td>86178</td>
+   <td>0</td>
+   <td>2.155</td>
+   <td>1.170</td>
+   <td>985</td>
+   <td>0</td>
+   <td>41</td>
+   <td>16</td>
+   <td>25</td>
+   <td>0</td>
+   <td>187.617</td>
+   <td>100.429</td>
+   <td>87.188</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>621.425</td>
+   <td>331234</td>
+   <td>290191</td>
+   <td>0</td>
+   <td>3.381</td>
+   <td>1.435</td>
+   <td>1.946</td>
+   <td>0</td>
+   <td>27</td>
+   <td>12</td>
+   <td>15</td>
+   <td>0</td>
+   <td>624.833</td>
+   <td>332.681</td>
+   <td>292.152</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>483.045</td>
+   <td>277544</td>
+   <td>205501</td>
+   <td>0</td>
+   <td>2.267</td>
+   <td>985</td>
+   <td>1.282</td>
+   <td>0</td>
+   <td>2</td>
+   <td>1</td>
+   <td>1</td>
+   <td>0</td>
+   <td>485.314</td>
+   <td>278.530</td>
+   <td>206.784</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>326.884</td>
+   <td>202105</td>
+   <td>124779</td>
+   <td>0</td>
+   <td>3.325</td>
+   <td>2.043</td>
+   <td>1.282</td>
+   <td>0</td>
+   <td>15</td>
+   <td>6</td>
+   <td>9</td>
+   <td>0</td>
+   <td>330.224</td>
+   <td>204.154</td>
+   <td>126.070</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>124.241</td>
+   <td>69251</td>
+   <td>54990</td>
+   <td>0</td>
+   <td>569</td>
+   <td>227</td>
+   <td>342</td>
+   <td>0</td>
+   <td>2</td>
+   <td>1</td>
+   <td>1</td>
+   <td>0</td>
+   <td>124.812</td>
+   <td>69.479</td>
+   <td>55.333</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>2.034.567</td>
+   <td>1143556</td>
+   <td>891011</td>
+   <td>0</td>
+   <td>15.905</td>
+   <td>8.286</td>
+   <td>7.619</td>
+   <td>0</td>
+   <td>145</td>
+   <td>55</td>
+   <td>90</td>
+   <td>0</td>
+   <td>2.050.617</td>
+   <td>1.151.897</td>
+   <td>898.720</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo B en Febrero de 2021, por remuneraciones devengadas en Enero de 2021.
+Las cifras del n&uacute;mero de cotizantes independientes reportadas en este cuadro desde agosto de 2019 no son comparables con las de los periodos anteriores, debido a correcciones realizadas por una Administradora.</li>
+
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoC">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE COTIZANTES EN EL FONDO C POR TIPO, SEXO Y A.F.P. (1) (Al 28 de Febrero de 2021)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>255.765</td>
+   <td>152532</td>
+   <td>103233</td>
+   <td>0</td>
+   <td>7.666</td>
+   <td>5.446</td>
+   <td>2.220</td>
+   <td>0</td>
+   <td>58</td>
+   <td>23</td>
+   <td>35</td>
+   <td>0</td>
+   <td>263.489</td>
+   <td>158.001</td>
+   <td>105.488</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>107.575</td>
+   <td>66462</td>
+   <td>41113</td>
+   <td>0</td>
+   <td>2.051</td>
+   <td>1.308</td>
+   <td>743</td>
+   <td>0</td>
+   <td>65</td>
+   <td>19</td>
+   <td>46</td>
+   <td>0</td>
+   <td>109.691</td>
+   <td>67.789</td>
+   <td>41.902</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>363.335</td>
+   <td>204047</td>
+   <td>159288</td>
+   <td>0</td>
+   <td>5.347</td>
+   <td>3.353</td>
+   <td>1.994</td>
+   <td>0</td>
+   <td>86</td>
+   <td>16</td>
+   <td>70</td>
+   <td>0</td>
+   <td>368.768</td>
+   <td>207.416</td>
+   <td>161.352</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>143.527</td>
+   <td>62720</td>
+   <td>80807</td>
+   <td>0</td>
+   <td>1.401</td>
+   <td>656</td>
+   <td>745</td>
+   <td>0</td>
+   <td>43</td>
+   <td>24</td>
+   <td>19</td>
+   <td>0</td>
+   <td>144.971</td>
+   <td>63.400</td>
+   <td>81.571</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>132.116</td>
+   <td>77948</td>
+   <td>54168</td>
+   <td>0</td>
+   <td>1.498</td>
+   <td>970</td>
+   <td>528</td>
+   <td>0</td>
+   <td>18</td>
+   <td>9</td>
+   <td>9</td>
+   <td>0</td>
+   <td>133.632</td>
+   <td>78.927</td>
+   <td>54.705</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>490.155</td>
+   <td>326073</td>
+   <td>164082</td>
+   <td>0</td>
+   <td>9.256</td>
+   <td>6.894</td>
+   <td>2.362</td>
+   <td>0</td>
+   <td>31</td>
+   <td>9</td>
+   <td>22</td>
+   <td>0</td>
+   <td>499.442</td>
+   <td>332.976</td>
+   <td>166.466</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>29.296</td>
+   <td>15510</td>
+   <td>13786</td>
+   <td>0</td>
+   <td>369</td>
+   <td>170</td>
+   <td>199</td>
+   <td>0</td>
+   <td>442</td>
+   <td>214</td>
+   <td>228</td>
+   <td>0</td>
+   <td>30.107</td>
+   <td>15.894</td>
+   <td>14.213</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>1.521.769</td>
+   <td>905292</td>
+   <td>616477</td>
+   <td>0</td>
+   <td>27.588</td>
+   <td>18.797</td>
+   <td>8.791</td>
+   <td>0</td>
+   <td>743</td>
+   <td>314</td>
+   <td>429</td>
+   <td>0</td>
+   <td>1.550.100</td>
+   <td>924.403</td>
+   <td>625.697</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo C en Febrero de 2021, por remuneraciones devengadas en Enero de 2021.
+Las cifras del n&uacute;mero de cotizantes independientes reportadas en este cuadro desde agosto de 2019 no son comparables con las de los periodos anteriores, debido a correcciones realizadas por una Administradora.</li>
+
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoD">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE COTIZANTES EN EL FONDO D POR TIPO, SEXO Y A.F.P. (1) (Al 28 de Febrero de 2021)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>30.461</td>
+   <td>16631</td>
+   <td>13830</td>
+   <td>0</td>
+   <td>680</td>
+   <td>388</td>
+   <td>292</td>
+   <td>0</td>
+   <td>11</td>
+   <td>3</td>
+   <td>8</td>
+   <td>0</td>
+   <td>31.152</td>
+   <td>17.022</td>
+   <td>14.130</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>35.003</td>
+   <td>20068</td>
+   <td>14935</td>
+   <td>0</td>
+   <td>1.174</td>
+   <td>714</td>
+   <td>460</td>
+   <td>0</td>
+   <td>57</td>
+   <td>27</td>
+   <td>30</td>
+   <td>0</td>
+   <td>36.234</td>
+   <td>20.809</td>
+   <td>15.425</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>105.702</td>
+   <td>51576</td>
+   <td>54126</td>
+   <td>0</td>
+   <td>2.920</td>
+   <td>1.714</td>
+   <td>1.206</td>
+   <td>0</td>
+   <td>42</td>
+   <td>10</td>
+   <td>32</td>
+   <td>0</td>
+   <td>108.664</td>
+   <td>53.300</td>
+   <td>55.364</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>35.866</td>
+   <td>15202</td>
+   <td>20664</td>
+   <td>0</td>
+   <td>421</td>
+   <td>183</td>
+   <td>238</td>
+   <td>0</td>
+   <td>4</td>
+   <td>2</td>
+   <td>2</td>
+   <td>0</td>
+   <td>36.291</td>
+   <td>15.387</td>
+   <td>20.904</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>25.005</td>
+   <td>11161</td>
+   <td>13844</td>
+   <td>0</td>
+   <td>542</td>
+   <td>305</td>
+   <td>237</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>25.547</td>
+   <td>11.466</td>
+   <td>14.081</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>154.808</td>
+   <td>88130</td>
+   <td>66678</td>
+   <td>0</td>
+   <td>6.378</td>
+   <td>4.346</td>
+   <td>2.032</td>
+   <td>0</td>
+   <td>16</td>
+   <td>7</td>
+   <td>9</td>
+   <td>0</td>
+   <td>161.202</td>
+   <td>92.483</td>
+   <td>68.719</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>7.532</td>
+   <td>3112</td>
+   <td>4420</td>
+   <td>0</td>
+   <td>135</td>
+   <td>43</td>
+   <td>92</td>
+   <td>0</td>
+   <td>8</td>
+   <td>3</td>
+   <td>5</td>
+   <td>0</td>
+   <td>7.675</td>
+   <td>3.158</td>
+   <td>4.517</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>394.377</td>
+   <td>205880</td>
+   <td>188497</td>
+   <td>0</td>
+   <td>12.250</td>
+   <td>7.693</td>
+   <td>4.557</td>
+   <td>0</td>
+   <td>138</td>
+   <td>52</td>
+   <td>86</td>
+   <td>0</td>
+   <td>406.765</td>
+   <td>213.625</td>
+   <td>193.140</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo D en Febrero de 2021, por remuneraciones devengadas en Enero de 2021.
+Las cifras del n&uacute;mero de cotizantes independientes reportadas en este cuadro desde agosto de 2019 no son comparables con las de los periodos anteriores, debido a correcciones realizadas por una Administradora.</li>
+
+   </ul>
+   <br />
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoE">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE COTIZANTES EN EL FONDO E POR TIPO, SEXO Y A.F.P. (1) (Al 28 de Febrero de 2021)</h4>
+         <table border='1'>
+   
+   <tr>
+   <th rowspan="3" class="NOMBRE" >A.F.P.</th>
+   <th colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+   </tr>
+   <tr>
+   <th colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+   <th colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+   <th colspan="4" class="C1RESUL" >TOTAL</th>
+   </tr>
+   <tr>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   <th>Total</th>
+   <th>Masculino</th>
+   <th>Femenino</th>
+   <th>S/I</th>
+   </tr>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>179.908</td>
+   <td>106635</td>
+   <td>73273</td>
+   <td>0</td>
+   <td>2.624</td>
+   <td>1.719</td>
+   <td>905</td>
+   <td>0</td>
+   <td>72</td>
+   <td>30</td>
+   <td>42</td>
+   <td>0</td>
+   <td>182.604</td>
+   <td>108.384</td>
+   <td>74.220</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>105.928</td>
+   <td>66767</td>
+   <td>39161</td>
+   <td>0</td>
+   <td>1.572</td>
+   <td>971</td>
+   <td>601</td>
+   <td>0</td>
+   <td>95</td>
+   <td>51</td>
+   <td>44</td>
+   <td>0</td>
+   <td>107.595</td>
+   <td>67.789</td>
+   <td>39.806</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>213.399</td>
+   <td>115899</td>
+   <td>97500</td>
+   <td>0</td>
+   <td>3.057</td>
+   <td>1.765</td>
+   <td>1.292</td>
+   <td>0</td>
+   <td>99</td>
+   <td>34</td>
+   <td>65</td>
+   <td>0</td>
+   <td>216.555</td>
+   <td>117.698</td>
+   <td>98.857</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>148.512</td>
+   <td>76275</td>
+   <td>72237</td>
+   <td>0</td>
+   <td>1.405</td>
+   <td>648</td>
+   <td>757</td>
+   <td>0</td>
+   <td>44</td>
+   <td>23</td>
+   <td>21</td>
+   <td>0</td>
+   <td>149.961</td>
+   <td>76.946</td>
+   <td>73.015</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>53.438</td>
+   <td>29046</td>
+   <td>24392</td>
+   <td>0</td>
+   <td>453</td>
+   <td>244</td>
+   <td>209</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>53.891</td>
+   <td>29.290</td>
+   <td>24.601</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>142.740</td>
+   <td>88123</td>
+   <td>54617</td>
+   <td>0</td>
+   <td>1.687</td>
+   <td>1.085</td>
+   <td>602</td>
+   <td>0</td>
+   <td>26</td>
+   <td>16</td>
+   <td>10</td>
+   <td>0</td>
+   <td>144.453</td>
+   <td>89.224</td>
+   <td>55.229</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>13.991</td>
+   <td>8040</td>
+   <td>5951</td>
+   <td>0</td>
+   <td>185</td>
+   <td>76</td>
+   <td>109</td>
+   <td>0</td>
+   <td>8</td>
+   <td>4</td>
+   <td>4</td>
+   <td>0</td>
+   <td>14.184</td>
+   <td>8.120</td>
+   <td>6.064</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>857.916</td>
+   <td>490785</td>
+   <td>367131</td>
+   <td>0</td>
+   <td>10.983</td>
+   <td>6.508</td>
+   <td>4.475</td>
+   <td>0</td>
+   <td>344</td>
+   <td>158</td>
+   <td>186</td>
+   <td>0</td>
+   <td>869.243</td>
+   <td>497.451</td>
+   <td>371.792</td>
+   <td>0</td>
+   </tr>
+   
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   <li>Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo E en Febrero de 2021, por remuneraciones devengadas en Enero de 2021.
+Las cifras del n&uacute;mero de cotizantes independientes reportadas en este cuadro desde agosto de 2019 no son comparables con las de los periodos anteriores, debido a correcciones realizadas por una Administradora.</li>
+
+   </ul>
+   <br />
+   </div> 
+
+</div>          
+
+Informaci&oacute;n actualizada el 20 de Mayo de 2021
+
+<br>
+
+

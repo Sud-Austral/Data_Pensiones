@@ -1,0 +1,760 @@
+
+<div class="tab-content">
+   <div role="tabpanel" class="tab-pane " id="fondoA">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS INDIVIDUALES POR COTIZACI&Oacute;N VOLUNTARIA VIGENTE FONDO TIPO A, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. (Al 31 de Marzo de 2020)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE" nowrap><p  align="center" >AFP</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />INDIVIDUALES POR<br />COTIZACIONES VOLUNTARIAS<br />VIGENTES</th>
+   <th colspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap><p  align="center" >MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS<br />DEL MES<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>87.206</td>
+   <td>18.732.971</td>
+   <td>62.161.177</td>
+   <td>10.709</td>
+   <td>2.344</td>
+   <td>607.215</td>
+   <td>344.966</td>
+   <td>3.462</td>
+   <td>397</td>
+   <td>1.517.538</td>
+   <td>167.110</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>85.899</td>
+   <td>23.446.145</td>
+   <td>141.124.707</td>
+   <td>253</td>
+   <td>4.540</td>
+   <td>1.642.081</td>
+   <td>761.222</td>
+   <td>1.351</td>
+   <td>397</td>
+   <td>1.530.967</td>
+   <td>427.517</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>68.201</td>
+   <td>38.524.277</td>
+   <td>186.160.456</td>
+   <td>10.908</td>
+   <td>5.056</td>
+   <td>1.325.028</td>
+   <td>922.480</td>
+   <td>1.621</td>
+   <td>989</td>
+   <td>1.865.127</td>
+   <td>1.102.333</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>12.952</td>
+   <td>3.601.600</td>
+   <td>7.695.649</td>
+   <td>966</td>
+   <td>538</td>
+   <td>62.498</td>
+   <td>100.000</td>
+   <td>125</td>
+   <td>38</td>
+   <td>50.446</td>
+   <td>12.714</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>6.341</td>
+   <td>976.043</td>
+   <td>1.384.322</td>
+   <td>447</td>
+   <td>181</td>
+   <td>24.962</td>
+   <td>10.045</td>
+   <td>74</td>
+   <td>24</td>
+   <td>14.531</td>
+   <td>2.081</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>75.320</td>
+   <td>9.658.084</td>
+   <td>48.490.817</td>
+   <td>3.236</td>
+   <td>1.441</td>
+   <td>182.067</td>
+   <td>208.917</td>
+   <td>919</td>
+   <td>268</td>
+   <td>429.179</td>
+   <td>230.813</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>224</td>
+   <td>35.130</td>
+   <td>75.687</td>
+   <td>7</td>
+   <td>2</td>
+   <td>400</td>
+   <td>54</td>
+   <td>0</td>
+   <td>1</td>
+   <td>0</td>
+   <td>16.998</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>336.143</td>
+   <td>94.974.250</td>
+   <td>447.092.815</td>
+   <td>26.526</td>
+   <td>14.102</td>
+   <td>3.844.251</td>
+   <td>2.347.684</td>
+   <td>7.552</td>
+   <td>2.114</td>
+   <td>5.407.788</td>
+   <td>1.959.566</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoB">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS INDIVIDUALES POR COTIZACI&Oacute;N VOLUNTARIA VIGENTE FONDO TIPO B, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. (Al 31 de Marzo de 2020)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE" nowrap><p  align="center" >AFP</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />INDIVIDUALES POR<br />COTIZACIONES VOLUNTARIAS<br />VIGENTES</th>
+   <th colspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap><p  align="center" >MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS<br />DEL MES<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>34.247</td>
+   <td>7.073.232</td>
+   <td>31.330.338</td>
+   <td>4.480</td>
+   <td>1.152</td>
+   <td>177.308</td>
+   <td>148.354</td>
+   <td>1.365</td>
+   <td>192</td>
+   <td>683.154</td>
+   <td>119.479</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>29.853</td>
+   <td>8.185.834</td>
+   <td>60.057.765</td>
+   <td>91</td>
+   <td>1.812</td>
+   <td>42.135</td>
+   <td>264.949</td>
+   <td>453</td>
+   <td>149</td>
+   <td>346.510</td>
+   <td>272.199</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>35.472</td>
+   <td>12.652.062</td>
+   <td>74.956.325</td>
+   <td>4.397</td>
+   <td>2.244</td>
+   <td>164.601</td>
+   <td>321.608</td>
+   <td>605</td>
+   <td>558</td>
+   <td>553.830</td>
+   <td>517.591</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>8.308</td>
+   <td>1.131.056</td>
+   <td>2.924.690</td>
+   <td>505</td>
+   <td>447</td>
+   <td>21.558</td>
+   <td>31.897</td>
+   <td>54</td>
+   <td>52</td>
+   <td>15.347</td>
+   <td>6.243</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>3.753</td>
+   <td>254.825</td>
+   <td>504.815</td>
+   <td>258</td>
+   <td>286</td>
+   <td>8.500</td>
+   <td>11.915</td>
+   <td>37</td>
+   <td>19</td>
+   <td>4.305</td>
+   <td>2.257</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>29.799</td>
+   <td>2.577.391</td>
+   <td>16.868.212</td>
+   <td>1.209</td>
+   <td>458</td>
+   <td>42.965</td>
+   <td>102.782</td>
+   <td>323</td>
+   <td>108</td>
+   <td>109.622</td>
+   <td>104.743</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>42</td>
+   <td>142.761</td>
+   <td>350.399</td>
+   <td>6</td>
+   <td>1</td>
+   <td>225</td>
+   <td>1.423</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>141.474</td>
+   <td>32.017.161</td>
+   <td>186.992.544</td>
+   <td>10.946</td>
+   <td>6.400</td>
+   <td>457.292</td>
+   <td>882.928</td>
+   <td>2.837</td>
+   <td>1.078</td>
+   <td>1.712.768</td>
+   <td>1.022.512</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoC">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS INDIVIDUALES POR COTIZACI&Oacute;N VOLUNTARIA VIGENTE FONDO TIPO C, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. (Al 31 de Marzo de 2020)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE" nowrap><p  align="center" >AFP</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />INDIVIDUALES POR<br />COTIZACIONES VOLUNTARIAS<br />VIGENTES</th>
+   <th colspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap><p  align="center" >MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS<br />DEL MES<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>99.670</td>
+   <td>27.868.492</td>
+   <td>100.008.643</td>
+   <td>19.467</td>
+   <td>3.053</td>
+   <td>995.240</td>
+   <td>327.302</td>
+   <td>6.547</td>
+   <td>559</td>
+   <td>3.429.650</td>
+   <td>579.833</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>73.278</td>
+   <td>31.101.740</td>
+   <td>182.640.160</td>
+   <td>231</td>
+   <td>4.080</td>
+   <td>288.577</td>
+   <td>688.208</td>
+   <td>1.934</td>
+   <td>404</td>
+   <td>2.602.168</td>
+   <td>1.072.957</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>91.229</td>
+   <td>69.429.651</td>
+   <td>241.839.941</td>
+   <td>21.211</td>
+   <td>5.682</td>
+   <td>1.872.963</td>
+   <td>823.067</td>
+   <td>2.866</td>
+   <td>1.266</td>
+   <td>4.270.137</td>
+   <td>1.210.270</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>8.997</td>
+   <td>1.927.585</td>
+   <td>3.953.968</td>
+   <td>648</td>
+   <td>481</td>
+   <td>205.381</td>
+   <td>29.085</td>
+   <td>101</td>
+   <td>67</td>
+   <td>27.830</td>
+   <td>19.250</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>9.798</td>
+   <td>620.311</td>
+   <td>2.831.220</td>
+   <td>371</td>
+   <td>382</td>
+   <td>15.072</td>
+   <td>16.577</td>
+   <td>81</td>
+   <td>48</td>
+   <td>18.377</td>
+   <td>13.275</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>88.121</td>
+   <td>11.436.835</td>
+   <td>49.168.958</td>
+   <td>4.505</td>
+   <td>1.183</td>
+   <td>258.945</td>
+   <td>167.200</td>
+   <td>1.268</td>
+   <td>276</td>
+   <td>901.965</td>
+   <td>132.879</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>96</td>
+   <td>7.535</td>
+   <td>410.713</td>
+   <td>4</td>
+   <td>0</td>
+   <td>234</td>
+   <td>0</td>
+   <td>1</td>
+   <td>1</td>
+   <td>1.817</td>
+   <td>323</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>371.189</td>
+   <td>142.392.149</td>
+   <td>580.853.603</td>
+   <td>46.437</td>
+   <td>14.861</td>
+   <td>3.636.412</td>
+   <td>2.051.439</td>
+   <td>12.798</td>
+   <td>2.621</td>
+   <td>11.251.944</td>
+   <td>3.028.787</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoD">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS INDIVIDUALES POR COTIZACI&Oacute;N VOLUNTARIA VIGENTE FONDO TIPO D, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. (Al 31 de Marzo de 2020)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE" nowrap><p  align="center" >AFP</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />INDIVIDUALES POR<br />COTIZACIONES VOLUNTARIAS<br />VIGENTES</th>
+   <th colspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap><p  align="center" >MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS<br />DEL MES<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>35.091</td>
+   <td>9.394.630</td>
+   <td>47.514.788</td>
+   <td>6.071</td>
+   <td>599</td>
+   <td>213.036</td>
+   <td>123.904</td>
+   <td>2.219</td>
+   <td>144</td>
+   <td>1.158.606</td>
+   <td>160.077</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>24.808</td>
+   <td>7.533.328</td>
+   <td>68.219.487</td>
+   <td>49</td>
+   <td>1.213</td>
+   <td>63.168</td>
+   <td>199.271</td>
+   <td>370</td>
+   <td>121</td>
+   <td>503.492</td>
+   <td>537.708</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>34.387</td>
+   <td>20.620.292</td>
+   <td>81.419.189</td>
+   <td>4.768</td>
+   <td>1.331</td>
+   <td>248.389</td>
+   <td>210.066</td>
+   <td>528</td>
+   <td>329</td>
+   <td>820.207</td>
+   <td>453.039</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>3.362</td>
+   <td>494.979</td>
+   <td>1.648.303</td>
+   <td>176</td>
+   <td>146</td>
+   <td>5.768</td>
+   <td>9.862</td>
+   <td>31</td>
+   <td>15</td>
+   <td>8.160</td>
+   <td>9.317</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>6.063</td>
+   <td>179.294</td>
+   <td>897.679</td>
+   <td>87</td>
+   <td>88</td>
+   <td>2.759</td>
+   <td>2.007</td>
+   <td>17</td>
+   <td>18</td>
+   <td>6.842</td>
+   <td>6.363</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>39.324</td>
+   <td>2.845.307</td>
+   <td>18.755.028</td>
+   <td>842</td>
+   <td>278</td>
+   <td>34.071</td>
+   <td>42.342</td>
+   <td>287</td>
+   <td>80</td>
+   <td>102.487</td>
+   <td>59.540</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>29</td>
+   <td>4.490</td>
+   <td>445.501</td>
+   <td>1</td>
+   <td>1</td>
+   <td>50</td>
+   <td>57</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>143.064</td>
+   <td>41.072.320</td>
+   <td>218.899.975</td>
+   <td>11.994</td>
+   <td>3.656</td>
+   <td>567.241</td>
+   <td>587.509</td>
+   <td>3.452</td>
+   <td>707</td>
+   <td>2.599.794</td>
+   <td>1.226.044</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoE">
+   <div class="table-responsive">
+   <h4>N&Uacute;MERO DE CUENTAS INDIVIDUALES POR COTIZACI&Oacute;N VOLUNTARIA VIGENTE FONDO TIPO E, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR A.F.P. (Al 31 de Marzo de 2020)</h4>
+         <table border='1'>
+   
+   <thead>
+   <tr>
+   <th rowspan="2" class="NOMBRE" nowrap><p  align="center" >AFP</th>
+   <th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />INDIVIDUALES POR<br />COTIZACIONES VOLUNTARIAS<br />VIGENTES</th>
+   <th colspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap><p  align="center" >MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS<br />DEL MES<br />M$</th>
+   <th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+   <th colspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES<br />M$</th>
+   </tr>
+   <tr>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   <th nowrap>Letra a) Art. 20L</th>
+   <th nowrap>Letra b) Art. 20L</th>
+   </tr>
+   </thead>
+
+   <tbody>
+         <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>131.759</td>
+   <td>43.866.415</td>
+   <td>77.280.332</td>
+   <td>31.908</td>
+   <td>2.192</td>
+   <td>1.268.208</td>
+   <td>236.447</td>
+   <td>11.663</td>
+   <td>590</td>
+   <td>4.911.510</td>
+   <td>599.583</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>72.798</td>
+   <td>31.897.107</td>
+   <td>154.408.475</td>
+   <td>278</td>
+   <td>3.970</td>
+   <td>482.348</td>
+   <td>509.168</td>
+   <td>1.959</td>
+   <td>479</td>
+   <td>4.800.153</td>
+   <td>904.333</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>70.851</td>
+   <td>65.283.172</td>
+   <td>200.333.067</td>
+   <td>15.558</td>
+   <td>5.066</td>
+   <td>820.184</td>
+   <td>621.751</td>
+   <td>2.679</td>
+   <td>1.435</td>
+   <td>2.817.036</td>
+   <td>1.921.717</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>18.029</td>
+   <td>3.916.409</td>
+   <td>8.185.966</td>
+   <td>1.038</td>
+   <td>632</td>
+   <td>39.616</td>
+   <td>39.474</td>
+   <td>225</td>
+   <td>111</td>
+   <td>77.382</td>
+   <td>52.557</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>7.302</td>
+   <td>1.021.701</td>
+   <td>1.879.414</td>
+   <td>489</td>
+   <td>310</td>
+   <td>19.379</td>
+   <td>28.222</td>
+   <td>103</td>
+   <td>43</td>
+   <td>52.964</td>
+   <td>5.719</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>84.155</td>
+   <td>17.481.383</td>
+   <td>39.507.637</td>
+   <td>7.316</td>
+   <td>1.303</td>
+   <td>310.775</td>
+   <td>168.759</td>
+   <td>2.332</td>
+   <td>298</td>
+   <td>1.468.879</td>
+   <td>237.145</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>224</td>
+   <td>60.660</td>
+   <td>230.229</td>
+   <td>5</td>
+   <td>4</td>
+   <td>142</td>
+   <td>37</td>
+   <td>2</td>
+   <td>1</td>
+   <td>2.177</td>
+   <td>342</td>
+   </tr>
+      <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>385.118</td>
+   <td>163.526.847</td>
+   <td>481.825.120</td>
+   <td>56.592</td>
+   <td>13.477</td>
+   <td>2.940.652</td>
+   <td>1.603.858</td>
+   <td>18.963</td>
+   <td>2.957</td>
+   <td>14.130.101</td>
+   <td>3.721.396</td>
+   </tr>
+   
+   </tbody>
+   </table>
+   </div>
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes</li>
+   </ul>
+   </div> 
+
+</div>          
+
+Informaci&oacute;n actualizada el 20 de Mayo de 2021
+
+<br>
+
+

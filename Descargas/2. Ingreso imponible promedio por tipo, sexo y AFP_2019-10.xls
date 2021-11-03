@@ -1,0 +1,206 @@
+
+<div class="table-responsive">
+<h4>INGRESO IMPONIBLE PROMEDIO POR TIPO, SEXO Y A.F.P. (1)(Al 31 de Octubre de 2019)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="3" class="NOMBRE" >A.F.P.</th>
+<th  colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+</tr>
+<tr  >
+<th  colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+<th  colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+<th  colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+<th  colspan="4" class="C1RESUL" >TOTAL</th>
+</tr>
+<tr>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+</tr>
+</thead>
+
+<tbody>
+   <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>942.198</td>
+   <td>997.392</td>
+   <td>864.788</td>
+   <td>0</td>
+   <td>513.645</td>
+   <td>513.740</td>
+   <td>513.469</td>
+   <td>0</td>
+   <td>575.375</td>
+   <td>574.262</td>
+   <td>576.011</td>
+   <td>0</td>
+   <td>932.666</td>
+   <td>985.484</td>
+   <td>858.155</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>1.556.244</td>
+   <td>1.593.943</td>
+   <td>1.493.255</td>
+   <td>0</td>
+   <td>882.868</td>
+   <td>900.429</td>
+   <td>856.255</td>
+   <td>0</td>
+   <td>687.096</td>
+   <td>747.453</td>
+   <td>652.492</td>
+   <td>0</td>
+   <td>1.542.987</td>
+   <td>1.580.998</td>
+   <td>1.479.637</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>1.051.411</td>
+   <td>1.095.098</td>
+   <td>998.930</td>
+   <td>0</td>
+   <td>645.351</td>
+   <td>651.042</td>
+   <td>637.606</td>
+   <td>0</td>
+   <td>588.159</td>
+   <td>519.603</td>
+   <td>614.226</td>
+   <td>0</td>
+   <td>1.044.921</td>
+   <td>1.087.690</td>
+   <td>993.464</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>744.594</td>
+   <td>789.703</td>
+   <td>696.841</td>
+   <td>0</td>
+   <td>615.925</td>
+   <td>646.136</td>
+   <td>591.138</td>
+   <td>0</td>
+   <td>407.123</td>
+   <td>436.344</td>
+   <td>390.583</td>
+   <td>0</td>
+   <td>742.452</td>
+   <td>787.610</td>
+   <td>694.848</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>627.911</td>
+   <td>645.060</td>
+   <td>605.593</td>
+   <td>0</td>
+   <td>510.158</td>
+   <td>484.886</td>
+   <td>537.862</td>
+   <td>0</td>
+   <td>442.048</td>
+   <td>356.397</td>
+   <td>521.538</td>
+   <td>0</td>
+   <td>626.857</td>
+   <td>643.729</td>
+   <td>604.934</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>735.336</td>
+   <td>773.787</td>
+   <td>668.597</td>
+   <td>0</td>
+   <td>397.946</td>
+   <td>397.356</td>
+   <td>399.208</td>
+   <td>0</td>
+   <td>664.958</td>
+   <td>225.705</td>
+   <td>727.708</td>
+   <td>0</td>
+   <td>727.839</td>
+   <td>764.814</td>
+   <td>663.373</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>877.777</td>
+   <td>920.658</td>
+   <td>819.512</td>
+   <td>0</td>
+   <td>547.253</td>
+   <td>541.893</td>
+   <td>555.290</td>
+   <td>0</td>
+   <td>561.710</td>
+   <td>515.647</td>
+   <td>587.246</td>
+   <td>0</td>
+   <td>871.845</td>
+   <td>913.610</td>
+   <td>815.009</td>
+   <td>0</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al ingreso imponible promedio de los afiliados activos que cotizaron en Octubre de 2019, por remuneraciones devengadas en Septiembre de 2019.
+Las cifras del n&uacute;mero de cotizantes independientes reportadas en este cuadro desde agosto de 2019 no son comparables con las de los periodos anteriores, debido a correcciones realizadas por una Administradora.
+</li>
+
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Mayo de 2021
+<br>
+
+

@@ -1,0 +1,815 @@
+
+<div class="tab-content">
+   <div role="tabpanel" class="tab-pane " id="fondoA">
+   <div class="table-responsive">
+         <table border='1'>
+   
+   <h4>N&Uacute;MERO DE AFILIADOS AL FONDO A - M&Aacute;S RIESGOSO, POR EDAD y A.F.P. (Al 30 de Junio de 2017)</h4>
+
+   <tr>
+   <th rowspan="2">A.F.P.</th>
+   <th colspan="13" class='alignCenter'>EDAD (a&ntilde;os)</th>
+   <th rowspan="2" class='alignRight'>TOTAL</th>
+   </tr>
+
+   <tr>
+   <th class='alignRight'>Hasta 20</th>
+   <th class='alignRight'>+20&nbsp;-25</th>
+   <th class='alignRight'>+25&nbsp;-30</th>
+   <th class='alignRight'>+30&nbsp;-35</th>
+   <th class='alignRight'>+35&nbsp;-40</th>
+   <th class='alignRight'>+40&nbsp;-45</th>
+   <th class='alignRight'>+45&nbsp;-50</th>
+   <th class='alignRight'>+50&nbsp;-55</th>
+   <th class='alignRight'>+55&nbsp;-60</th>
+   <th class='alignRight'>+60&nbsp;-65</th>
+   <th class='alignRight'>+65&nbsp;-70</th>
+   <th class='alignRight'>+de 70</th>
+   <th class='alignRight'>S/I</th>
+   </tr>
+
+
+         <tr>
+   <td class='alignLeft'>CAPITAL</td>
+         <td class='alignRight'>32</td>
+      <td class='alignRight'>4.616</td>
+      <td class='alignRight'>56.500</td>
+      <td class='alignRight'>56.073</td>
+      <td class='alignRight'>41.616</td>
+      <td class='alignRight'>31.774</td>
+      <td class='alignRight'>24.943</td>
+      <td class='alignRight'>18.444</td>
+      <td class='alignRight'>6.540</td>
+      <td class='alignRight'>6</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>240.544</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>CUPRUM</td>
+         <td class='alignRight'>16</td>
+      <td class='alignRight'>990</td>
+      <td class='alignRight'>10.681</td>
+      <td class='alignRight'>29.234</td>
+      <td class='alignRight'>35.374</td>
+      <td class='alignRight'>27.771</td>
+      <td class='alignRight'>19.631</td>
+      <td class='alignRight'>12.361</td>
+      <td class='alignRight'>3.788</td>
+      <td class='alignRight'>1</td>
+      <td class='alignRight'>3</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>139.850</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>HABITAT</td>
+         <td class='alignRight'>130</td>
+      <td class='alignRight'>6.372</td>
+      <td class='alignRight'>51.682</td>
+      <td class='alignRight'>71.541</td>
+      <td class='alignRight'>50.824</td>
+      <td class='alignRight'>36.711</td>
+      <td class='alignRight'>25.967</td>
+      <td class='alignRight'>16.857</td>
+      <td class='alignRight'>4.583</td>
+      <td class='alignRight'>4</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>264.671</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>MODELO</td>
+         <td class='alignRight'>1.178</td>
+      <td class='alignRight'>19.816</td>
+      <td class='alignRight'>25.373</td>
+      <td class='alignRight'>19.290</td>
+      <td class='alignRight'>8.980</td>
+      <td class='alignRight'>4.782</td>
+      <td class='alignRight'>2.919</td>
+      <td class='alignRight'>1.683</td>
+      <td class='alignRight'>377</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>84.398</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PLANVITAL</td>
+         <td class='alignRight'>2.379</td>
+      <td class='alignRight'>7.035</td>
+      <td class='alignRight'>15.412</td>
+      <td class='alignRight'>13.831</td>
+      <td class='alignRight'>8.345</td>
+      <td class='alignRight'>5.859</td>
+      <td class='alignRight'>4.400</td>
+      <td class='alignRight'>3.201</td>
+      <td class='alignRight'>1.120</td>
+      <td class='alignRight'>3</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>61.585</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PROVIDA</td>
+         <td class='alignRight'>779</td>
+      <td class='alignRight'>19.887</td>
+      <td class='alignRight'>94.004</td>
+      <td class='alignRight'>93.708</td>
+      <td class='alignRight'>51.775</td>
+      <td class='alignRight'>39.524</td>
+      <td class='alignRight'>31.032</td>
+      <td class='alignRight'>21.723</td>
+      <td class='alignRight'>6.480</td>
+      <td class='alignRight'>9</td>
+      <td class='alignRight'>1</td>
+      <td class='alignRight'>3</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>358.925</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>Total</td>
+         <td class='alignRight'>4.514</td>
+      <td class='alignRight'>58.716</td>
+      <td class='alignRight'>253.652</td>
+      <td class='alignRight'>283.677</td>
+      <td class='alignRight'>196.914</td>
+      <td class='alignRight'>146.421</td>
+      <td class='alignRight'>108.892</td>
+      <td class='alignRight'>74.269</td>
+      <td class='alignRight'>22.888</td>
+      <td class='alignRight'>23</td>
+      <td class='alignRight'>4</td>
+      <td class='alignRight'>3</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>1.149.973</td>
+      </tr>
+   
+   </table>
+   </div>
+
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al n&uacute;mero de afiliados activos.</li>
+   <li>S/I: Sin informaci&oacute;n</li>
+   </ul>
+   <br />
+   Un afiliado podr&iacute;a distribuir su saldo a lo m&aacute;s en dos fondos
+   <br><br>
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoB">
+   <div class="table-responsive">
+         <table border='1'>
+   
+   <h4>N&Uacute;MERO DE AFILIADOS AL FONDO B - RIESGOSO, POR EDAD y A.F.P. (Al 30 de Junio de 2017)</h4>
+
+   <tr>
+   <th rowspan="2">A.F.P.</th>
+   <th colspan="13" class='alignCenter'>EDAD (a&ntilde;os)</th>
+   <th rowspan="2" class='alignRight'>TOTAL</th>
+   </tr>
+
+   <tr>
+   <th class='alignRight'>Hasta 20</th>
+   <th class='alignRight'>+20&nbsp;-25</th>
+   <th class='alignRight'>+25&nbsp;-30</th>
+   <th class='alignRight'>+30&nbsp;-35</th>
+   <th class='alignRight'>+35&nbsp;-40</th>
+   <th class='alignRight'>+40&nbsp;-45</th>
+   <th class='alignRight'>+45&nbsp;-50</th>
+   <th class='alignRight'>+50&nbsp;-55</th>
+   <th class='alignRight'>+55&nbsp;-60</th>
+   <th class='alignRight'>+60&nbsp;-65</th>
+   <th class='alignRight'>+65&nbsp;-70</th>
+   <th class='alignRight'>+de 70</th>
+   <th class='alignRight'>S/I</th>
+   </tr>
+
+
+         <tr>
+   <td class='alignLeft'>CAPITAL</td>
+         <td class='alignRight'>38</td>
+      <td class='alignRight'>13.272</td>
+      <td class='alignRight'>144.460</td>
+      <td class='alignRight'>114.892</td>
+      <td class='alignRight'>108.921</td>
+      <td class='alignRight'>29.956</td>
+      <td class='alignRight'>30.810</td>
+      <td class='alignRight'>17.631</td>
+      <td class='alignRight'>17.026</td>
+      <td class='alignRight'>7.550</td>
+      <td class='alignRight'>801</td>
+      <td class='alignRight'>199</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>485.556</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>CUPRUM</td>
+         <td class='alignRight'>16</td>
+      <td class='alignRight'>1.505</td>
+      <td class='alignRight'>15.961</td>
+      <td class='alignRight'>26.653</td>
+      <td class='alignRight'>32.472</td>
+      <td class='alignRight'>16.808</td>
+      <td class='alignRight'>11.132</td>
+      <td class='alignRight'>10.381</td>
+      <td class='alignRight'>11.130</td>
+      <td class='alignRight'>3.965</td>
+      <td class='alignRight'>534</td>
+      <td class='alignRight'>99</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>130.656</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>HABITAT</td>
+         <td class='alignRight'>117</td>
+      <td class='alignRight'>27.754</td>
+      <td class='alignRight'>170.266</td>
+      <td class='alignRight'>190.590</td>
+      <td class='alignRight'>175.655</td>
+      <td class='alignRight'>29.035</td>
+      <td class='alignRight'>20.066</td>
+      <td class='alignRight'>18.654</td>
+      <td class='alignRight'>17.009</td>
+      <td class='alignRight'>5.558</td>
+      <td class='alignRight'>653</td>
+      <td class='alignRight'>181</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>655.538</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>MODELO</td>
+         <td class='alignRight'>16.042</td>
+      <td class='alignRight'>546.883</td>
+      <td class='alignRight'>334.243</td>
+      <td class='alignRight'>115.166</td>
+      <td class='alignRight'>54.142</td>
+      <td class='alignRight'>6.275</td>
+      <td class='alignRight'>2.738</td>
+      <td class='alignRight'>1.988</td>
+      <td class='alignRight'>1.519</td>
+      <td class='alignRight'>586</td>
+      <td class='alignRight'>132</td>
+      <td class='alignRight'>178</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>1.079.892</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PLANVITAL</td>
+         <td class='alignRight'>190.170</td>
+      <td class='alignRight'>364.427</td>
+      <td class='alignRight'>166.264</td>
+      <td class='alignRight'>90.336</td>
+      <td class='alignRight'>46.439</td>
+      <td class='alignRight'>9.976</td>
+      <td class='alignRight'>6.587</td>
+      <td class='alignRight'>3.978</td>
+      <td class='alignRight'>3.365</td>
+      <td class='alignRight'>1.340</td>
+      <td class='alignRight'>129</td>
+      <td class='alignRight'>41</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>883.052</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PROVIDA</td>
+         <td class='alignRight'>2.450</td>
+      <td class='alignRight'>69.752</td>
+      <td class='alignRight'>234.460</td>
+      <td class='alignRight'>269.581</td>
+      <td class='alignRight'>238.911</td>
+      <td class='alignRight'>51.794</td>
+      <td class='alignRight'>28.756</td>
+      <td class='alignRight'>23.548</td>
+      <td class='alignRight'>18.759</td>
+      <td class='alignRight'>5.720</td>
+      <td class='alignRight'>588</td>
+      <td class='alignRight'>229</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>944.548</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>Total</td>
+         <td class='alignRight'>208.833</td>
+      <td class='alignRight'>1.023.593</td>
+      <td class='alignRight'>1.065.654</td>
+      <td class='alignRight'>807.218</td>
+      <td class='alignRight'>656.540</td>
+      <td class='alignRight'>143.844</td>
+      <td class='alignRight'>100.089</td>
+      <td class='alignRight'>76.180</td>
+      <td class='alignRight'>68.808</td>
+      <td class='alignRight'>24.719</td>
+      <td class='alignRight'>2.837</td>
+      <td class='alignRight'>927</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>4.179.242</td>
+      </tr>
+   
+   </table>
+   </div>
+
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al n&uacute;mero de afiliados activos.</li>
+   <li>S/I: Sin informaci&oacute;n</li>
+   </ul>
+   <br />
+   Un afiliado podr&iacute;a distribuir su saldo a lo m&aacute;s en dos fondos
+   <br><br>
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoC">
+   <div class="table-responsive">
+         <table border='1'>
+   
+   <h4>N&Uacute;MERO DE AFILIADOS AL FONDO C - INTERMEDIO, POR EDAD y A.F.P. (Al 30 de Junio de 2017)</h4>
+
+   <tr>
+   <th rowspan="2">A.F.P.</th>
+   <th colspan="13" class='alignCenter'>EDAD (a&ntilde;os)</th>
+   <th rowspan="2" class='alignRight'>TOTAL</th>
+   </tr>
+
+   <tr>
+   <th class='alignRight'>Hasta 20</th>
+   <th class='alignRight'>+20&nbsp;-25</th>
+   <th class='alignRight'>+25&nbsp;-30</th>
+   <th class='alignRight'>+30&nbsp;-35</th>
+   <th class='alignRight'>+35&nbsp;-40</th>
+   <th class='alignRight'>+40&nbsp;-45</th>
+   <th class='alignRight'>+45&nbsp;-50</th>
+   <th class='alignRight'>+50&nbsp;-55</th>
+   <th class='alignRight'>+55&nbsp;-60</th>
+   <th class='alignRight'>+60&nbsp;-65</th>
+   <th class='alignRight'>+65&nbsp;-70</th>
+   <th class='alignRight'>+de 70</th>
+   <th class='alignRight'>S/I</th>
+   </tr>
+
+
+         <tr>
+   <td class='alignLeft'>CAPITAL</td>
+         <td class='alignRight'>19</td>
+      <td class='alignRight'>2.126</td>
+      <td class='alignRight'>10.241</td>
+      <td class='alignRight'>15.116</td>
+      <td class='alignRight'>71.895</td>
+      <td class='alignRight'>136.568</td>
+      <td class='alignRight'>170.508</td>
+      <td class='alignRight'>189.679</td>
+      <td class='alignRight'>91.722</td>
+      <td class='alignRight'>12.360</td>
+      <td class='alignRight'>1.531</td>
+      <td class='alignRight'>2.571</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>704.336</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>CUPRUM</td>
+         <td class='alignRight'>8</td>
+      <td class='alignRight'>513</td>
+      <td class='alignRight'>4.640</td>
+      <td class='alignRight'>9.999</td>
+      <td class='alignRight'>33.947</td>
+      <td class='alignRight'>47.723</td>
+      <td class='alignRight'>48.637</td>
+      <td class='alignRight'>46.783</td>
+      <td class='alignRight'>27.956</td>
+      <td class='alignRight'>7.860</td>
+      <td class='alignRight'>1.262</td>
+      <td class='alignRight'>289</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>229.617</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>HABITAT</td>
+         <td class='alignRight'>96</td>
+      <td class='alignRight'>3.910</td>
+      <td class='alignRight'>17.739</td>
+      <td class='alignRight'>27.340</td>
+      <td class='alignRight'>203.825</td>
+      <td class='alignRight'>210.024</td>
+      <td class='alignRight'>193.782</td>
+      <td class='alignRight'>170.517</td>
+      <td class='alignRight'>75.714</td>
+      <td class='alignRight'>11.782</td>
+      <td class='alignRight'>1.254</td>
+      <td class='alignRight'>516</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>916.499</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>MODELO</td>
+         <td class='alignRight'>398</td>
+      <td class='alignRight'>17.974</td>
+      <td class='alignRight'>25.087</td>
+      <td class='alignRight'>19.262</td>
+      <td class='alignRight'>44.784</td>
+      <td class='alignRight'>45.264</td>
+      <td class='alignRight'>36.767</td>
+      <td class='alignRight'>28.750</td>
+      <td class='alignRight'>9.365</td>
+      <td class='alignRight'>1.836</td>
+      <td class='alignRight'>300</td>
+      <td class='alignRight'>598</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>230.385</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PLANVITAL</td>
+         <td class='alignRight'>1.926</td>
+      <td class='alignRight'>7.178</td>
+      <td class='alignRight'>9.217</td>
+      <td class='alignRight'>7.869</td>
+      <td class='alignRight'>39.766</td>
+      <td class='alignRight'>61.143</td>
+      <td class='alignRight'>64.010</td>
+      <td class='alignRight'>63.696</td>
+      <td class='alignRight'>31.371</td>
+      <td class='alignRight'>3.539</td>
+      <td class='alignRight'>307</td>
+      <td class='alignRight'>108</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>290.130</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PROVIDA</td>
+         <td class='alignRight'>601</td>
+      <td class='alignRight'>8.538</td>
+      <td class='alignRight'>25.785</td>
+      <td class='alignRight'>31.099</td>
+      <td class='alignRight'>237.601</td>
+      <td class='alignRight'>312.283</td>
+      <td class='alignRight'>333.769</td>
+      <td class='alignRight'>330.338</td>
+      <td class='alignRight'>153.237</td>
+      <td class='alignRight'>17.763</td>
+      <td class='alignRight'>1.348</td>
+      <td class='alignRight'>1.139</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>1.453.501</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>Total</td>
+         <td class='alignRight'>3.048</td>
+      <td class='alignRight'>40.239</td>
+      <td class='alignRight'>92.709</td>
+      <td class='alignRight'>110.685</td>
+      <td class='alignRight'>631.818</td>
+      <td class='alignRight'>813.005</td>
+      <td class='alignRight'>847.473</td>
+      <td class='alignRight'>829.763</td>
+      <td class='alignRight'>389.365</td>
+      <td class='alignRight'>55.140</td>
+      <td class='alignRight'>6.002</td>
+      <td class='alignRight'>5.221</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>3.824.468</td>
+      </tr>
+   
+   </table>
+   </div>
+
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al n&uacute;mero de afiliados activos.</li>
+   <li>S/I: Sin informaci&oacute;n</li>
+   </ul>
+   <br />
+   Un afiliado podr&iacute;a distribuir su saldo a lo m&aacute;s en dos fondos
+   <br><br>
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoD">
+   <div class="table-responsive">
+         <table border='1'>
+   
+   <h4>N&Uacute;MERO DE AFILIADOS AL FONDO D - CONSERVADOR, POR EDAD y A.F.P. (Al 30 de Junio de 2017)</h4>
+
+   <tr>
+   <th rowspan="2">A.F.P.</th>
+   <th colspan="13" class='alignCenter'>EDAD (a&ntilde;os)</th>
+   <th rowspan="2" class='alignRight'>TOTAL</th>
+   </tr>
+
+   <tr>
+   <th class='alignRight'>Hasta 20</th>
+   <th class='alignRight'>+20&nbsp;-25</th>
+   <th class='alignRight'>+25&nbsp;-30</th>
+   <th class='alignRight'>+30&nbsp;-35</th>
+   <th class='alignRight'>+35&nbsp;-40</th>
+   <th class='alignRight'>+40&nbsp;-45</th>
+   <th class='alignRight'>+45&nbsp;-50</th>
+   <th class='alignRight'>+50&nbsp;-55</th>
+   <th class='alignRight'>+55&nbsp;-60</th>
+   <th class='alignRight'>+60&nbsp;-65</th>
+   <th class='alignRight'>+65&nbsp;-70</th>
+   <th class='alignRight'>+de 70</th>
+   <th class='alignRight'>S/I</th>
+   </tr>
+
+
+         <tr>
+   <td class='alignLeft'>CAPITAL</td>
+         <td class='alignRight'>4</td>
+      <td class='alignRight'>656</td>
+      <td class='alignRight'>3.890</td>
+      <td class='alignRight'>4.870</td>
+      <td class='alignRight'>5.061</td>
+      <td class='alignRight'>5.268</td>
+      <td class='alignRight'>5.425</td>
+      <td class='alignRight'>72.755</td>
+      <td class='alignRight'>123.947</td>
+      <td class='alignRight'>64.135</td>
+      <td class='alignRight'>9.841</td>
+      <td class='alignRight'>9.013</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>304.865</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>CUPRUM</td>
+         <td class='alignRight'>2</td>
+      <td class='alignRight'>85</td>
+      <td class='alignRight'>854</td>
+      <td class='alignRight'>2.058</td>
+      <td class='alignRight'>3.012</td>
+      <td class='alignRight'>3.537</td>
+      <td class='alignRight'>3.457</td>
+      <td class='alignRight'>16.211</td>
+      <td class='alignRight'>26.137</td>
+      <td class='alignRight'>12.682</td>
+      <td class='alignRight'>1.874</td>
+      <td class='alignRight'>963</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>70.872</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>HABITAT</td>
+         <td class='alignRight'>12</td>
+      <td class='alignRight'>426</td>
+      <td class='alignRight'>2.983</td>
+      <td class='alignRight'>4.982</td>
+      <td class='alignRight'>6.011</td>
+      <td class='alignRight'>6.308</td>
+      <td class='alignRight'>5.695</td>
+      <td class='alignRight'>80.502</td>
+      <td class='alignRight'>110.649</td>
+      <td class='alignRight'>42.549</td>
+      <td class='alignRight'>4.910</td>
+      <td class='alignRight'>3.974</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>269.001</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>MODELO</td>
+         <td class='alignRight'>99</td>
+      <td class='alignRight'>7.939</td>
+      <td class='alignRight'>9.141</td>
+      <td class='alignRight'>5.985</td>
+      <td class='alignRight'>3.914</td>
+      <td class='alignRight'>2.933</td>
+      <td class='alignRight'>2.688</td>
+      <td class='alignRight'>13.923</td>
+      <td class='alignRight'>16.273</td>
+      <td class='alignRight'>8.263</td>
+      <td class='alignRight'>1.783</td>
+      <td class='alignRight'>3.319</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>76.260</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PLANVITAL</td>
+         <td class='alignRight'>763</td>
+      <td class='alignRight'>2.255</td>
+      <td class='alignRight'>2.901</td>
+      <td class='alignRight'>2.069</td>
+      <td class='alignRight'>1.514</td>
+      <td class='alignRight'>1.295</td>
+      <td class='alignRight'>1.274</td>
+      <td class='alignRight'>22.474</td>
+      <td class='alignRight'>44.248</td>
+      <td class='alignRight'>25.067</td>
+      <td class='alignRight'>4.733</td>
+      <td class='alignRight'>4.602</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>113.195</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PROVIDA</td>
+         <td class='alignRight'>63</td>
+      <td class='alignRight'>912</td>
+      <td class='alignRight'>2.619</td>
+      <td class='alignRight'>5.767</td>
+      <td class='alignRight'>5.604</td>
+      <td class='alignRight'>5.394</td>
+      <td class='alignRight'>5.433</td>
+      <td class='alignRight'>144.106</td>
+      <td class='alignRight'>236.936</td>
+      <td class='alignRight'>100.663</td>
+      <td class='alignRight'>13.789</td>
+      <td class='alignRight'>24.451</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>545.737</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>Total</td>
+         <td class='alignRight'>943</td>
+      <td class='alignRight'>12.273</td>
+      <td class='alignRight'>22.388</td>
+      <td class='alignRight'>25.731</td>
+      <td class='alignRight'>25.116</td>
+      <td class='alignRight'>24.735</td>
+      <td class='alignRight'>23.972</td>
+      <td class='alignRight'>349.971</td>
+      <td class='alignRight'>558.190</td>
+      <td class='alignRight'>253.359</td>
+      <td class='alignRight'>36.930</td>
+      <td class='alignRight'>46.322</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>1.379.930</td>
+      </tr>
+   
+   </table>
+   </div>
+
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al n&uacute;mero de afiliados activos.</li>
+   <li>S/I: Sin informaci&oacute;n</li>
+   </ul>
+   <br />
+   Un afiliado podr&iacute;a distribuir su saldo a lo m&aacute;s en dos fondos
+   <br><br>
+   </div> 
+   <div role="tabpanel" class="tab-pane " id="fondoE">
+   <div class="table-responsive">
+         <table border='1'>
+   
+   <h4>N&Uacute;MERO DE AFILIADOS AL FONDO E - M&Aacute;S CONSERVADOR, POR EDAD y A.F.P. (Al 30 de Junio de 2017)</h4>
+
+   <tr>
+   <th rowspan="2">A.F.P.</th>
+   <th colspan="13" class='alignCenter'>EDAD (a&ntilde;os)</th>
+   <th rowspan="2" class='alignRight'>TOTAL</th>
+   </tr>
+
+   <tr>
+   <th class='alignRight'>Hasta 20</th>
+   <th class='alignRight'>+20&nbsp;-25</th>
+   <th class='alignRight'>+25&nbsp;-30</th>
+   <th class='alignRight'>+30&nbsp;-35</th>
+   <th class='alignRight'>+35&nbsp;-40</th>
+   <th class='alignRight'>+40&nbsp;-45</th>
+   <th class='alignRight'>+45&nbsp;-50</th>
+   <th class='alignRight'>+50&nbsp;-55</th>
+   <th class='alignRight'>+55&nbsp;-60</th>
+   <th class='alignRight'>+60&nbsp;-65</th>
+   <th class='alignRight'>+65&nbsp;-70</th>
+   <th class='alignRight'>+de 70</th>
+   <th class='alignRight'>S/I</th>
+   </tr>
+
+
+         <tr>
+   <td class='alignLeft'>CAPITAL</td>
+         <td class='alignRight'>30</td>
+      <td class='alignRight'>3.587</td>
+      <td class='alignRight'>20.624</td>
+      <td class='alignRight'>27.311</td>
+      <td class='alignRight'>26.863</td>
+      <td class='alignRight'>24.556</td>
+      <td class='alignRight'>22.568</td>
+      <td class='alignRight'>21.402</td>
+      <td class='alignRight'>19.344</td>
+      <td class='alignRight'>10.355</td>
+      <td class='alignRight'>1.456</td>
+      <td class='alignRight'>287</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>178.383</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>CUPRUM</td>
+         <td class='alignRight'>8</td>
+      <td class='alignRight'>382</td>
+      <td class='alignRight'>4.771</td>
+      <td class='alignRight'>13.389</td>
+      <td class='alignRight'>17.179</td>
+      <td class='alignRight'>17.305</td>
+      <td class='alignRight'>14.942</td>
+      <td class='alignRight'>14.884</td>
+      <td class='alignRight'>14.302</td>
+      <td class='alignRight'>8.778</td>
+      <td class='alignRight'>1.561</td>
+      <td class='alignRight'>302</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>107.803</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>HABITAT</td>
+         <td class='alignRight'>76</td>
+      <td class='alignRight'>2.192</td>
+      <td class='alignRight'>17.418</td>
+      <td class='alignRight'>31.360</td>
+      <td class='alignRight'>32.586</td>
+      <td class='alignRight'>30.279</td>
+      <td class='alignRight'>25.268</td>
+      <td class='alignRight'>25.640</td>
+      <td class='alignRight'>23.244</td>
+      <td class='alignRight'>11.573</td>
+      <td class='alignRight'>1.527</td>
+      <td class='alignRight'>368</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>201.531</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>MODELO</td>
+         <td class='alignRight'>2.396</td>
+      <td class='alignRight'>11.501</td>
+      <td class='alignRight'>26.319</td>
+      <td class='alignRight'>27.181</td>
+      <td class='alignRight'>19.274</td>
+      <td class='alignRight'>14.537</td>
+      <td class='alignRight'>11.791</td>
+      <td class='alignRight'>10.047</td>
+      <td class='alignRight'>7.610</td>
+      <td class='alignRight'>3.224</td>
+      <td class='alignRight'>584</td>
+      <td class='alignRight'>1.781</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>136.245</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PLANVITAL</td>
+         <td class='alignRight'>3.007</td>
+      <td class='alignRight'>6.156</td>
+      <td class='alignRight'>16.050</td>
+      <td class='alignRight'>15.483</td>
+      <td class='alignRight'>11.694</td>
+      <td class='alignRight'>8.606</td>
+      <td class='alignRight'>6.767</td>
+      <td class='alignRight'>5.684</td>
+      <td class='alignRight'>4.363</td>
+      <td class='alignRight'>2.203</td>
+      <td class='alignRight'>478</td>
+      <td class='alignRight'>247</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>80.738</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>PROVIDA</td>
+         <td class='alignRight'>603</td>
+      <td class='alignRight'>11.075</td>
+      <td class='alignRight'>22.420</td>
+      <td class='alignRight'>26.424</td>
+      <td class='alignRight'>26.886</td>
+      <td class='alignRight'>27.748</td>
+      <td class='alignRight'>25.716</td>
+      <td class='alignRight'>25.491</td>
+      <td class='alignRight'>20.965</td>
+      <td class='alignRight'>10.263</td>
+      <td class='alignRight'>855</td>
+      <td class='alignRight'>598</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>199.044</td>
+      </tr>
+      <tr>
+   <td class='alignLeft'>Total</td>
+         <td class='alignRight'>6.120</td>
+      <td class='alignRight'>34.893</td>
+      <td class='alignRight'>107.602</td>
+      <td class='alignRight'>141.148</td>
+      <td class='alignRight'>134.482</td>
+      <td class='alignRight'>123.031</td>
+      <td class='alignRight'>107.052</td>
+      <td class='alignRight'>103.148</td>
+      <td class='alignRight'>89.828</td>
+      <td class='alignRight'>46.396</td>
+      <td class='alignRight'>6.461</td>
+      <td class='alignRight'>3.583</td>
+      <td class='alignRight'>0</td>
+      <td class='alignRight'>903.744</td>
+      </tr>
+   
+   </table>
+   </div>
+
+   <ul>
+   <li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes</li>
+   <li>(1) Corresponde al n&uacute;mero de afiliados activos.</li>
+   <li>S/I: Sin informaci&oacute;n</li>
+   </ul>
+   <br />
+   Un afiliado podr&iacute;a distribuir su saldo a lo m&aacute;s en dos fondos
+   <br><br>
+   </div> 
+
+</div> 
+
+Informaci&oacute;n actualizada el 20 de Noviembre de 2017
+
+<br>
+
+

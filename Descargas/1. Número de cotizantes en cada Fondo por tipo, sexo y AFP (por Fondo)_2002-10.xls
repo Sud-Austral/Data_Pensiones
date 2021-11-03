@@ -1,0 +1,868 @@
+<html>
+	<head>
+				
+	</head>
+	<body>
+		
+<table  width="605" border="0" cellspacing="0" cellpadding="0" class="table" >
+  <tr  align="left" valign="top" > 
+    <td  width="12" ><img  src="/safpstats/stats/imag/auxi/block_transparente.gif" width="12" height="17" ></td>
+    <td  >&nbsp;</td>
+  </tr>
+  <tr  align="left" valign="top" > 
+    <td  width="12" >&nbsp;</td>
+    <td  ><!--contenido-->
+      <p  class="titular00" >N&Uacute;MERO DE COTIZANTES POR FONDO, SEG&Uacute;N TIPO, 
+        SEXO Y A.F.P.</p>
+<table  border="1" cellspacing="0" class="table tw15" >
+<caption  ></caption>
+<tr  >
+<td  class="TITUtres" ></td>
+<td  class="TITUtres" > 
+            
+               
+                |</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoA" class="parrafo00" >Fondo A</td>
+<td  class="TITUtres" >|</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoB" class="parrafo00" >Fondo B</td>
+<td  class="TITUtres" >|</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoC" class="parrafo00" >Fondo C</td>
+<td  class="TITUtres" >|</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoD" class="parrafo00" >Fondo D</td>
+<td  class="TITUtres" >|</td>
+<td  class="TITUtres" >&nbsp;</td>
+<td  class="TITUtres" ><a  href="#fondoE" class="parrafo00" >Fondo E</td>
+</tr>
+</table>
+
+          </td>
+        </tr>
+</table>
+
+<br  >
+<a  name="fondoA" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >N&Uacute;MERO DE COTIZANTES EN EL FONDO A POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Octubre de 2002)</caption>
+<tr  >
+<td  rowspan="2" class="NOMBRE" >A.F.P.</td>
+<td  colspan="12" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  class="C1RESUL" >DEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >INDEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >TOTAL</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" >CUPRUM                   </td>
+<td  >      3.040</td>
+<td  >      2.250</td>
+<td  >        790</td>
+<td  >          0</td>
+<td  >         11</td>
+<td  >          7</td>
+<td  >          4</td>
+<td  >          0</td>
+<td  >      3.051</td>
+<td  >      2.257</td>
+<td  >        794</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >HABITAT                  </td>
+<td  >     11.738</td>
+<td  >      8.478</td>
+<td  >      3.260</td>
+<td  >          0</td>
+<td  >        306</td>
+<td  >        205</td>
+<td  >        101</td>
+<td  >          0</td>
+<td  >     12.044</td>
+<td  >      8.683</td>
+<td  >      3.361</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >MAGISTER                 </td>
+<td  >        949</td>
+<td  >        626</td>
+<td  >        323</td>
+<td  >          0</td>
+<td  >          6</td>
+<td  >          3</td>
+<td  >          3</td>
+<td  >          0</td>
+<td  >        955</td>
+<td  >        629</td>
+<td  >        326</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PLANVITAL                </td>
+<td  >        425</td>
+<td  >        343</td>
+<td  >         82</td>
+<td  >          0</td>
+<td  >          4</td>
+<td  >          3</td>
+<td  >          1</td>
+<td  >          0</td>
+<td  >        429</td>
+<td  >        346</td>
+<td  >         83</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PROVIDA                  </td>
+<td  >     17.454</td>
+<td  >     13.290</td>
+<td  >      4.164</td>
+<td  >          0</td>
+<td  >        394</td>
+<td  >        271</td>
+<td  >        123</td>
+<td  >          0</td>
+<td  >     17.848</td>
+<td  >     13.561</td>
+<td  >      4.287</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SANTA MARIA              </td>
+<td  >      4.712</td>
+<td  >      3.637</td>
+<td  >      1.075</td>
+<td  >          0</td>
+<td  >        166</td>
+<td  >        107</td>
+<td  >         59</td>
+<td  >          0</td>
+<td  >      4.878</td>
+<td  >      3.744</td>
+<td  >      1.134</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SUMMA BANSANDER          </td>
+<td  >      4.161</td>
+<td  >      3.238</td>
+<td  >        923</td>
+<td  >          0</td>
+<td  >         13</td>
+<td  >          8</td>
+<td  >          5</td>
+<td  >          0</td>
+<td  >      4.174</td>
+<td  >      3.246</td>
+<td  >        928</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >TOTAL</td>
+<td  >     42.479</td>
+<td  >     31.862</td>
+<td  >     10.617</td>
+<td  >          0</td>
+<td  >        900</td>
+<td  >        604</td>
+<td  >        296</td>
+<td  >          0</td>
+<td  >     43.379</td>
+<td  >     32.466</td>
+<td  >     10.913</td>
+<td  >          0</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo A en Octubre de 2002, por remuneraciones devengadas en Septiembre de 2002.</td>
+</tr>
+</table>
+
+<br  >
+<a  name="fondoB" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >N&Uacute;MERO DE COTIZANTES EN EL FONDO B POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Octubre de 2002)</caption>
+<tr  >
+<td  rowspan="2" class="NOMBRE" >A.F.P.</td>
+<td  colspan="12" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  class="C1RESUL" >DEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >INDEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >TOTAL</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" >CUPRUM                   </td>
+<td  >      6.775</td>
+<td  >      4.342</td>
+<td  >      2.433</td>
+<td  >          0</td>
+<td  >         22</td>
+<td  >         11</td>
+<td  >         11</td>
+<td  >          0</td>
+<td  >      6.797</td>
+<td  >      4.353</td>
+<td  >      2.444</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >HABITAT                  </td>
+<td  >     28.855</td>
+<td  >     17.414</td>
+<td  >     11.441</td>
+<td  >          0</td>
+<td  >        609</td>
+<td  >        336</td>
+<td  >        273</td>
+<td  >          0</td>
+<td  >     29.464</td>
+<td  >     17.750</td>
+<td  >     11.714</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >MAGISTER                 </td>
+<td  >     15.765</td>
+<td  >      9.102</td>
+<td  >      6.663</td>
+<td  >          0</td>
+<td  >         43</td>
+<td  >         16</td>
+<td  >         27</td>
+<td  >          0</td>
+<td  >     15.808</td>
+<td  >      9.118</td>
+<td  >      6.690</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PLANVITAL                </td>
+<td  >      1.494</td>
+<td  >      1.050</td>
+<td  >        444</td>
+<td  >          0</td>
+<td  >          4</td>
+<td  >          4</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >      1.498</td>
+<td  >      1.054</td>
+<td  >        444</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PROVIDA                  </td>
+<td  >    467.888</td>
+<td  >    306.926</td>
+<td  >    160.962</td>
+<td  >          0</td>
+<td  >      5.448</td>
+<td  >      3.225</td>
+<td  >      2.223</td>
+<td  >          0</td>
+<td  >    473.336</td>
+<td  >    310.151</td>
+<td  >    163.185</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SANTA MARIA              </td>
+<td  >    131.845</td>
+<td  >     90.279</td>
+<td  >     41.566</td>
+<td  >          0</td>
+<td  >      2.078</td>
+<td  >      1.232</td>
+<td  >        846</td>
+<td  >          0</td>
+<td  >    133.923</td>
+<td  >     91.511</td>
+<td  >     42.412</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SUMMA BANSANDER          </td>
+<td  >     91.217</td>
+<td  >     58.579</td>
+<td  >     32.635</td>
+<td  >          3</td>
+<td  >        142</td>
+<td  >         86</td>
+<td  >         56</td>
+<td  >          0</td>
+<td  >     91.359</td>
+<td  >     58.665</td>
+<td  >     32.691</td>
+<td  >          3</td>
+</tr>
+<tr  >
+<td  class="ITEM" >TOTAL</td>
+<td  >    743.839</td>
+<td  >    487.692</td>
+<td  >    256.144</td>
+<td  >          3</td>
+<td  >      8.346</td>
+<td  >      4.910</td>
+<td  >      3.436</td>
+<td  >          0</td>
+<td  >    752.185</td>
+<td  >    492.602</td>
+<td  >    259.580</td>
+<td  >          3</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo B en Octubre de 2002, por remuneraciones devengadas en Septiembre de 2002.></td>
+</tr>
+</table>
+
+<br  >
+<a  name="fondoC" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >N&Uacute;MERO DE COTIZANTES EN EL FONDO C POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Octubre de 2002)</caption>
+<tr  >
+<td  rowspan="2" class="NOMBRE" >A.F.P.</td>
+<td  colspan="12" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  class="C1RESUL" >DEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >INDEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >TOTAL</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" >CUPRUM                   </td>
+<td  >    265.155</td>
+<td  >    155.643</td>
+<td  >    109.504</td>
+<td  >          8</td>
+<td  >        920</td>
+<td  >        475</td>
+<td  >        437</td>
+<td  >          8</td>
+<td  >    266.075</td>
+<td  >    156.118</td>
+<td  >    109.941</td>
+<td  >         16</td>
+</tr>
+<tr  >
+<td  class="ITEM" >HABITAT                  </td>
+<td  >    592.006</td>
+<td  >    346.250</td>
+<td  >    245.756</td>
+<td  >          0</td>
+<td  >     16.775</td>
+<td  >      9.521</td>
+<td  >      7.254</td>
+<td  >          0</td>
+<td  >    608.781</td>
+<td  >    355.771</td>
+<td  >    253.010</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >MAGISTER                 </td>
+<td  >     30.965</td>
+<td  >     18.080</td>
+<td  >     12.885</td>
+<td  >          0</td>
+<td  >        145</td>
+<td  >         93</td>
+<td  >         52</td>
+<td  >          0</td>
+<td  >     31.110</td>
+<td  >     18.173</td>
+<td  >     12.937</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PLANVITAL                </td>
+<td  >     77.131</td>
+<td  >     53.837</td>
+<td  >     23.294</td>
+<td  >          0</td>
+<td  >        515</td>
+<td  >        365</td>
+<td  >        150</td>
+<td  >          0</td>
+<td  >     77.646</td>
+<td  >     54.202</td>
+<td  >     23.444</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PROVIDA                  </td>
+<td  >    489.694</td>
+<td  >    335.495</td>
+<td  >    154.199</td>
+<td  >          0</td>
+<td  >     20.867</td>
+<td  >     14.146</td>
+<td  >      6.721</td>
+<td  >          0</td>
+<td  >    510.561</td>
+<td  >    349.641</td>
+<td  >    160.920</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SANTA MARIA              </td>
+<td  >    153.313</td>
+<td  >    107.902</td>
+<td  >     45.411</td>
+<td  >          0</td>
+<td  >      9.158</td>
+<td  >      5.846</td>
+<td  >      3.312</td>
+<td  >          0</td>
+<td  >    162.471</td>
+<td  >    113.748</td>
+<td  >     48.723</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SUMMA BANSANDER          </td>
+<td  >    134.911</td>
+<td  >     92.431</td>
+<td  >     42.480</td>
+<td  >          0</td>
+<td  >        820</td>
+<td  >        510</td>
+<td  >        310</td>
+<td  >          0</td>
+<td  >    135.731</td>
+<td  >     92.941</td>
+<td  >     42.790</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >TOTAL</td>
+<td  >  1.743.175</td>
+<td  >  1.109.638</td>
+<td  >    633.529</td>
+<td  >          8</td>
+<td  >     49.200</td>
+<td  >     30.956</td>
+<td  >     18.236</td>
+<td  >          8</td>
+<td  >  1.792.375</td>
+<td  >  1.140.594</td>
+<td  >    651.765</td>
+<td  >         16</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo C en Octubre de 2002, por remuneraciones devengadas en Septiembre de 2002</td>
+</tr>
+</table>
+
+<br  >
+<a  name="fondoD" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >N&Uacute;MERO DE COTIZANTES EN EL FONDO D POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Octubre de 2002)</caption>
+<tr  >
+<td  rowspan="2" class="NOMBRE" >A.F.P.</td>
+<td  colspan="12" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  class="C1RESUL" >DEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >INDEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >TOTAL</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" >CUPRUM                   </td>
+<td  >      3.464</td>
+<td  >      1.927</td>
+<td  >      1.537</td>
+<td  >          0</td>
+<td  >         18</td>
+<td  >          6</td>
+<td  >         12</td>
+<td  >          0</td>
+<td  >      3.482</td>
+<td  >      1.933</td>
+<td  >      1.549</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >HABITAT                  </td>
+<td  >     11.589</td>
+<td  >      6.125</td>
+<td  >      5.464</td>
+<td  >          0</td>
+<td  >        402</td>
+<td  >        178</td>
+<td  >        224</td>
+<td  >          0</td>
+<td  >     11.991</td>
+<td  >      6.303</td>
+<td  >      5.688</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >MAGISTER                 </td>
+<td  >      7.813</td>
+<td  >      3.348</td>
+<td  >      4.465</td>
+<td  >          0</td>
+<td  >        108</td>
+<td  >         63</td>
+<td  >         45</td>
+<td  >          0</td>
+<td  >      7.921</td>
+<td  >      3.411</td>
+<td  >      4.510</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PLANVITAL                </td>
+<td  >        860</td>
+<td  >        564</td>
+<td  >        296</td>
+<td  >          0</td>
+<td  >          7</td>
+<td  >          4</td>
+<td  >          3</td>
+<td  >          0</td>
+<td  >        867</td>
+<td  >        568</td>
+<td  >        299</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PROVIDA                  </td>
+<td  >     73.535</td>
+<td  >     38.714</td>
+<td  >     34.821</td>
+<td  >          0</td>
+<td  >      8.432</td>
+<td  >      4.504</td>
+<td  >      3.928</td>
+<td  >          0</td>
+<td  >     81.967</td>
+<td  >     43.218</td>
+<td  >     38.749</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SANTA MARIA              </td>
+<td  >     24.872</td>
+<td  >     14.060</td>
+<td  >     10.812</td>
+<td  >          0</td>
+<td  >      3.939</td>
+<td  >      1.941</td>
+<td  >      1.998</td>
+<td  >          0</td>
+<td  >     28.811</td>
+<td  >     16.001</td>
+<td  >     12.810</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SUMMA BANSANDER          </td>
+<td  >     16.105</td>
+<td  >      8.163</td>
+<td  >      7.942</td>
+<td  >          0</td>
+<td  >        461</td>
+<td  >        240</td>
+<td  >        221</td>
+<td  >          0</td>
+<td  >     16.566</td>
+<td  >      8.403</td>
+<td  >      8.163</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >TOTAL</td>
+<td  >    138.238</td>
+<td  >     72.901</td>
+<td  >     65.337</td>
+<td  >          0</td>
+<td  >     13.367</td>
+<td  >      6.936</td>
+<td  >      6.431</td>
+<td  >          0</td>
+<td  >    151.605</td>
+<td  >     79.837</td>
+<td  >     71.768</td>
+<td  >          0</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo D en Octubre de 2002, por remuneraciones devengadas en Septiembre de 2002.</td>
+</tr>
+</table>
+
+<br  >
+<a  name="fondoE" ></a>
+<table  border="1" cellspacing="0" class="table tw7" >
+<caption  >N&Uacute;MERO DE COTIZANTES EN EL FONDO E POR TIPO, SEXO Y A.F.P. (1)<BR  >
+(Al 31 de Octubre de 2002)</caption>
+<tr  >
+<td  rowspan="2" class="NOMBRE" >A.F.P.</td>
+<td  colspan="12" class="TITUuno" >TIPO Y SEXO</td>
+</tr>
+<tr  >
+<td  class="C1RESUL" >DEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >INDEPENDIENTES</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+<td  class="C1RESUL" >TOTAL</td>
+<td  class="C1RESUL" >MASCULINO</td>
+<td  class="C1RESUL" >FEMENINO</td>
+<td  class="C1RESUL" >S/I</td>
+</tr>
+<tr  >
+<td  class="ITEM" >CUPRUM                   </td>
+<td  >      7.336</td>
+<td  >      4.392</td>
+<td  >      2.943</td>
+<td  >          1</td>
+<td  >         31</td>
+<td  >         19</td>
+<td  >         12</td>
+<td  >          0</td>
+<td  >      7.367</td>
+<td  >      4.411</td>
+<td  >      2.955</td>
+<td  >          1</td>
+</tr>
+<tr  >
+<td  class="ITEM" >HABITAT                  </td>
+<td  >     15.331</td>
+<td  >      8.098</td>
+<td  >      7.233</td>
+<td  >          0</td>
+<td  >        416</td>
+<td  >        201</td>
+<td  >        215</td>
+<td  >          0</td>
+<td  >     15.747</td>
+<td  >      8.299</td>
+<td  >      7.448</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >MAGISTER                 </td>
+<td  >      3.114</td>
+<td  >      1.550</td>
+<td  >      1.564</td>
+<td  >          0</td>
+<td  >         14</td>
+<td  >          7</td>
+<td  >          7</td>
+<td  >          0</td>
+<td  >      3.128</td>
+<td  >      1.557</td>
+<td  >      1.571</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PLANVITAL                </td>
+<td  >        524</td>
+<td  >        370</td>
+<td  >        154</td>
+<td  >          0</td>
+<td  >          3</td>
+<td  >          3</td>
+<td  >          0</td>
+<td  >          0</td>
+<td  >        527</td>
+<td  >        373</td>
+<td  >        154</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >PROVIDA                  </td>
+<td  >     22.556</td>
+<td  >     13.554</td>
+<td  >      9.002</td>
+<td  >          0</td>
+<td  >        997</td>
+<td  >        529</td>
+<td  >        468</td>
+<td  >          0</td>
+<td  >     23.553</td>
+<td  >     14.083</td>
+<td  >      9.470</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SANTA MARIA              </td>
+<td  >      7.452</td>
+<td  >      4.582</td>
+<td  >      2.870</td>
+<td  >          0</td>
+<td  >        374</td>
+<td  >        168</td>
+<td  >        206</td>
+<td  >          0</td>
+<td  >      7.826</td>
+<td  >      4.750</td>
+<td  >      3.076</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >SUMMA BANSANDER          </td>
+<td  >      2.290</td>
+<td  >      1.429</td>
+<td  >        861</td>
+<td  >          0</td>
+<td  >         21</td>
+<td  >         15</td>
+<td  >          6</td>
+<td  >          0</td>
+<td  >      2.311</td>
+<td  >      1.444</td>
+<td  >        867</td>
+<td  >          0</td>
+</tr>
+<tr  >
+<td  class="ITEM" >TOTAL</td>
+<td  >     58.603</td>
+<td  >     33.975</td>
+<td  >     24.627</td>
+<td  >          1</td>
+<td  >      1.856</td>
+<td  >        942</td>
+<td  >        914</td>
+<td  >          0</td>
+<td  >     60.459</td>
+<td  >     34.917</td>
+<td  >     25.541</td>
+<td  >          1</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Corresponde al n&uacute;mero de afiliados activos que cotizaron en el Fondo Tipo E en Octubre de 2002, por remuneraciones devengadas en Septiembre de 2002.</td>
+</tr>
+</table>
+
+<!--/contenido--></td>
+  </tr>
+  <tr  align="left" valign="top" >
+    <td  width="12" >&nbsp;</td>
+    <td  align="center" >
+      <table  width="480" border="0" cellspacing="2" cellpadding="2" align="center" class="table" >
+        <tr  align="center" valign="top" > 
+          <td  ><a  href="javascript:history.back();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('volver','','/safpstats/stats/imag/auxi/vol_on.gif',1)" ></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr  align="left" valign="top" > 
+    <td  width="12" >&nbsp;</td>
+    <td  >&nbsp;</td>
+  </tr>
+</table>
+<br  >
+
+ 
+
+	</body>
+</html>

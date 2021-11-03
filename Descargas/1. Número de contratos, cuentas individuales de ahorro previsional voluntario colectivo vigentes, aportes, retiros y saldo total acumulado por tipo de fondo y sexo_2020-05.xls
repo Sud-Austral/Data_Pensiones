@@ -1,0 +1,434 @@
+
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE CONTRATOS, CUENTAS INDIVIDUALES DE AHORRO PREVISIONAL VOLUNTARIO COLECTIVO VIGENTES, APORTES, RETIROS Y SALDO TOTAL ACUMULADO POR TIPO DE FONDO Y SEXO (Al 31 de Mayo de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr>
+<th rowspan="3" class="NOMBRE" nowrap>TIPO DE FONDO Y SEXO</th>
+<th rowspan="3" class="TITUuno" nowrap>N&Uacute;MERO DE<br / >CTAS. INDIV.<br / >DE APVC</th>
+<th colspan="3" class="TITUuno" nowrap>N&Uacute;MERO DE APORTES</th>
+<th colspan="3" class="TITUuno" nowrap>MONTO DE APORTES M$</th>
+<th colspan="3" class="TITUuno" nowrap>N&Uacute;MERO DE RETIROS</th>
+<th colspan="3" class="TITUuno" nowrap>MONTO DE RETIROS M$</th>
+<th colspan="3" class="TITUuno" nowrap>SALDO TOTAL ACUMULADO M$</th>
+</tr>
+<tr><th rowspan="2" class="C1RESUL" nowrap>EMPLEADOR</th>
+<th colspan="2" class="C1RESUL" nowrap>TRABAJADOR</th>
+<th rowspan="2" class="C1RESUL" nowrap>EMPLEADOR</th>
+<th colspan="2" class="C1RESUL" nowrap>TRABAJADOR</th>
+<th rowspan="2" class="C1RESUL" nowrap>EMPLEADOR</th>
+<th colspan="2" class="C1RESUL" nowrap>TRABAJADOR</th>
+<th rowspan="2" class="C1RESUL" nowrap>EMPLEADOR</th>
+<th colspan="2" class="C1RESUL" nowrap>TRABAJADOR</th>
+<th rowspan="2" class="C1RESUL" nowrap>EMPLEADOR</th>
+<th colspan="2" class="C1RESUL" nowrap>TRABAJADOR</th>
+</tr>
+<tr>
+<th nowrap>Reg. Trib.<br / >Letra a)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra b)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra a)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra b)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra a)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra b)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra a)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra b)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra a)<br / >Art. 20L</th>
+<th nowrap>Reg. Trib.<br / >Letra b)<br / >Art. 20L</th>
+</tr>
+</thead>
+
+<tbody>
+   <tr>
+   <td class='alignLeft' nowrap>Fondo Tipo A - M&aacute;s Riesgoso</td>
+   <td>300</td>
+   <td>163</td>
+   <td>222</td>
+   <td>15</td>
+   <td>4.639</td>
+   <td>6.537</td>
+   <td>553</td>
+   <td>2</td>
+   <td>3</td>
+   <td>1</td>
+   <td>211</td>
+   <td>353</td>
+   <td>69</td>
+   <td>139.404</td>
+   <td>226.214</td>
+   <td>299.046</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>246</td>
+   <td>133</td>
+   <td>175</td>
+   <td>15</td>
+   <td>4.137</td>
+   <td>5.778</td>
+   <td>553</td>
+   <td>2</td>
+   <td>3</td>
+   <td>1</td>
+   <td>211</td>
+   <td>353</td>
+   <td>69</td>
+   <td>127.481</td>
+   <td>193.657</td>
+   <td>270.863</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>54</td>
+   <td>30</td>
+   <td>47</td>
+   <td>0</td>
+   <td>502</td>
+   <td>759</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>11.923</td>
+   <td>32.557</td>
+   <td>28.183</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>Fondo Tipo B - Riesgoso</td>
+   <td>97</td>
+   <td>38</td>
+   <td>45</td>
+   <td>4</td>
+   <td>880</td>
+   <td>1.037</td>
+   <td>124</td>
+   <td>0</td>
+   <td>1</td>
+   <td>1</td>
+   <td>0</td>
+   <td>354</td>
+   <td>302</td>
+   <td>30.494</td>
+   <td>37.271</td>
+   <td>70.667</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>79</td>
+   <td>34</td>
+   <td>39</td>
+   <td>4</td>
+   <td>746</td>
+   <td>835</td>
+   <td>124</td>
+   <td>0</td>
+   <td>1</td>
+   <td>1</td>
+   <td>0</td>
+   <td>354</td>
+   <td>302</td>
+   <td>26.909</td>
+   <td>29.628</td>
+   <td>66.952</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>18</td>
+   <td>4</td>
+   <td>6</td>
+   <td>0</td>
+   <td>134</td>
+   <td>202</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>3.585</td>
+   <td>7.643</td>
+   <td>3.715</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>Fondo Tipo C - Intermedio</td>
+   <td>237</td>
+   <td>119</td>
+   <td>152</td>
+   <td>17</td>
+   <td>3.170</td>
+   <td>4.222</td>
+   <td>422</td>
+   <td>1</td>
+   <td>1</td>
+   <td>2</td>
+   <td>207</td>
+   <td>279</td>
+   <td>2.321</td>
+   <td>243.783</td>
+   <td>123.757</td>
+   <td>111.195</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>204</td>
+   <td>97</td>
+   <td>124</td>
+   <td>14</td>
+   <td>2.816</td>
+   <td>3.775</td>
+   <td>404</td>
+   <td>0</td>
+   <td>1</td>
+   <td>1</td>
+   <td>0</td>
+   <td>279</td>
+   <td>2.114</td>
+   <td>228.255</td>
+   <td>104.628</td>
+   <td>102.689</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>33</td>
+   <td>22</td>
+   <td>28</td>
+   <td>3</td>
+   <td>354</td>
+   <td>447</td>
+   <td>18</td>
+   <td>1</td>
+   <td>0</td>
+   <td>1</td>
+   <td>207</td>
+   <td>0</td>
+   <td>207</td>
+   <td>15.528</td>
+   <td>19.129</td>
+   <td>8.506</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>Fondo Tipo D - M&aacute;s Conservador</td>
+   <td>28</td>
+   <td>12</td>
+   <td>15</td>
+   <td>0</td>
+   <td>489</td>
+   <td>604</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>18.763</td>
+   <td>26.862</td>
+   <td>13.405</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>23</td>
+   <td>11</td>
+   <td>14</td>
+   <td>0</td>
+   <td>446</td>
+   <td>561</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>18.456</td>
+   <td>26.595</td>
+   <td>13.365</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>5</td>
+   <td>1</td>
+   <td>1</td>
+   <td>0</td>
+   <td>43</td>
+   <td>43</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>307</td>
+   <td>267</td>
+   <td>40</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>Fondo Tipo E - Conservador</td>
+   <td>185</td>
+   <td>114</td>
+   <td>150</td>
+   <td>10</td>
+   <td>4.499</td>
+   <td>6.166</td>
+   <td>304</td>
+   <td>0</td>
+   <td>1</td>
+   <td>0</td>
+   <td>0</td>
+   <td>237</td>
+   <td>0</td>
+   <td>157.179</td>
+   <td>176.916</td>
+   <td>134.311</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Masculino</td>
+   <td>161</td>
+   <td>105</td>
+   <td>138</td>
+   <td>10</td>
+   <td>4.103</td>
+   <td>5.755</td>
+   <td>304</td>
+   <td>0</td>
+   <td>1</td>
+   <td>0</td>
+   <td>0</td>
+   <td>237</td>
+   <td>0</td>
+   <td>138.468</td>
+   <td>160.460</td>
+   <td>131.757</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- Femenino</td>
+   <td>24</td>
+   <td>9</td>
+   <td>12</td>
+   <td>0</td>
+   <td>396</td>
+   <td>411</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>18.711</td>
+   <td>16.456</td>
+   <td>2.554</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>- S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Mayo de 2021
+<br>
+
+

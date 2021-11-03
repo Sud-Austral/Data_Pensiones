@@ -1,0 +1,254 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES HOMBRES POR ACTIVIDAD ECON&Oacute;MICA Y A.F.P. (1) (Al 31 de Diciembre de 2017)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >ACTIVIDAD ECON&Oacute;MICA</th>
+<th  colspan="6" class="TITUuno" >A.F.P.</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+
+      <tr>
+   <th class="TITUuno">CAPITAL</th>
+   <th class="TITUuno">CUPRUM</th>
+   <th class="TITUuno">HABITAT</th>
+   <th class="TITUuno">MODELO</th>
+   <th class="TITUuno">PLANVITAL</th>
+   <th class="TITUuno">PROVIDA</th>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>AGRICULTURA, GANADERIA, CAZA Y SILVICULTURA</td>
+      <td>24.159</td>
+   <td>4.376</td>
+   <td>30.649</td>
+   <td>22.736</td>
+   <td>37.672</td>
+   <td>78.880</td>
+   <td class="F1RESUL">198.472</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>PESCA</td>
+      <td>1.622</td>
+   <td>969</td>
+   <td>5.238</td>
+   <td>876</td>
+   <td>1.961</td>
+   <td>6.626</td>
+   <td class="F1RESUL">17.292</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>EXPLOTACION DE MINAS Y CANTERAS</td>
+      <td>25.262</td>
+   <td>15.091</td>
+   <td>10.604</td>
+   <td>4.921</td>
+   <td>2.456</td>
+   <td>10.564</td>
+   <td class="F1RESUL">68.898</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>INDUSTRIAS MANUFACTURERAS NO METALICAS</td>
+      <td>36.516</td>
+   <td>14.968</td>
+   <td>43.085</td>
+   <td>29.231</td>
+   <td>18.186</td>
+   <td>102.381</td>
+   <td class="F1RESUL">244.367</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>INDUSTRIAS MANUFACTURERAS METALICAS</td>
+      <td>15.577</td>
+   <td>6.042</td>
+   <td>23.057</td>
+   <td>14.201</td>
+   <td>7.355</td>
+   <td>34.599</td>
+   <td class="F1RESUL">100.831</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>SUMINISTRO DE ELECTRICIDAD, GAS Y AGUA</td>
+      <td>3.994</td>
+   <td>3.110</td>
+   <td>5.818</td>
+   <td>2.344</td>
+   <td>1.179</td>
+   <td>5.030</td>
+   <td class="F1RESUL">21.475</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>CONSTRUCCION</td>
+      <td>57.860</td>
+   <td>14.701</td>
+   <td>108.931</td>
+   <td>43.974</td>
+   <td>42.586</td>
+   <td>113.624</td>
+   <td class="F1RESUL">381.676</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>COM. POR MAYOR Y MENOR, REP. VEHICULOS AUTOMOTORES/ENSERES DOMESTICOS</td>
+      <td>62.619</td>
+   <td>24.960</td>
+   <td>75.706</td>
+   <td>67.239</td>
+   <td>46.001</td>
+   <td>89.973</td>
+   <td class="F1RESUL">366.498</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>HOTELES Y RESTAURANTES</td>
+      <td>10.064</td>
+   <td>1.968</td>
+   <td>13.467</td>
+   <td>13.514</td>
+   <td>12.166</td>
+   <td>15.943</td>
+   <td class="F1RESUL">67.122</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>TRANSPORTE, ALMACENAMIENTO Y COMUNICACIONES</td>
+      <td>42.662</td>
+   <td>12.328</td>
+   <td>51.479</td>
+   <td>25.960</td>
+   <td>16.781</td>
+   <td>63.062</td>
+   <td class="F1RESUL">212.272</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>INTERMEDIACION FINANCIERA</td>
+      <td>16.808</td>
+   <td>11.797</td>
+   <td>22.195</td>
+   <td>15.991</td>
+   <td>7.968</td>
+   <td>13.748</td>
+   <td class="F1RESUL">88.507</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ACTIVIDADES INMOBILIARIAS, EMPRESARIALES Y DE ALQUILER</td>
+      <td>55.568</td>
+   <td>22.421</td>
+   <td>90.476</td>
+   <td>63.054</td>
+   <td>31.238</td>
+   <td>65.887</td>
+   <td class="F1RESUL">328.644</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ADM. PUBLICA Y DEFENSA, PLANES DE SEG. SOCIAL, AFILIACION OBLIGATORIA</td>
+      <td>31.885</td>
+   <td>16.744</td>
+   <td>27.792</td>
+   <td>17.429</td>
+   <td>14.915</td>
+   <td>22.948</td>
+   <td class="F1RESUL">131.713</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ENSEÑANZA</td>
+      <td>16.890</td>
+   <td>12.280</td>
+   <td>27.063</td>
+   <td>13.423</td>
+   <td>7.043</td>
+   <td>16.345</td>
+   <td class="F1RESUL">93.044</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>SERVICIOS SOCIALES Y DE SALUD</td>
+      <td>12.857</td>
+   <td>8.229</td>
+   <td>16.766</td>
+   <td>7.521</td>
+   <td>4.994</td>
+   <td>15.327</td>
+   <td class="F1RESUL">65.694</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>OTRAS ACTIVIDADES DE SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES</td>
+      <td>24.428</td>
+   <td>24.286</td>
+   <td>26.588</td>
+   <td>15.519</td>
+   <td>36.037</td>
+   <td>273.964</td>
+   <td class="F1RESUL">400.822</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>CONSEJO DE ADMINISTRACION DE EDIFICIOS Y CONDOMINIOS</td>
+      <td>5.927</td>
+   <td>390</td>
+   <td>6.950</td>
+   <td>1.442</td>
+   <td>850</td>
+   <td>0</td>
+   <td class="F1RESUL">15.559</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>ORGANIZACIONES Y ORGANOS EXTRATERRITORIALES</td>
+      <td>0</td>
+   <td>94</td>
+   <td>314</td>
+   <td>0</td>
+   <td>0</td>
+   <td>95</td>
+   <td class="F1RESUL">503</td>
+
+      </tr>
+         <tr>
+   <td class='alignLeft' class=ITEM>SIN INFORMACION</td>
+      <td>74.530</td>
+   <td>62.502</td>
+   <td>14.616</td>
+   <td>43.494</td>
+   <td>111.770</td>
+   <td>0</td>
+   <td class="F1RESUL">306.912</td>
+
+      </tr>
+         <tr class='F1RESUL'>
+   <td class='alignLeft' class='F1TOTAL'>TOTAL</td>
+      <td>519.228</td>
+   <td>257.256</td>
+   <td>600.794</td>
+   <td>402.869</td>
+   <td>401.158</td>
+   <td>928.996</td>
+   <td class="F1RESUL">3.110.301</td>
+
+      </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados hombres que cotizaron en 201712, por remuneraciones devengadas en Noviembre de 2017.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 12 de Febrero de 2018
+<br>
+
+

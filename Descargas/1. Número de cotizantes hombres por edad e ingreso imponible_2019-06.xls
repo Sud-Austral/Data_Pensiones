@@ -1,0 +1,859 @@
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES HOMBRES POR EDAD E INGRESO IMPONIBLE (1) (Al 30 de Junio de 2019)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="2" class="NOMBRE" >INGRESO IMPONIBLE<BR  >(miles de pesos)</th>
+<th  colspan="13" class="TITUuno" >EDAD (a&ntilde;os)</th>
+<th  rowspan="2" class="TITUuno" >TOTAL</th>
+</tr>
+<tr  >
+<th  class="SUBTITUdos" >Hasta 20</th>
+<th  class="SUBTITUdos" >+20&nbsp;-25</th>
+<th  class="SUBTITUdos" >+25&nbsp;-30</th>
+<th  class="SUBTITUdos" >+30&nbsp;-35</th>
+<th  class="SUBTITUdos" >+35&nbsp;-40</th>
+<th  class="SUBTITUdos" >+40&nbsp;-45</th>
+<th  class="SUBTITUdos" >+45&nbsp;-50</th>
+<th  class="SUBTITUdos" >+50&nbsp;-55</th>
+<th  class="SUBTITUdos" >+55&nbsp;-60</th>
+<th  class="SUBTITUdos" >+60&nbsp;-65</th>
+<th  class="SUBTITUdos" >+65&nbsp;-70</th>
+<th  class="SUBTITUdos" >+de 70</th>
+<th  class="SUBTITUdos" >S/I</th>
+</tr>
+</thead>
+
+<tbody>
+   <td class='alignLeft' class=ITEM nowrap>+ 0 - 20&nbsp;</td>
+   <td>705</td>
+   <td>1.672</td>
+   <td>1.557</td>
+   <td>1.013</td>
+   <td>830</td>
+   <td>660</td>
+   <td>601</td>
+   <td>524</td>
+   <td>449</td>
+   <td>228</td>
+   <td>13</td>
+   <td>4</td>
+   <td>0</td>
+   <td class='F1RESUL'>8.256</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 20 - 40&nbsp;</td>
+   <td>1.174</td>
+   <td>3.008</td>
+   <td>2.803</td>
+   <td>2.050</td>
+   <td>1.637</td>
+   <td>1.339</td>
+   <td>1.187</td>
+   <td>1.110</td>
+   <td>817</td>
+   <td>476</td>
+   <td>24</td>
+   <td>29</td>
+   <td>0</td>
+   <td class='F1RESUL'>15.654</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 40 - 60&nbsp;</td>
+   <td>1.198</td>
+   <td>2.989</td>
+   <td>2.771</td>
+   <td>2.031</td>
+   <td>1.670</td>
+   <td>1.364</td>
+   <td>1.253</td>
+   <td>1.181</td>
+   <td>980</td>
+   <td>544</td>
+   <td>24</td>
+   <td>16</td>
+   <td>0</td>
+   <td class='F1RESUL'>16.021</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 60 - 100&nbsp;</td>
+   <td>2.478</td>
+   <td>6.001</td>
+   <td>5.457</td>
+   <td>4.001</td>
+   <td>3.235</td>
+   <td>2.705</td>
+   <td>2.508</td>
+   <td>2.311</td>
+   <td>1.837</td>
+   <td>1.031</td>
+   <td>36</td>
+   <td>26</td>
+   <td>0</td>
+   <td class='F1RESUL'>31.626</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 100 - 150&nbsp;</td>
+   <td>3.141</td>
+   <td>8.275</td>
+   <td>7.470</td>
+   <td>5.414</td>
+   <td>4.406</td>
+   <td>3.825</td>
+   <td>3.591</td>
+   <td>3.751</td>
+   <td>3.195</td>
+   <td>1.978</td>
+   <td>63</td>
+   <td>23</td>
+   <td>0</td>
+   <td class='F1RESUL'>45.132</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 150 - 200&nbsp;</td>
+   <td>4.130</td>
+   <td>10.085</td>
+   <td>9.143</td>
+   <td>6.543</td>
+   <td>5.736</td>
+   <td>5.274</td>
+   <td>5.383</td>
+   <td>5.621</td>
+   <td>5.082</td>
+   <td>3.164</td>
+   <td>129</td>
+   <td>45</td>
+   <td>0</td>
+   <td class='F1RESUL'>60.335</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 200 - 250&nbsp;</td>
+   <td>4.258</td>
+   <td>11.186</td>
+   <td>8.813</td>
+   <td>5.907</td>
+   <td>4.585</td>
+   <td>3.795</td>
+   <td>3.491</td>
+   <td>3.383</td>
+   <td>2.754</td>
+   <td>1.635</td>
+   <td>40</td>
+   <td>29</td>
+   <td>0</td>
+   <td class='F1RESUL'>49.876</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 250 - 300&nbsp;</td>
+   <td>5.422</td>
+   <td>11.756</td>
+   <td>9.811</td>
+   <td>6.563</td>
+   <td>5.326</td>
+   <td>4.415</td>
+   <td>4.239</td>
+   <td>4.545</td>
+   <td>3.952</td>
+   <td>2.587</td>
+   <td>99</td>
+   <td>28</td>
+   <td>0</td>
+   <td class='F1RESUL'>58.743</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 300 - 350&nbsp;</td>
+   <td>5.800</td>
+   <td>22.079</td>
+   <td>26.350</td>
+   <td>21.971</td>
+   <td>20.447</td>
+   <td>21.230</td>
+   <td>23.792</td>
+   <td>27.626</td>
+   <td>27.969</td>
+   <td>19.075</td>
+   <td>1.061</td>
+   <td>416</td>
+   <td>0</td>
+   <td class='F1RESUL'>217.816</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 350 - 400&nbsp;</td>
+   <td>11.058</td>
+   <td>43.670</td>
+   <td>50.608</td>
+   <td>39.032</td>
+   <td>32.623</td>
+   <td>29.789</td>
+   <td>30.066</td>
+   <td>30.959</td>
+   <td>27.743</td>
+   <td>16.633</td>
+   <td>658</td>
+   <td>170</td>
+   <td>0</td>
+   <td class='F1RESUL'>313.009</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 400 - 450&nbsp;</td>
+   <td>7.169</td>
+   <td>29.434</td>
+   <td>33.369</td>
+   <td>23.564</td>
+   <td>18.656</td>
+   <td>16.524</td>
+   <td>16.558</td>
+   <td>17.283</td>
+   <td>16.019</td>
+   <td>9.838</td>
+   <td>417</td>
+   <td>67</td>
+   <td>0</td>
+   <td class='F1RESUL'>188.898</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 450 - 500&nbsp;</td>
+   <td>5.196</td>
+   <td>25.765</td>
+   <td>31.839</td>
+   <td>23.783</td>
+   <td>18.875</td>
+   <td>16.440</td>
+   <td>16.524</td>
+   <td>17.037</td>
+   <td>15.254</td>
+   <td>9.290</td>
+   <td>346</td>
+   <td>66</td>
+   <td>0</td>
+   <td class='F1RESUL'>180.415</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 500 - 550&nbsp;</td>
+   <td>3.520</td>
+   <td>20.199</td>
+   <td>26.410</td>
+   <td>19.493</td>
+   <td>15.601</td>
+   <td>13.810</td>
+   <td>13.457</td>
+   <td>13.973</td>
+   <td>12.512</td>
+   <td>7.097</td>
+   <td>292</td>
+   <td>40</td>
+   <td>0</td>
+   <td class='F1RESUL'>146.404</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 550 - 600&nbsp;</td>
+   <td>2.447</td>
+   <td>16.453</td>
+   <td>24.610</td>
+   <td>19.571</td>
+   <td>15.922</td>
+   <td>13.931</td>
+   <td>13.858</td>
+   <td>13.917</td>
+   <td>11.968</td>
+   <td>6.677</td>
+   <td>292</td>
+   <td>57</td>
+   <td>0</td>
+   <td class='F1RESUL'>139.703</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 600 - 650&nbsp;</td>
+   <td>1.804</td>
+   <td>15.141</td>
+   <td>25.025</td>
+   <td>19.978</td>
+   <td>16.728</td>
+   <td>14.465</td>
+   <td>14.155</td>
+   <td>14.126</td>
+   <td>11.751</td>
+   <td>6.693</td>
+   <td>236</td>
+   <td>39</td>
+   <td>0</td>
+   <td class='F1RESUL'>140.141</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 650 - 700&nbsp;</td>
+   <td>1.165</td>
+   <td>11.610</td>
+   <td>20.554</td>
+   <td>17.115</td>
+   <td>14.299</td>
+   <td>12.676</td>
+   <td>12.169</td>
+   <td>12.273</td>
+   <td>9.973</td>
+   <td>5.384</td>
+   <td>236</td>
+   <td>34</td>
+   <td>0</td>
+   <td class='F1RESUL'>117.488</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 700 - 750&nbsp;</td>
+   <td>890</td>
+   <td>9.569</td>
+   <td>18.903</td>
+   <td>16.104</td>
+   <td>13.638</td>
+   <td>12.151</td>
+   <td>11.572</td>
+   <td>11.255</td>
+   <td>9.081</td>
+   <td>4.857</td>
+   <td>223</td>
+   <td>32</td>
+   <td>0</td>
+   <td class='F1RESUL'>108.275</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 750 - 800&nbsp;</td>
+   <td>755</td>
+   <td>7.981</td>
+   <td>16.836</td>
+   <td>14.908</td>
+   <td>12.698</td>
+   <td>11.380</td>
+   <td>10.843</td>
+   <td>10.739</td>
+   <td>8.498</td>
+   <td>4.558</td>
+   <td>253</td>
+   <td>43</td>
+   <td>0</td>
+   <td class='F1RESUL'>99.492</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 800 - 850&nbsp;</td>
+   <td>483</td>
+   <td>6.046</td>
+   <td>14.213</td>
+   <td>13.121</td>
+   <td>11.308</td>
+   <td>9.951</td>
+   <td>9.667</td>
+   <td>8.925</td>
+   <td>7.296</td>
+   <td>3.765</td>
+   <td>208</td>
+   <td>26</td>
+   <td>0</td>
+   <td class='F1RESUL'>85.009</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 850 - 900&nbsp;</td>
+   <td>297</td>
+   <td>5.182</td>
+   <td>13.760</td>
+   <td>12.686</td>
+   <td>10.996</td>
+   <td>9.437</td>
+   <td>9.087</td>
+   <td>8.380</td>
+   <td>6.297</td>
+   <td>3.311</td>
+   <td>165</td>
+   <td>22</td>
+   <td>0</td>
+   <td class='F1RESUL'>79.620</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 900 - 950&nbsp;</td>
+   <td>261</td>
+   <td>4.213</td>
+   <td>12.075</td>
+   <td>11.404</td>
+   <td>9.747</td>
+   <td>8.588</td>
+   <td>7.909</td>
+   <td>7.289</td>
+   <td>5.632</td>
+   <td>2.864</td>
+   <td>162</td>
+   <td>21</td>
+   <td>0</td>
+   <td class='F1RESUL'>70.165</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+ 950 -1000&nbsp;</td>
+   <td>218</td>
+   <td>3.632</td>
+   <td>11.708</td>
+   <td>11.208</td>
+   <td>9.683</td>
+   <td>8.507</td>
+   <td>7.592</td>
+   <td>6.875</td>
+   <td>5.381</td>
+   <td>2.804</td>
+   <td>161</td>
+   <td>35</td>
+   <td>0</td>
+   <td class='F1RESUL'>67.804</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1000 -1050&nbsp;</td>
+   <td>153</td>
+   <td>2.811</td>
+   <td>9.878</td>
+   <td>9.760</td>
+   <td>8.505</td>
+   <td>7.252</td>
+   <td>6.792</td>
+   <td>5.928</td>
+   <td>4.528</td>
+   <td>2.303</td>
+   <td>144</td>
+   <td>18</td>
+   <td>0</td>
+   <td class='F1RESUL'>58.072</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1050 -1100&nbsp;</td>
+   <td>122</td>
+   <td>2.377</td>
+   <td>8.708</td>
+   <td>8.838</td>
+   <td>7.726</td>
+   <td>6.668</td>
+   <td>6.123</td>
+   <td>5.348</td>
+   <td>3.829</td>
+   <td>1.998</td>
+   <td>105</td>
+   <td>16</td>
+   <td>0</td>
+   <td class='F1RESUL'>51.858</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1100 -1150&nbsp;</td>
+   <td>130</td>
+   <td>2.189</td>
+   <td>8.225</td>
+   <td>8.755</td>
+   <td>7.317</td>
+   <td>6.426</td>
+   <td>5.811</td>
+   <td>5.016</td>
+   <td>3.697</td>
+   <td>1.810</td>
+   <td>122</td>
+   <td>17</td>
+   <td>0</td>
+   <td class='F1RESUL'>49.515</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1150 -1200&nbsp;</td>
+   <td>95</td>
+   <td>1.701</td>
+   <td>6.974</td>
+   <td>7.729</td>
+   <td>6.728</td>
+   <td>5.889</td>
+   <td>5.209</td>
+   <td>4.403</td>
+   <td>3.170</td>
+   <td>1.706</td>
+   <td>94</td>
+   <td>18</td>
+   <td>0</td>
+   <td class='F1RESUL'>43.716</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1200 -1250&nbsp;</td>
+   <td>71</td>
+   <td>1.524</td>
+   <td>6.539</td>
+   <td>6.927</td>
+   <td>6.175</td>
+   <td>5.290</td>
+   <td>4.721</td>
+   <td>4.093</td>
+   <td>3.041</td>
+   <td>1.578</td>
+   <td>112</td>
+   <td>12</td>
+   <td>0</td>
+   <td class='F1RESUL'>40.083</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1250 -1300&nbsp;</td>
+   <td>70</td>
+   <td>1.237</td>
+   <td>5.806</td>
+   <td>6.647</td>
+   <td>5.976</td>
+   <td>5.046</td>
+   <td>4.311</td>
+   <td>3.777</td>
+   <td>2.794</td>
+   <td>1.403</td>
+   <td>93</td>
+   <td>13</td>
+   <td>0</td>
+   <td class='F1RESUL'>37.173</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1300 -1350&nbsp;</td>
+   <td>43</td>
+   <td>1.017</td>
+   <td>4.719</td>
+   <td>5.911</td>
+   <td>5.317</td>
+   <td>4.544</td>
+   <td>3.992</td>
+   <td>3.374</td>
+   <td>2.606</td>
+   <td>1.305</td>
+   <td>110</td>
+   <td>9</td>
+   <td>0</td>
+   <td class='F1RESUL'>32.947</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1350 -1400&nbsp;</td>
+   <td>34</td>
+   <td>903</td>
+   <td>4.801</td>
+   <td>5.805</td>
+   <td>5.263</td>
+   <td>4.383</td>
+   <td>3.939</td>
+   <td>3.363</td>
+   <td>2.428</td>
+   <td>1.320</td>
+   <td>168</td>
+   <td>31</td>
+   <td>0</td>
+   <td class='F1RESUL'>32.438</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1400 -1450&nbsp;</td>
+   <td>27</td>
+   <td>748</td>
+   <td>4.038</td>
+   <td>4.885</td>
+   <td>4.469</td>
+   <td>3.927</td>
+   <td>3.403</td>
+   <td>2.835</td>
+   <td>1.976</td>
+   <td>1.139</td>
+   <td>145</td>
+   <td>15</td>
+   <td>0</td>
+   <td class='F1RESUL'>27.607</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1450 -1500&nbsp;</td>
+   <td>31</td>
+   <td>704</td>
+   <td>3.767</td>
+   <td>4.699</td>
+   <td>4.474</td>
+   <td>3.811</td>
+   <td>3.296</td>
+   <td>2.841</td>
+   <td>2.050</td>
+   <td>1.075</td>
+   <td>110</td>
+   <td>20</td>
+   <td>0</td>
+   <td class='F1RESUL'>26.878</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1500 -1550&nbsp;</td>
+   <td>30</td>
+   <td>659</td>
+   <td>3.774</td>
+   <td>4.768</td>
+   <td>4.413</td>
+   <td>3.834</td>
+   <td>3.223</td>
+   <td>2.646</td>
+   <td>1.974</td>
+   <td>1.015</td>
+   <td>95</td>
+   <td>6</td>
+   <td>0</td>
+   <td class='F1RESUL'>26.437</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1550 -1600&nbsp;</td>
+   <td>21</td>
+   <td>455</td>
+   <td>3.044</td>
+   <td>3.924</td>
+   <td>3.550</td>
+   <td>3.238</td>
+   <td>2.762</td>
+   <td>2.289</td>
+   <td>1.694</td>
+   <td>919</td>
+   <td>75</td>
+   <td>14</td>
+   <td>0</td>
+   <td class='F1RESUL'>21.985</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1600 -1650&nbsp;</td>
+   <td>13</td>
+   <td>452</td>
+   <td>3.146</td>
+   <td>4.283</td>
+   <td>4.059</td>
+   <td>3.307</td>
+   <td>2.821</td>
+   <td>2.355</td>
+   <td>1.762</td>
+   <td>997</td>
+   <td>103</td>
+   <td>15</td>
+   <td>0</td>
+   <td class='F1RESUL'>23.313</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1650 -1700&nbsp;</td>
+   <td>12</td>
+   <td>381</td>
+   <td>2.580</td>
+   <td>3.495</td>
+   <td>3.385</td>
+   <td>2.918</td>
+   <td>2.413</td>
+   <td>2.012</td>
+   <td>1.559</td>
+   <td>952</td>
+   <td>111</td>
+   <td>29</td>
+   <td>0</td>
+   <td class='F1RESUL'>19.847</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1700 -1750&nbsp;</td>
+   <td>16</td>
+   <td>346</td>
+   <td>2.389</td>
+   <td>3.145</td>
+   <td>3.070</td>
+   <td>2.705</td>
+   <td>2.275</td>
+   <td>1.766</td>
+   <td>1.415</td>
+   <td>844</td>
+   <td>100</td>
+   <td>20</td>
+   <td>0</td>
+   <td class='F1RESUL'>18.091</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1750 -1800&nbsp;</td>
+   <td>8</td>
+   <td>299</td>
+   <td>2.409</td>
+   <td>3.408</td>
+   <td>3.222</td>
+   <td>2.678</td>
+   <td>2.232</td>
+   <td>1.791</td>
+   <td>1.385</td>
+   <td>882</td>
+   <td>91</td>
+   <td>20</td>
+   <td>0</td>
+   <td class='F1RESUL'>18.425</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1800 -1850&nbsp;</td>
+   <td>10</td>
+   <td>251</td>
+   <td>2.136</td>
+   <td>2.950</td>
+   <td>2.905</td>
+   <td>2.525</td>
+   <td>2.040</td>
+   <td>1.767</td>
+   <td>1.336</td>
+   <td>864</td>
+   <td>87</td>
+   <td>15</td>
+   <td>0</td>
+   <td class='F1RESUL'>16.886</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1850 -1900&nbsp;</td>
+   <td>12</td>
+   <td>281</td>
+   <td>2.101</td>
+   <td>2.939</td>
+   <td>2.700</td>
+   <td>2.238</td>
+   <td>1.925</td>
+   <td>1.603</td>
+   <td>1.297</td>
+   <td>798</td>
+   <td>99</td>
+   <td>18</td>
+   <td>0</td>
+   <td class='F1RESUL'>16.011</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1900 -1950&nbsp;</td>
+   <td>8</td>
+   <td>191</td>
+   <td>1.980</td>
+   <td>2.963</td>
+   <td>2.946</td>
+   <td>2.635</td>
+   <td>2.088</td>
+   <td>1.656</td>
+   <td>1.345</td>
+   <td>811</td>
+   <td>85</td>
+   <td>9</td>
+   <td>0</td>
+   <td class='F1RESUL'>16.717</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+1950 -2000&nbsp;</td>
+   <td>9</td>
+   <td>198</td>
+   <td>1.692</td>
+   <td>2.716</td>
+   <td>2.728</td>
+   <td>2.590</td>
+   <td>1.994</td>
+   <td>1.641</td>
+   <td>1.280</td>
+   <td>812</td>
+   <td>91</td>
+   <td>16</td>
+   <td>0</td>
+   <td class='F1RESUL'>15.767</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+2000 -2050&nbsp;</td>
+   <td>3</td>
+   <td>161</td>
+   <td>1.588</td>
+   <td>2.590</td>
+   <td>2.457</td>
+   <td>2.184</td>
+   <td>1.844</td>
+   <td>1.602</td>
+   <td>1.275</td>
+   <td>731</td>
+   <td>103</td>
+   <td>20</td>
+   <td>0</td>
+   <td class='F1RESUL'>14.558</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+2050 -2100&nbsp;</td>
+   <td>3</td>
+   <td>116</td>
+   <td>1.384</td>
+   <td>2.221</td>
+   <td>2.261</td>
+   <td>1.925</td>
+   <td>1.600</td>
+   <td>1.357</td>
+   <td>1.044</td>
+   <td>597</td>
+   <td>97</td>
+   <td>12</td>
+   <td>0</td>
+   <td class='F1RESUL'>12.617</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+2100 -2150&nbsp;</td>
+   <td>10</td>
+   <td>207</td>
+   <td>1.728</td>
+   <td>2.645</td>
+   <td>2.526</td>
+   <td>2.210</td>
+   <td>1.882</td>
+   <td>1.468</td>
+   <td>1.257</td>
+   <td>775</td>
+   <td>83</td>
+   <td>16</td>
+   <td>0</td>
+   <td class='F1RESUL'>14.807</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>+2150 -2200&nbsp;</td>
+   <td>108</td>
+   <td>1.549</td>
+   <td>18.935</td>
+   <td>43.918</td>
+   <td>56.788</td>
+   <td>56.206</td>
+   <td>48.559</td>
+   <td>39.133</td>
+   <td>30.812</td>
+   <td>18.130</td>
+   <td>3.686</td>
+   <td>1.070</td>
+   <td>0</td>
+   <td class='F1RESUL'>318.894</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>TOTAL&nbsp;</td>
+   <td>64.608</td>
+   <td>296.703</td>
+   <td>486.426</td>
+   <td>453.381</td>
+   <td>407.606</td>
+   <td>366.685</td>
+   <td>344.757</td>
+   <td>327.147</td>
+   <td>273.994</td>
+   <td>159.253</td>
+   <td>11.247</td>
+   <td>2.717</td>
+   <td>0</td>
+   <td class='F1RESUL'>3.194.524</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>Ingreso M&iacute;nimo (>=18 Y <=65 a&ntilde;os)&nbsp;</td>
+   <td>1.752</td>
+   <td>8.420</td>
+   <td>12.570</td>
+   <td>12.061</td>
+   <td>12.400</td>
+   <td>13.969</td>
+   <td>15.962</td>
+   <td>19.095</td>
+   <td>19.730</td>
+   <td>13.373</td>
+   <td>1</td>
+   <td>0</td>
+   <td>0</td>
+   <td class='F1RESUL'>129.333</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>Ingreso M&iacute;nimo (< 18 Y > 65 a&ntilde;os)&nbsp;</td>
+   <td>2</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>381</td>
+   <td>129</td>
+   <td>0</td>
+   <td class='F1RESUL'>512</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>Ingreso M&iacute;nimo (trab.casa part.)&nbsp;</td>
+   <td>55</td>
+   <td>214</td>
+   <td>307</td>
+   <td>295</td>
+   <td>258</td>
+   <td>252</td>
+   <td>287</td>
+   <td>305</td>
+   <td>322</td>
+   <td>242</td>
+   <td>10</td>
+   <td>5</td>
+   <td>0</td>
+   <td class='F1RESUL'>2.552</td>
+   </tr>
+   <td class='alignLeft' class=ITEM nowrap>Tope Imponible&nbsp;</td>
+   <td>60</td>
+   <td>899</td>
+   <td>13.561</td>
+   <td>34.306</td>
+   <td>48.895</td>
+   <td>49.651</td>
+   <td>43.245</td>
+   <td>34.896</td>
+   <td>27.589</td>
+   <td>16.155</td>
+   <td>3.348</td>
+   <td>987</td>
+   <td>0</td>
+   <td class='F1RESUL'>273.592</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados que cotizaron en 201906, por remuneraciones devengadas en Mayo de 2019.</li>
+<li>S/I Sin informaci&oacute;n</li>
+</ul>
+
+ Informaci&oacute;n actualizada el 9 de Noviembre de 2020
+<br>
+
+

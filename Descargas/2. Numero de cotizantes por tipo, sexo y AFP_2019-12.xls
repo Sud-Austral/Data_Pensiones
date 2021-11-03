@@ -1,0 +1,205 @@
+
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE COTIZANTES POR TIPO, SEXO Y A.F.P. (1) (Al 31 de Diciembre de 2019)</h4>
+      <table border='1'>
+   
+<thead>
+<tr  >
+<th  rowspan="3" class="NOMBRE" >A.F.P.</th>
+<th  colspan="16" class="TITUuno" >TIPO Y SEXO</th>
+</tr>
+<tr  >
+<th  colspan="4" class="C1RESUL" >DEPENDIENTES</th>
+<th  colspan="4" class="C1RESUL" >INDEPENDIENTES</th>
+<th  colspan="4" class="C1RESUL" >AFILIADOS VOLUNTARIOS</th>
+<th  colspan="4" class="C1RESUL" >TOTAL</th>
+</tr>
+<tr>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+<th>Total</th>
+<th>Masculino</th>
+<th>Femenino</th>
+<th>S/I</th>
+</tr>
+</thead>
+
+<tbody>
+   <tr>
+   <td class='alignLeft' nowrap>CAPITAL</td>
+   <td>861.946</td>
+   <td>502.355</td>
+   <td>359.591</td>
+   <td>0</td>
+   <td>18.788</td>
+   <td>12.329</td>
+   <td>6.459</td>
+   <td>0</td>
+   <td>160</td>
+   <td>64</td>
+   <td>96</td>
+   <td>0</td>
+   <td>880.894</td>
+   <td>514.748</td>
+   <td>366.146</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>CUPRUM</td>
+   <td>396.996</td>
+   <td>248.569</td>
+   <td>148.427</td>
+   <td>0</td>
+   <td>7.494</td>
+   <td>4.537</td>
+   <td>2.957</td>
+   <td>0</td>
+   <td>243</td>
+   <td>90</td>
+   <td>153</td>
+   <td>0</td>
+   <td>404.733</td>
+   <td>253.196</td>
+   <td>151.537</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>HABITAT</td>
+   <td>1.066.443</td>
+   <td>582.658</td>
+   <td>483.785</td>
+   <td>0</td>
+   <td>16.661</td>
+   <td>9.675</td>
+   <td>6.986</td>
+   <td>0</td>
+   <td>371</td>
+   <td>104</td>
+   <td>267</td>
+   <td>0</td>
+   <td>1.083.475</td>
+   <td>592.437</td>
+   <td>491.038</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>MODELO</td>
+   <td>1.080.696</td>
+   <td>555.251</td>
+   <td>525.445</td>
+   <td>0</td>
+   <td>10.821</td>
+   <td>4.677</td>
+   <td>6.144</td>
+   <td>0</td>
+   <td>928</td>
+   <td>449</td>
+   <td>479</td>
+   <td>0</td>
+   <td>1.092.445</td>
+   <td>560.377</td>
+   <td>532.068</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>PLANVITAL</td>
+   <td>732.077</td>
+   <td>414.010</td>
+   <td>318.067</td>
+   <td>0</td>
+   <td>5.692</td>
+   <td>3.043</td>
+   <td>2.649</td>
+   <td>0</td>
+   <td>285</td>
+   <td>133</td>
+   <td>152</td>
+   <td>0</td>
+   <td>738.054</td>
+   <td>417.186</td>
+   <td>320.868</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>PROVIDA</td>
+   <td>1.385.608</td>
+   <td>874.927</td>
+   <td>510.681</td>
+   <td>0</td>
+   <td>24.797</td>
+   <td>16.942</td>
+   <td>7.855</td>
+   <td>0</td>
+   <td>28</td>
+   <td>5</td>
+   <td>23</td>
+   <td>0</td>
+   <td>1.410.433</td>
+   <td>891.874</td>
+   <td>518.559</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>UNO</td>
+   <td>8.587</td>
+   <td>4.782</td>
+   <td>3.805</td>
+   <td>0</td>
+   <td>158</td>
+   <td>74</td>
+   <td>84</td>
+   <td>0</td>
+   <td>175</td>
+   <td>67</td>
+   <td>108</td>
+   <td>0</td>
+   <td>8.920</td>
+   <td>4.923</td>
+   <td>3.997</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' nowrap>TOTAL</td>
+   <td>5.532.353</td>
+   <td>3.182.552</td>
+   <td>2.349.801</td>
+   <td>0</td>
+   <td>84.411</td>
+   <td>51.277</td>
+   <td>33.134</td>
+   <td>0</td>
+   <td>2.190</td>
+   <td>912</td>
+   <td>1.278</td>
+   <td>0</td>
+   <td>5.618.954</td>
+   <td>3.234.741</td>
+   <td>2.384.213</td>
+   <td>0</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.</li>
+<li>(1) Corresponde al n&uacute;mero de afiliados activos que cotizaron en Diciembre de 2019, por remuneraciones devengadas en Noviembre de 2019.
+Las cifras del n&uacute;mero de cotizantes independientes reportadas en este cuadro desde agosto de 2019 no son comparables con las de los periodos anteriores, debido a correcciones realizadas por una Administradora.
+</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Mayo de 2021
+<br>
+
+

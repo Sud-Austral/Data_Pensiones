@@ -1,0 +1,156 @@
+
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE CUENTAS DE INDEMNIZACI&Oacute;N, SALDO TOTAL ACUMULADO, N&Uacute;MERO Y MONTO DE LOS DEP&Oacute;SITOS Y RETIROS DEL MES, POR TIPO Y SEXO (1) (Al 30 de Noviembre de 2020)</h4>
+      <table border='1'>
+   
+<thead>
+<tr>
+<th rowspan="2" class="NOMBRE" nowrap>TIPO<br />Y<br />SEXO</th>
+<th colspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE CUENTAS<br />DE INDEMNIZACI&Oacute;N<br />VIGENTES</th>
+<th rowspan="2" class="TITUuno" nowrap>SALDO TOTAL<br />ACUMULADO<br />M$</th>
+<th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />DEP&Oacute;SITOS<br />DEL MES</th>
+<th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS DEP&Oacute;SITOS <br />DEL MES<br />M$</th>
+<th rowspan="2" class="TITUuno" nowrap>N&Uacute;MERO DE<br />RETIROS<br />DEL MES</th>
+<th rowspan="2" class="TITUuno" nowrap>MONTO TOTAL<br />DE LOS RETIROS<br />DEL MES <br />M$</th>
+</tr>
+<tr>
+<th nowrap>CON SALDO<br />IGUAL A CERO</th>
+<th nowrap>CON SALDO<br />MAYOR QUE CERO</th>
+</tr>
+</thead>
+
+<tbody>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>SUSTITUTIVA</td>
+   <td>59.635</td>
+   <td>98.097</td>
+   <td>22.994.723</td>
+   <td>26.217</td>
+   <td>123.348</td>
+   <td>1.916</td>
+   <td>601.919</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>Masculino</td>
+   <td>4.409</td>
+   <td>9.378</td>
+   <td>3.047.723</td>
+   <td>1.855</td>
+   <td>9.397</td>
+   <td>79</td>
+   <td>25.827</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>Femenino</td>
+   <td>55.226</td>
+   <td>88.719</td>
+   <td>19.947.000</td>
+   <td>24.362</td>
+   <td>113.951</td>
+   <td>1.837</td>
+   <td>576.092</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>OBLIGATORIA</td>
+   <td>317.922</td>
+   <td>759.631</td>
+   <td>173.497.948</td>
+   <td>130.696</td>
+   <td>635.861</td>
+   <td>8.144</td>
+   <td>2.855.935</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>Masculino</td>
+   <td>22.669</td>
+   <td>78.231</td>
+   <td>17.970.046</td>
+   <td>11.480</td>
+   <td>56.381</td>
+   <td>290</td>
+   <td>165.462</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>Femenino</td>
+   <td>295.253</td>
+   <td>681.400</td>
+   <td>155.527.902</td>
+   <td>119.216</td>
+   <td>579.480</td>
+   <td>7.854</td>
+   <td>2.690.473</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>TOTAL</td>
+   <td>377.557</td>
+   <td>857.728</td>
+   <td>196.492.671</td>
+   <td>156.913</td>
+   <td>759.209</td>
+   <td>10.060</td>
+   <td>3.457.854</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>Masculino</td>
+   <td>27.078</td>
+   <td>87.609</td>
+   <td>21.017.769</td>
+   <td>13.335</td>
+   <td>65.778</td>
+   <td>369</td>
+   <td>191.289</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>Femenino</td>
+   <td>350.479</td>
+   <td>770.119</td>
+   <td>175.474.902</td>
+   <td>143.578</td>
+   <td>693.431</td>
+   <td>9.691</td>
+   <td>3.266.565</td>
+   </tr>
+   <tr>
+   <td class='alignLeft' class=ITEM nowrap>S/I</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   <td>0</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.</li>
+<li>(1) Ver Circular N&deg; 672.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 20 de Mayo de 2021
+<br>
+
+

@@ -1,0 +1,553 @@
+
+<div class="table-responsive">
+<h4>N&Uacute;MERO DE AFILIADOS CUBIERTOS POR EL SEGURO SEG&Uacute;N ACTIVIDAD ECON&Oacute;MICA Y REGI&Oacute;N (Al 30 de Junio de 2019)</h4>
+      <table border='1'>
+   
+<thead>
+<tr>
+<th rowspan="2">ACTIVIDAD ECON&Oacute;MICA</th>
+<th colspan="17">REGION</th>
+<th rowspan="2">TOTAL</th>
+</tr>
+
+<tr>
+<th>I</th>
+<th>II</th>
+<th>III</th>
+<th>IV</th>
+<th>V</th>
+<th>VI</th>
+<th>VII</th>
+<th>VIII</th>
+<th>IX</th>
+<th>X</th>
+<th>XI</th>
+<th>XII</th>
+<th>R. Metrop.</th>
+<th>XIV</th>
+<th>XV</th>
+<th>XVI</th>
+<th>S/I</th>
+</tr>
+</thead>
+
+<tbody>
+      <tr>
+   <td class='alignLeft'>AGRICULTURA, GANADER&Iacute;A, SILVICULTURA Y PESCA</td>
+   
+   <td>2.413</td>
+   <td>5.018</td>
+   <td>3.455</td>
+   <td>13.557</td>
+   <td>29.322</td>
+   <td>39.085</td>
+   <td>36.885</td>
+   <td>26.657</td>
+   <td>18.863</td>
+   <td>27.277</td>
+   <td>3.178</td>
+   <td>3.732</td>
+   <td>79.356</td>
+   <td>10.230</td>
+   <td>2.220</td>
+   <td>10.557</td>
+   <td>5.181</td>
+   <td class='F1RESUL'>316.986</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>EXPLOTACI&Oacute;N DE MINAS Y CANTERAS</td>
+   
+   <td>3.469</td>
+   <td>17.011</td>
+   <td>8.780</td>
+   <td>9.880</td>
+   <td>7.085</td>
+   <td>4.949</td>
+   <td>1.058</td>
+   <td>1.214</td>
+   <td>523</td>
+   <td>424</td>
+   <td>95</td>
+   <td>1.552</td>
+   <td>11.055</td>
+   <td>263</td>
+   <td>1.213</td>
+   <td>388</td>
+   <td>301</td>
+   <td class='F1RESUL'>69.260</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>INDUSTRIA MANUFACTURERA</td>
+   
+   <td>6.826</td>
+   <td>18.119</td>
+   <td>7.881</td>
+   <td>17.361</td>
+   <td>45.455</td>
+   <td>28.879</td>
+   <td>34.633</td>
+   <td>56.163</td>
+   <td>23.158</td>
+   <td>23.696</td>
+   <td>2.314</td>
+   <td>5.221</td>
+   <td>262.460</td>
+   <td>11.238</td>
+   <td>4.838</td>
+   <td>12.899</td>
+   <td>6.439</td>
+   <td class='F1RESUL'>567.580</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO</td>
+   
+   <td>213</td>
+   <td>1.138</td>
+   <td>371</td>
+   <td>520</td>
+   <td>2.393</td>
+   <td>569</td>
+   <td>1.168</td>
+   <td>2.407</td>
+   <td>681</td>
+   <td>1.082</td>
+   <td>142</td>
+   <td>194</td>
+   <td>6.703</td>
+   <td>287</td>
+   <td>119</td>
+   <td>490</td>
+   <td>121</td>
+   <td class='F1RESUL'>18.598</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>SUMINISTRO DE AGUA, EVALUACI&Oacute;N DE AGUAS RESIDUALES Y GESTI&Oacute;N DE DESECHOS Y CONTAMINACI&Oacute;N</td>
+   
+   <td>807</td>
+   <td>1.695</td>
+   <td>863</td>
+   <td>1.148</td>
+   <td>2.703</td>
+   <td>1.627</td>
+   <td>1.698</td>
+   <td>3.264</td>
+   <td>1.175</td>
+   <td>1.198</td>
+   <td>201</td>
+   <td>222</td>
+   <td>11.845</td>
+   <td>479</td>
+   <td>393</td>
+   <td>747</td>
+   <td>281</td>
+   <td class='F1RESUL'>30.346</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>CONSTRUCCI&Oacute;N</td>
+   
+   <td>8.236</td>
+   <td>18.869</td>
+   <td>9.082</td>
+   <td>21.474</td>
+   <td>48.673</td>
+   <td>20.319</td>
+   <td>22.500</td>
+   <td>48.139</td>
+   <td>23.341</td>
+   <td>17.052</td>
+   <td>2.130</td>
+   <td>4.710</td>
+   <td>181.571</td>
+   <td>8.058</td>
+   <td>5.372</td>
+   <td>9.986</td>
+   <td>4.132</td>
+   <td class='F1RESUL'>453.644</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>COMERCIO AL POR MAYOR Y AL POR MENOR, REPARACI&Oacute;N DE VEH&Iacute;CULOS AUTOMOTORES Y MOTOCICLETAS</td>
+   
+   <td>14.065</td>
+   <td>22.775</td>
+   <td>8.529</td>
+   <td>21.814</td>
+   <td>56.348</td>
+   <td>30.741</td>
+   <td>32.321</td>
+   <td>44.833</td>
+   <td>24.523</td>
+   <td>30.618</td>
+   <td>2.710</td>
+   <td>7.917</td>
+   <td>335.064</td>
+   <td>9.825</td>
+   <td>6.245</td>
+   <td>12.945</td>
+   <td>4.707</td>
+   <td class='F1RESUL'>665.980</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>TRANSPORTE Y ALMACENAMIENTO</td>
+   
+   <td>5.507</td>
+   <td>11.161</td>
+   <td>4.578</td>
+   <td>7.808</td>
+   <td>31.727</td>
+   <td>10.505</td>
+   <td>11.308</td>
+   <td>22.727</td>
+   <td>10.540</td>
+   <td>11.964</td>
+   <td>1.056</td>
+   <td>3.301</td>
+   <td>115.444</td>
+   <td>3.746</td>
+   <td>3.434</td>
+   <td>5.254</td>
+   <td>2.064</td>
+   <td class='F1RESUL'>262.124</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES DE ALOJAMIENTO Y DE SERVICIO DE COMIDAS</td>
+   
+   <td>4.518</td>
+   <td>8.728</td>
+   <td>3.174</td>
+   <td>8.846</td>
+   <td>17.778</td>
+   <td>5.725</td>
+   <td>6.435</td>
+   <td>10.927</td>
+   <td>7.017</td>
+   <td>8.695</td>
+   <td>640</td>
+   <td>3.103</td>
+   <td>81.856</td>
+   <td>2.743</td>
+   <td>3.961</td>
+   <td>3.620</td>
+   <td>1.652</td>
+   <td class='F1RESUL'>179.418</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>INFORMACI&Oacute;N Y COMUNICACIONES</td>
+   
+   <td>728</td>
+   <td>1.529</td>
+   <td>533</td>
+   <td>1.188</td>
+   <td>5.702</td>
+   <td>1.818</td>
+   <td>1.991</td>
+   <td>3.718</td>
+   <td>1.911</td>
+   <td>1.792</td>
+   <td>238</td>
+   <td>485</td>
+   <td>71.526</td>
+   <td>1.071</td>
+   <td>374</td>
+   <td>921</td>
+   <td>432</td>
+   <td class='F1RESUL'>95.957</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES FINANCIERAS Y DE SEGUROS</td>
+   
+   <td>3.094</td>
+   <td>6.645</td>
+   <td>2.490</td>
+   <td>5.784</td>
+   <td>18.159</td>
+   <td>8.639</td>
+   <td>8.040</td>
+   <td>13.798</td>
+   <td>6.483</td>
+   <td>7.074</td>
+   <td>702</td>
+   <td>2.137</td>
+   <td>170.838</td>
+   <td>3.001</td>
+   <td>1.547</td>
+   <td>2.861</td>
+   <td>788</td>
+   <td class='F1RESUL'>262.080</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES INMOBILIARIAS</td>
+   
+   <td>1.315</td>
+   <td>1.948</td>
+   <td>612</td>
+   <td>2.171</td>
+   <td>7.166</td>
+   <td>2.516</td>
+   <td>2.800</td>
+   <td>3.582</td>
+   <td>2.229</td>
+   <td>2.120</td>
+   <td>1.055</td>
+   <td>870</td>
+   <td>28.807</td>
+   <td>867</td>
+   <td>852</td>
+   <td>811</td>
+   <td>254</td>
+   <td class='F1RESUL'>59.975</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES PROFESIONALES, CIENT&Iacute;FICAS Y T&Eacute;CNICAS</td>
+   
+   <td>2.124</td>
+   <td>8.022</td>
+   <td>2.665</td>
+   <td>5.742</td>
+   <td>15.360</td>
+   <td>6.229</td>
+   <td>5.773</td>
+   <td>11.587</td>
+   <td>4.653</td>
+   <td>5.159</td>
+   <td>689</td>
+   <td>1.774</td>
+   <td>111.939</td>
+   <td>2.083</td>
+   <td>1.370</td>
+   <td>2.473</td>
+   <td>1.073</td>
+   <td class='F1RESUL'>188.715</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES DE SERVICIOS ADMINISTRATIVOS Y DE APOYO</td>
+   
+   <td>7.740</td>
+   <td>22.409</td>
+   <td>9.287</td>
+   <td>16.062</td>
+   <td>35.441</td>
+   <td>17.308</td>
+   <td>16.485</td>
+   <td>34.253</td>
+   <td>12.645</td>
+   <td>16.488</td>
+   <td>1.594</td>
+   <td>5.624</td>
+   <td>218.823</td>
+   <td>5.966</td>
+   <td>4.196</td>
+   <td>7.433</td>
+   <td>2.431</td>
+   <td class='F1RESUL'>434.185</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ADMINISTRACI&Oacute;N P&Uacute;BLICA Y DEFENSA, PLANES DE SEGURIDAD SOCIAL DE AFILIACI&Oacute;N OBLIGATORIA</td>
+   
+   <td>4.587</td>
+   <td>7.786</td>
+   <td>8.897</td>
+   <td>14.401</td>
+   <td>32.189</td>
+   <td>19.849</td>
+   <td>25.313</td>
+   <td>44.081</td>
+   <td>20.459</td>
+   <td>16.949</td>
+   <td>4.131</td>
+   <td>3.494</td>
+   <td>97.892</td>
+   <td>9.535</td>
+   <td>8.445</td>
+   <td>11.279</td>
+   <td>1.782</td>
+   <td class='F1RESUL'>331.069</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ENSE&Ntilde;ANZA</td>
+   
+   <td>6.360</td>
+   <td>11.513</td>
+   <td>3.230</td>
+   <td>11.134</td>
+   <td>30.142</td>
+   <td>13.120</td>
+   <td>16.122</td>
+   <td>33.324</td>
+   <td>17.635</td>
+   <td>17.614</td>
+   <td>1.582</td>
+   <td>2.965</td>
+   <td>131.564</td>
+   <td>6.109</td>
+   <td>4.068</td>
+   <td>10.888</td>
+   <td>1.729</td>
+   <td class='F1RESUL'>319.099</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES DE ATENCI&Oacute;N DE LA SALUD HUMANA Y DE ASISTENCIA SOCIAL</td>
+   
+   <td>3.584</td>
+   <td>7.079</td>
+   <td>2.075</td>
+   <td>6.281</td>
+   <td>23.090</td>
+   <td>9.118</td>
+   <td>13.747</td>
+   <td>15.254</td>
+   <td>14.080</td>
+   <td>13.929</td>
+   <td>1.603</td>
+   <td>2.622</td>
+   <td>113.289</td>
+   <td>6.079</td>
+   <td>1.494</td>
+   <td>3.068</td>
+   <td>1.471</td>
+   <td class='F1RESUL'>237.863</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES ART&Iacute;STICAS, DE ENTRETENIMIENTO Y RECREATIVAS</td>
+   
+   <td>541</td>
+   <td>1.759</td>
+   <td>852</td>
+   <td>1.856</td>
+   <td>5.720</td>
+   <td>2.719</td>
+   <td>2.112</td>
+   <td>3.375</td>
+   <td>2.507</td>
+   <td>1.604</td>
+   <td>151</td>
+   <td>384</td>
+   <td>19.297</td>
+   <td>788</td>
+   <td>487</td>
+   <td>1.035</td>
+   <td>602</td>
+   <td class='F1RESUL'>45.789</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>OTRAS ACTIVIDADES DE SERVICIOS</td>
+   
+   <td>11.536</td>
+   <td>21.454</td>
+   <td>12.144</td>
+   <td>31.121</td>
+   <td>75.294</td>
+   <td>39.571</td>
+   <td>45.280</td>
+   <td>56.331</td>
+   <td>35.661</td>
+   <td>32.864</td>
+   <td>4.410</td>
+   <td>5.432</td>
+   <td>302.096</td>
+   <td>12.363</td>
+   <td>5.647</td>
+   <td>15.628</td>
+   <td>13.065</td>
+   <td class='F1RESUL'>719.897</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES, ACTIVIDADES NO DIFERENCIADAS DE LOS HOGARES</td>
+   
+   <td>290</td>
+   <td>463</td>
+   <td>204</td>
+   <td>679</td>
+   <td>4.732</td>
+   <td>1.652</td>
+   <td>2.293</td>
+   <td>3.184</td>
+   <td>1.974</td>
+   <td>1.792</td>
+   <td>172</td>
+   <td>377</td>
+   <td>25.594</td>
+   <td>1.205</td>
+   <td>282</td>
+   <td>1.223</td>
+   <td>328</td>
+   <td class='F1RESUL'>46.444</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>ACTIVIDADES DE ORGANIZACIONES Y &Oacute;RGANOS EXTRATERRITORIALES</td>
+   
+   <td>3</td>
+   <td>21</td>
+   <td>4</td>
+   <td>225</td>
+   <td>700</td>
+   <td>7</td>
+   <td>25</td>
+   <td>29</td>
+   <td>10</td>
+   <td>10</td>
+   <td>6</td>
+   <td>3</td>
+   <td>638</td>
+   <td>17</td>
+   <td>1</td>
+   <td>12</td>
+   <td>6</td>
+   <td class='F1RESUL'>1.717</td>
+   </tr>
+      <tr>
+   <td class='alignLeft'>SIN INFORMACI&Oacute;N</td>
+   
+   <td>24.104</td>
+   <td>43.424</td>
+   <td>21.067</td>
+   <td>53.760</td>
+   <td>129.419</td>
+   <td>74.969</td>
+   <td>80.894</td>
+   <td>93.986</td>
+   <td>60.741</td>
+   <td>59.271</td>
+   <td>7.653</td>
+   <td>13.484</td>
+   <td>595.388</td>
+   <td>23.638</td>
+   <td>15.944</td>
+   <td>31.946</td>
+   <td>18.009</td>
+   <td class='F1RESUL'>1.347.697</td>
+   </tr>
+      <tr>
+   <td class=''alignLeft''>TOTAL</td>
+   
+   <td>112.060</td>
+   <td>238.566</td>
+   <td>110.773</td>
+   <td>252.812</td>
+   <td>624.598</td>
+   <td>339.914</td>
+   <td>368.881</td>
+   <td>532.833</td>
+   <td>290.809</td>
+   <td>298.672</td>
+   <td>36.452</td>
+   <td>69.603</td>
+   <td>2.973.045</td>
+   <td>119.591</td>
+   <td>72.502</td>
+   <td>146.464</td>
+   <td>66.848</td>
+   <td class='F1RESUL'>6.654.423</td>
+   </tr>
+
+</tbody>
+</table>
+</div>
+
+<ul>
+<li>FUENTE: Informe Estad&iacute;stico Trimestral de Afiliados y Cotizantes.</li>
+</ul>
+
+<br>Informaci&oacute;n actualizada el 9 de Noviembre de 2020
+<br>
+
+
