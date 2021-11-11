@@ -15,16 +15,16 @@
 <CENTER  >
 <table  border="1" cellspacing="0" class="table tw9" >
 <caption  >
-N&Uacute;MERO TOTAL DE AFILIADOS PENSIONADOS POR VEJEZ SEG&Uacute;N SEXO Y A.F.P.<BR  >(Al 31 de julio de 2016)
+N&Uacute;MERO TOTAL DE AFILIADOS DECLARADOS INVALIDOS MEDIANTE <BR  >UN SEGUNDO DICTAMEN O UN DICTAMEN POSTERIOR, SEG&Uacute;N TIPO, SEXO Y EDAD. (1)<BR  >(Al 31 de julio de 2016)
 </caption>
 <tr  >
-<td  rowspan="3" class="NOMBRE" >A.F.P.</td>
-<td  colspan="6" class="TITUuno" >N&Uacute;MERO DE AFILIADOS PENSIONADOS POR</td>
+<td  rowspan="3" class="NOMBRE" >EDAD<BR  >(a&ntilde;os)</td>
+<td  colspan="6" class="TITUuno" >AFILIADOS DECLARADOS INVALIDOS</td>
 <td  rowspan="3" class="TITUuno" >TOTAL</td>
 </tr>
 <tr  >
-<td  colspan="3" class="SUBTITUuno" >VEJEZ EDAD (1)</td>
-<td  colspan="3" class="SUBTITUuno" >VEJEZ ANTICIPADA (2)</td>
+<td  colspan="3" class="SUBTITUuno" >PARCIALES</td>
+<td  colspan="3" class="SUBTITUuno" >TOTALES</td>
 </tr>
 <tr  >
 <td  class="SUBTITUtres" >HOMBRE</td>
@@ -35,74 +35,154 @@ N&Uacute;MERO TOTAL DE AFILIADOS PENSIONADOS POR VEJEZ SEG&Uacute;N SEXO Y A.F.P
 <td  class="SUBTITUtres" >TOTAL</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >CAPITAL         </td>
-<td  >       78.651</td>
-<td  >      131.284</td>
-<td  >      209.935</td>
-<td  >       76.256</td>
-<td  >       12.589</td>
-<td  >       88.845</td>
-<td  class="C1RESUL" >      298.780</td>
+<td  class="ITEM" nowrap="" >HASTA 20</td>
+<td  >          103</td>
+<td  >           56</td>
+<td  >          159</td>
+<td  >           61</td>
+<td  >           24</td>
+<td  >           85</td>
+<td  class="C1RESUL" >          244</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >CUPRUM          </td>
-<td  >       22.635</td>
-<td  >       42.721</td>
-<td  >       65.356</td>
-<td  >       36.146</td>
-<td  >        6.440</td>
-<td  >       42.586</td>
-<td  class="C1RESUL" >      107.942</td>
+<td  class="ITEM" nowrap="" >+20&nbsp;-25</td>
+<td  >          294</td>
+<td  >          186</td>
+<td  >          480</td>
+<td  >          612</td>
+<td  >          208</td>
+<td  >          820</td>
+<td  class="C1RESUL" >        1.300</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >HABITAT         </td>
-<td  >       80.574</td>
-<td  >      130.470</td>
-<td  >      211.044</td>
-<td  >       64.747</td>
-<td  >       10.245</td>
-<td  >       74.992</td>
-<td  class="C1RESUL" >      286.036</td>
+<td  class="ITEM" nowrap="" >+25&nbsp;-30</td>
+<td  >          547</td>
+<td  >          348</td>
+<td  >          895</td>
+<td  >        1.663</td>
+<td  >          737</td>
+<td  >        2.400</td>
+<td  class="C1RESUL" >        3.295</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >MODELO          </td>
-<td  >        2.047</td>
-<td  >       68.542</td>
-<td  >       70.589</td>
-<td  >          537</td>
-<td  >           17</td>
-<td  >          554</td>
-<td  class="C1RESUL" >       71.143</td>
+<td  class="ITEM" nowrap="" >+30&nbsp;-35</td>
+<td  >          867</td>
+<td  >          710</td>
+<td  >        1.577</td>
+<td  >        2.902</td>
+<td  >        1.432</td>
+<td  >        4.334</td>
+<td  class="C1RESUL" >        5.911</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >PLANVITAL       </td>
-<td  >       30.738</td>
-<td  >       42.066</td>
-<td  >       72.804</td>
-<td  >       15.804</td>
-<td  >        2.596</td>
-<td  >       18.400</td>
-<td  class="C1RESUL" >       91.204</td>
+<td  class="ITEM" nowrap="" >+35&nbsp;-40</td>
+<td  >        1.255</td>
+<td  >        1.213</td>
+<td  >        2.468</td>
+<td  >        3.983</td>
+<td  >        2.313</td>
+<td  >        6.296</td>
+<td  class="C1RESUL" >        8.764</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >PROVIDA         </td>
-<td  >      175.303</td>
-<td  >      223.120</td>
-<td  >      398.423</td>
-<td  >       88.684</td>
-<td  >       12.963</td>
-<td  >      101.647</td>
-<td  class="C1RESUL" >      500.070</td>
+<td  class="ITEM" nowrap="" >+40&nbsp;-45</td>
+<td  >        1.800</td>
+<td  >        1.766</td>
+<td  >        3.566</td>
+<td  >        5.599</td>
+<td  >        3.496</td>
+<td  >        9.095</td>
+<td  class="C1RESUL" >       12.661</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >+45&nbsp;-50</td>
+<td  >        2.328</td>
+<td  >        2.286</td>
+<td  >        4.614</td>
+<td  >        7.488</td>
+<td  >        4.738</td>
+<td  >       12.226</td>
+<td  class="C1RESUL" >       16.840</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >+50&nbsp;-55</td>
+<td  >        2.892</td>
+<td  >        2.570</td>
+<td  >        5.462</td>
+<td  >        9.692</td>
+<td  >        5.769</td>
+<td  >       15.461</td>
+<td  class="C1RESUL" >       20.923</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >+55&nbsp;-60</td>
+<td  >        2.935</td>
+<td  >        2.355</td>
+<td  >        5.290</td>
+<td  >       10.326</td>
+<td  >        4.869</td>
+<td  >       15.195</td>
+<td  class="C1RESUL" >       20.485</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >+60&nbsp;-65</td>
+<td  >        1.979</td>
+<td  >          291</td>
+<td  >        2.270</td>
+<td  >        6.969</td>
+<td  >           97</td>
+<td  >        7.066</td>
+<td  class="C1RESUL" >        9.336</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >+65&nbsp;-70</td>
+<td  >           94</td>
+<td  >           10</td>
+<td  >          104</td>
+<td  >           25</td>
+<td  >            2</td>
+<td  >           27</td>
+<td  class="C1RESUL" >          131</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >+70&nbsp;-75</td>
+<td  >            2</td>
+<td  >0</td>
+<td  >            2</td>
+<td  >            1</td>
+<td  >0</td>
+<td  >            1</td>
+<td  class="C1RESUL" >            3</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >+75&nbsp;-80</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="C1RESUL" >0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >+ de 80</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="C1RESUL" >0</td>
 </tr>
 <tr  >
 <td  class="F1TOTAL" nowrap="" >TOTAL</td>
-<td  class="F1RESUL" >      389.948</td>
-<td  class="F1RESUL" >      638.203</td>
-<td  class="F1RESUL" >    1.028.151</td>
-<td  class="F1RESUL" >      282.174</td>
-<td  class="F1RESUL" >       44.850</td>
-<td  class="F1RESUL" >      327.024</td>
-<td  class="C1RESUL" >    1.355.175</td>
+<td  class="F1RESUL" >       15.096</td>
+<td  class="F1RESUL" >       11.791</td>
+<td  class="F1RESUL" >       26.887</td>
+<td  class="F1RESUL" >       49.321</td>
+<td  class="F1RESUL" >       23.685</td>
+<td  class="F1RESUL" >       73.006</td>
+<td  class="C1RESUL" >       99.893</td>
 </tr>
 </table>
 
@@ -117,19 +197,9 @@ N&Uacute;MERO TOTAL DE AFILIADOS PENSIONADOS POR VEJEZ SEG&Uacute;N SEXO Y A.F.P
     (1)
   </td>
 <td  class="NOTAceleste" >
-    Incluye 84.885 afiliados pensionados por vejez edad fallecidos
-.  </td>
-</tr>
-<tr  >
-<td  class="NOTAnumero" >
-    &nbsp;
+    Corresponde a declaraciones de invalidez notificadas a las Administradoras 
+    hasta el 31 de julio de 2016.
   </td>
-<td  class="NOTAceleste" >
-    (2)
-  </td>
-<td  class="NOTAceleste" >
-    Incluye 25.719 afiliados pensionados por vejez anticipada fallecidos
-.  </td>
 </tr>
 </table>
 

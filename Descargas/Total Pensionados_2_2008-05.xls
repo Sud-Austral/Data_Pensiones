@@ -13,316 +13,252 @@
     <td  width="12" >&nbsp;</td>
     <td  ><!-- Generado con TW v2.5 --><!--contenido-->
 <CENTER  >
-<table  border="1" cellspacing="0" class="table tw9" >
+<table  border="1" cellspacing="0" class="table tw12" >
 <caption  >
-N&Uacute;MERO TOTAL DE AFILIADOS PENSIONADOS POR VEJEZ SEG&Uacute;N SEXO Y EDAD<BR  >(Al 31 de mayo de 2008)
+N&Uacute;MERO TOTAL DE AFILIADOS DECLARADOS INVALIDOS TOTALES MEDIANTE UN <BR  >SEGUNDO DICTAMEN O UN DICTAMEN POSTERIOR, SEG&Uacute;N A.F.P. <BR  >Y MES DE DECLARACION DE INVALIDEZ. (1)<BR  >(Al 31 de mayo de 2008)
 </caption>
 <tr  >
-<td  rowspan="3" class="NOMBRE" >EDAD<BR  >(a&ntilde;os)</td>
-<td  colspan="6" class="TITUuno" >N&Uacute;MERO DE AFILIADOS PENSIONADOS POR</td>
-<td  rowspan="3" class="TITUuno" >TOTAL</td>
+<td  class="NOMBRE" >MES DE DECLARACION<BR  > DE INVALIDEZ</td>
+<td  class="TITUuno" >CAPITAL         </td>
+<td  class="TITUuno" >CUPRUM          </td>
+<td  class="TITUuno" >HABITAT         </td>
+<td  class="TITUuno" >PLANVITAL       </td>
+<td  class="TITUuno" >PROVIDA         </td>
+<td  class="F1RESUL" >TOTAL</td>
 </tr>
 <tr  >
-<td  colspan="3" class="SUBTITUuno" >VEJEZ EDAD (1)</td>
-<td  colspan="3" class="SUBTITUuno" >VEJEZ ANTICIPADA (2)</td>
+<td  class="ITEM" nowrap="" >ANTERIORES</td>
+<td  >       10.871</td>
+<td  >        2.628</td>
+<td  >        6.928</td>
+<td  >        3.994</td>
+<td  >       18.514</td>
+<td  class="F1RESUL" >       42.935</td>
 </tr>
 <tr  >
-<td  class="SUBTITUtres" >HOMBRE</td>
-<td  class="SUBTITUtres" >MUJER</td>
-<td  class="SUBTITUtres" >TOTAL</td>
-<td  class="SUBTITUtres" >HOMBRE</td>
-<td  class="SUBTITUtres" >MUJER</td>
-<td  class="SUBTITUtres" >TOTAL</td>
+<td  class="ITEM" nowrap="" >JUNIO/2006</td>
+<td  >            5</td>
+<td  >            3</td>
+<td  >            2</td>
+<td  >            3</td>
+<td  >            5</td>
+<td  class="F1RESUL" >           18</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >-44</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  >        2.634</td>
-<td  >          534</td>
-<td  >        3.168</td>
-<td  class="C1RESUL" >        3.168</td>
+<td  class="ITEM" nowrap="" >JULIO/2006</td>
+<td  >            6</td>
+<td  >            8</td>
+<td  >            1</td>
+<td  >            3</td>
+<td  >            2</td>
+<td  class="F1RESUL" >           20</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >+44&nbsp;-46</td>
+<td  class="ITEM" nowrap="" >AGOSTO/2006</td>
+<td  >            3</td>
+<td  >            3</td>
+<td  >            3</td>
 <td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  >        4.463</td>
-<td  >        1.113</td>
-<td  >        5.576</td>
-<td  class="C1RESUL" >        5.576</td>
+<td  >            2</td>
+<td  class="F1RESUL" >           11</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >+46&nbsp;-48</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  >        9.157</td>
-<td  >        2.247</td>
-<td  >       11.404</td>
-<td  class="C1RESUL" >       11.404</td>
+<td  class="ITEM" nowrap="" >SEPTIEMBRE/2006</td>
+<td  >            2</td>
+<td  >            5</td>
+<td  >            2</td>
+<td  >            4</td>
+<td  >            3</td>
+<td  class="F1RESUL" >           16</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >+48&nbsp;-49</td>
+<td  class="ITEM" nowrap="" >OCTUBRE/2006</td>
 <td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  >        8.794</td>
-<td  >        2.165</td>
-<td  >       10.959</td>
-<td  class="C1RESUL" >       10.959</td>
+<td  >            2</td>
+<td  >            2</td>
+<td  >            1</td>
+<td  >            4</td>
+<td  class="F1RESUL" >            9</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >50</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  >       11.283</td>
-<td  >        2.875</td>
-<td  >       14.158</td>
-<td  class="C1RESUL" >       14.158</td>
+<td  class="ITEM" nowrap="" >NOVIEMBRE/2006</td>
+<td  >            6</td>
+<td  >            5</td>
+<td  >            2</td>
+<td  >            1</td>
+<td  >            8</td>
+<td  class="F1RESUL" >           22</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >51</td>
+<td  class="ITEM" nowrap="" >DICIEMBRE/2006</td>
+<td  >            1</td>
 <td  >0</td>
+<td  >            1</td>
 <td  >0</td>
-<td  >0</td>
-<td  >       12.877</td>
-<td  >        3.001</td>
-<td  >       15.878</td>
-<td  class="C1RESUL" >       15.878</td>
+<td  >            2</td>
+<td  class="F1RESUL" >            4</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >52</td>
+<td  class="ITEM" nowrap="" >ENERO/2007</td>
+<td  >            2</td>
+<td  >            2</td>
 <td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  >       14.832</td>
-<td  >        3.320</td>
-<td  >       18.152</td>
-<td  class="C1RESUL" >       18.152</td>
+<td  >            2</td>
+<td  >            2</td>
+<td  class="F1RESUL" >            8</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >53</td>
+<td  class="ITEM" nowrap="" >FEBRERO/2007</td>
 <td  >0</td>
+<td  >            4</td>
 <td  >0</td>
-<td  >0</td>
-<td  >       16.220</td>
-<td  >        3.722</td>
-<td  >       19.942</td>
-<td  class="C1RESUL" >       19.942</td>
+<td  >            1</td>
+<td  >            2</td>
+<td  class="F1RESUL" >            7</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >54</td>
+<td  class="ITEM" nowrap="" >MARZO/2007</td>
 <td  >0</td>
+<td  >           11</td>
 <td  >0</td>
-<td  >0</td>
-<td  >       17.582</td>
-<td  >        3.922</td>
-<td  >       21.504</td>
-<td  class="C1RESUL" >       21.504</td>
+<td  >            1</td>
+<td  >            5</td>
+<td  class="F1RESUL" >           17</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >55</td>
+<td  class="ITEM" nowrap="" >ABRIL/2007</td>
 <td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  >       19.103</td>
-<td  >        4.115</td>
-<td  >       23.218</td>
-<td  class="C1RESUL" >       23.218</td>
+<td  >            5</td>
+<td  >            2</td>
+<td  >            2</td>
+<td  >            3</td>
+<td  class="F1RESUL" >           12</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >56</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  >       19.209</td>
-<td  >        3.986</td>
-<td  >       23.195</td>
-<td  class="C1RESUL" >       23.195</td>
+<td  class="ITEM" nowrap="" >MAYO/2007</td>
+<td  >            1</td>
+<td  >            6</td>
+<td  >            1</td>
+<td  >            2</td>
+<td  >            2</td>
+<td  class="F1RESUL" >           12</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >57</td>
+<td  class="ITEM" nowrap="" >JUNIO/2007</td>
+<td  >            2</td>
+<td  >            6</td>
+<td  >            1</td>
 <td  >0</td>
 <td  >0</td>
-<td  >0</td>
-<td  >       18.823</td>
-<td  >        3.808</td>
-<td  >       22.631</td>
-<td  class="C1RESUL" >       22.631</td>
+<td  class="F1RESUL" >            9</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >58</td>
+<td  class="ITEM" nowrap="" >JULIO/2007</td>
+<td  >            1</td>
+<td  >            3</td>
 <td  >0</td>
 <td  >0</td>
-<td  >0</td>
-<td  >       17.834</td>
-<td  >        3.435</td>
-<td  >       21.269</td>
-<td  class="C1RESUL" >       21.269</td>
+<td  >            1</td>
+<td  class="F1RESUL" >            5</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >59</td>
+<td  class="ITEM" nowrap="" >AGOSTO/2007</td>
 <td  >0</td>
+<td  >            7</td>
 <td  >0</td>
-<td  >0</td>
-<td  >       17.019</td>
-<td  >        2.651</td>
-<td  >       19.670</td>
-<td  class="C1RESUL" >       19.670</td>
+<td  >            1</td>
+<td  >            1</td>
+<td  class="F1RESUL" >            9</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >60</td>
+<td  class="ITEM" nowrap="" >SEPTIEMBRE/2007</td>
 <td  >0</td>
-<td  >      103.658</td>
-<td  >      103.658</td>
-<td  >       16.749</td>
-<td  >          476</td>
-<td  >       17.225</td>
-<td  class="C1RESUL" >      120.883</td>
+<td  >            3</td>
+<td  >0</td>
+<td  >0</td>
+<td  >            1</td>
+<td  class="F1RESUL" >            4</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >61</td>
+<td  class="ITEM" nowrap="" >OCTUBRE/2007</td>
 <td  >0</td>
-<td  >       26.089</td>
-<td  >       26.089</td>
-<td  >       14.664</td>
+<td  >            6</td>
 <td  >0</td>
-<td  >       14.664</td>
-<td  class="C1RESUL" >       40.753</td>
+<td  >0</td>
+<td  >            1</td>
+<td  class="F1RESUL" >            7</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >62</td>
+<td  class="ITEM" nowrap="" >NOVIEMBRE/2007</td>
 <td  >0</td>
-<td  >       13.595</td>
-<td  >       13.595</td>
-<td  >       12.311</td>
+<td  >            5</td>
 <td  >0</td>
-<td  >       12.311</td>
-<td  class="C1RESUL" >       25.906</td>
+<td  >            1</td>
+<td  >0</td>
+<td  class="F1RESUL" >            6</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >63</td>
+<td  class="ITEM" nowrap="" >DICIEMBRE/2007</td>
 <td  >0</td>
-<td  >        9.245</td>
-<td  >        9.245</td>
-<td  >       10.381</td>
+<td  >            2</td>
 <td  >0</td>
-<td  >       10.381</td>
-<td  class="C1RESUL" >       19.626</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >            2</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >64</td>
+<td  class="ITEM" nowrap="" >ENERO/2008</td>
 <td  >0</td>
-<td  >        6.878</td>
-<td  >        6.878</td>
-<td  >        7.364</td>
+<td  >            2</td>
 <td  >0</td>
-<td  >        7.364</td>
-<td  class="C1RESUL" >       14.242</td>
+<td  >0</td>
+<td  >            1</td>
+<td  class="F1RESUL" >            3</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >65</td>
-<td  >      111.985</td>
-<td  >        5.830</td>
-<td  >      117.815</td>
-<td  >        1.423</td>
+<td  class="ITEM" nowrap="" >FEBRERO/2008</td>
+<td  >            1</td>
+<td  >            2</td>
 <td  >0</td>
-<td  >        1.423</td>
-<td  class="C1RESUL" >      119.238</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >            3</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >66</td>
-<td  >       24.395</td>
-<td  >        4.355</td>
-<td  >       28.750</td>
+<td  class="ITEM" nowrap="" >MARZO/2008</td>
 <td  >0</td>
 <td  >0</td>
 <td  >0</td>
-<td  class="C1RESUL" >       28.750</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >0</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >67</td>
-<td  >       10.980</td>
-<td  >        3.223</td>
-<td  >       14.203</td>
+<td  class="ITEM" nowrap="" >ABRIL/2008</td>
+<td  >            3</td>
 <td  >0</td>
 <td  >0</td>
 <td  >0</td>
-<td  class="C1RESUL" >       14.203</td>
+<td  >0</td>
+<td  class="F1RESUL" >            3</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >68</td>
-<td  >        7.102</td>
-<td  >        2.331</td>
-<td  >        9.433</td>
+<td  class="ITEM" nowrap="" >MAYO/2008</td>
 <td  >0</td>
 <td  >0</td>
 <td  >0</td>
-<td  class="C1RESUL" >        9.433</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >0</td>
 </tr>
 <tr  >
-<td  class="ITEM" nowrap="" >+68&nbsp;-70</td>
-<td  >        9.575</td>
-<td  >        3.531</td>
-<td  >       13.106</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  class="C1RESUL" >       13.106</td>
-</tr>
-<tr  >
-<td  class="ITEM" nowrap="" >+70&nbsp;-72</td>
-<td  >        6.088</td>
-<td  >        2.496</td>
-<td  >        8.584</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  class="C1RESUL" >        8.584</td>
-</tr>
-<tr  >
-<td  class="ITEM" nowrap="" >+72&nbsp;-74</td>
-<td  >        4.118</td>
-<td  >        1.704</td>
-<td  >        5.822</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  class="C1RESUL" >        5.822</td>
-</tr>
-<tr  >
-<td  class="ITEM" nowrap="" >+74&nbsp;-76</td>
-<td  >        2.787</td>
-<td  >        1.150</td>
-<td  >        3.937</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  class="C1RESUL" >        3.937</td>
-</tr>
-<tr  >
-<td  class="ITEM" nowrap="" >+76</td>
-<td  >        4.607</td>
-<td  >        2.564</td>
-<td  >        7.171</td>
-<td  >0</td>
-<td  >0</td>
-<td  >0</td>
-<td  class="C1RESUL" >        7.171</td>
-</tr>
-<tr  >
-<td  class="F1TOTAL" nowrap="" >TOTAL</td>
-<td  class="F1RESUL" >      181.637</td>
-<td  class="F1RESUL" >      186.649</td>
-<td  class="F1RESUL" >      368.286</td>
-<td  class="F1RESUL" >      252.722</td>
-<td  class="F1RESUL" >       41.370</td>
-<td  class="F1RESUL" >      294.092</td>
-<td  class="C1RESUL" >      662.378</td>
+<td  class="ITEM" nowrap="" >TOTAL</td>
+<td  >       10.904</td>
+<td  >        2.718</td>
+<td  >        6.945</td>
+<td  >        4.016</td>
+<td  >       18.559</td>
+<td  class="F1RESUL" >       43.142</td>
 </tr>
 </table>
 
@@ -337,19 +273,9 @@ N&Uacute;MERO TOTAL DE AFILIADOS PENSIONADOS POR VEJEZ SEG&Uacute;N SEXO Y EDAD<
     (1)
   </td>
 <td  class="NOTAceleste" >
-    Incluye 24.367 afiliados pensionados por vejez edad fallecidos
-.  </td>
-</tr>
-<tr  >
-<td  class="NOTAnumero" >
-    &nbsp;
+    Corresponde a declaraciones de invalidez notificadas a las Administradoras 
+    hasta el 31 de mayo de 2008.
   </td>
-<td  class="NOTAceleste" >
-    (2)
-  </td>
-<td  class="NOTAceleste" >
-    Incluye 8.074 afiliados pensionados por vejez anticipada fallecidos
-.  </td>
 </tr>
 </table>
 
