@@ -1,0 +1,392 @@
+<html>
+	<head>
+				
+	</head>
+	<body>
+		<!-- original body --><table  border="1" cellspacing="0" class="tw" >
+<caption  >
+N&Uacute;MERO Y MONTO PROMEDIO, EN U.F., DE PENSIONES ACUMULADAS EN LA MODALIDAD RENTA VITALICIA INMEDIATA CON RETIRO PROGRAMADO, POR A.F.P. Y TIPO DE PENSI&Oacute;N<BR  >(Al 31 de diciembre de 2014)
+</caption>
+<tr  >
+<td  class="NOMBRE" >TIPO<BR  >DE<BR  >PENSI&Oacute;N</td>
+<td  class="TITUuno" >N&Uacute;MERO<BR  >MONTO PROMEDIO</td>
+<td  class="TITUuno" nowrap="" >CAPITAL         </td>
+<td  class="TITUuno" nowrap="" >CUPRUM          </td>
+<td  class="TITUuno" nowrap="" >HABITAT         </td>
+<td  class="TITUuno" nowrap="" >MODELO          </td>
+<td  class="TITUuno" nowrap="" >PLANVITAL       </td>
+<td  class="TITUuno" nowrap="" >PROVIDA         </td>
+<td  class="F1RESUL" >TOTAL</td>
+</tr>
+<tr  >
+<td  rowspan="4" class="ITEM" >VEJEZ EDAD</td>
+<td  class="ITEM" nowrap="" >NUMERO</td>
+<td  >        1.005</td>
+<td  >           46</td>
+<td  >            7</td>
+<td  >0</td>
+<td  >            6</td>
+<td  >            6</td>
+<td  class="F1RESUL" >        1.070</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RETIRO PROGRAMADO</td>
+<td  >           22,04</td>
+<td  >           32,00</td>
+<td  >           98,80</td>
+<td  >0</td>
+<td  >           36,49</td>
+<td  >           22,07</td>
+<td  class="F1RESUL" >           23,05</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RENTA VITALICIA INMEDIATA</td>
+<td  >           22,63</td>
+<td  >           21,35</td>
+<td  >          287,91</td>
+<td  >0</td>
+<td  >           27,46</td>
+<td  >           23,59</td>
+<td  class="F1RESUL" >           24,34</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >FINAL</td>
+<td  >           44,67</td>
+<td  >           53,35</td>
+<td  >          386,71</td>
+<td  >0</td>
+<td  >           63,95</td>
+<td  >           45,66</td>
+<td  class="F1RESUL" >           47,39</td>
+</tr>
+<tr  >
+<td  rowspan="4" class="ITEM" >VEJEZ ANTICIPADA</td>
+<td  class="ITEM" nowrap="" >NUMERO</td>
+<td  >          875</td>
+<td  >           53</td>
+<td  >            5</td>
+<td  >0</td>
+<td  >0</td>
+<td  >            6</td>
+<td  class="F1RESUL" >          939</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RETIRO PROGRAMADO</td>
+<td  >           24,24</td>
+<td  >           18,93</td>
+<td  >          283,93</td>
+<td  >0</td>
+<td  >0</td>
+<td  >           24,89</td>
+<td  class="F1RESUL" >           25,33</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RENTA VITALICIA INMEDIATA</td>
+<td  >           32,94</td>
+<td  >           25,94</td>
+<td  >          433,61</td>
+<td  >0</td>
+<td  >0</td>
+<td  >           18,26</td>
+<td  class="F1RESUL" >           34,58</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >FINAL</td>
+<td  >           57,18</td>
+<td  >           44,88</td>
+<td  >          717,54</td>
+<td  >0</td>
+<td  >0</td>
+<td  >           43,16</td>
+<td  class="F1RESUL" >           59,91</td>
+</tr>
+<tr  >
+<td  rowspan="4" class="ITEM" >INVALIDEZ TOTAL</td>
+<td  class="ITEM" nowrap="" >NUMERO</td>
+<td  >          260</td>
+<td  >           20</td>
+<td  >            6</td>
+<td  >0</td>
+<td  >           20</td>
+<td  >0</td>
+<td  class="F1RESUL" >          306</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RETIRO PROGRAMADO</td>
+<td  >           27,67</td>
+<td  >           14,50</td>
+<td  >           28,81</td>
+<td  >0</td>
+<td  >            7,70</td>
+<td  >0</td>
+<td  class="F1RESUL" >           25,52</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RENTA VITALICIA INMEDIATA</td>
+<td  >           15,91</td>
+<td  >           16,49</td>
+<td  >          120,23</td>
+<td  >0</td>
+<td  >            7,54</td>
+<td  >0</td>
+<td  class="F1RESUL" >           17,45</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >FINAL</td>
+<td  >           43,58</td>
+<td  >           30,99</td>
+<td  >          149,04</td>
+<td  >0</td>
+<td  >           15,24</td>
+<td  >0</td>
+<td  class="F1RESUL" >           42,97</td>
+</tr>
+<tr  >
+<td  rowspan="4" class="ITEM" >INVALIDEZ PARCIAL</td>
+<td  class="ITEM" nowrap="" >NUMERO</td>
+<td  >          301</td>
+<td  >           10</td>
+<td  >            1</td>
+<td  >0</td>
+<td  >           60</td>
+<td  >0</td>
+<td  class="F1RESUL" >          372</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RETIRO PROGRAMADO</td>
+<td  >           77,32</td>
+<td  >           19,51</td>
+<td  >0</td>
+<td  >0</td>
+<td  >           32,40</td>
+<td  >0</td>
+<td  class="F1RESUL" >           68,31</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RENTA VITALICIA INMEDIATA</td>
+<td  >           56,18</td>
+<td  >           12,86</td>
+<td  >          321,48</td>
+<td  >0</td>
+<td  >           22,72</td>
+<td  >0</td>
+<td  class="F1RESUL" >           50,33</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >FINAL</td>
+<td  >          133,50</td>
+<td  >           32,37</td>
+<td  >          321,48</td>
+<td  >0</td>
+<td  >           55,12</td>
+<td  >0</td>
+<td  class="F1RESUL" >          118,64</td>
+</tr>
+<tr  >
+<td  rowspan="4" class="ITEM" >VIUDEZ</td>
+<td  class="ITEM" nowrap="" >NUMERO</td>
+<td  >           12</td>
+<td  >            1</td>
+<td  >            1</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >           14</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RETIRO PROGRAMADO</td>
+<td  >           13,17</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >           11,29</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RENTA VITALICIA INMEDIATA</td>
+<td  >           10,68</td>
+<td  >            6,80</td>
+<td  >           76,10</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >           15,08</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >FINAL</td>
+<td  >           23,85</td>
+<td  >            6,80</td>
+<td  >           76,10</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >           26,36</td>
+</tr>
+<tr  >
+<td  rowspan="4" class="ITEM" >ORFANDAD</td>
+<td  class="ITEM" nowrap="" >NUMERO</td>
+<td  >           16</td>
+<td  >            8</td>
+<td  >0</td>
+<td  >            4</td>
+<td  >           17</td>
+<td  >0</td>
+<td  class="F1RESUL" >           45</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RETIRO PROGRAMADO</td>
+<td  >           44,35</td>
+<td  >           18,77</td>
+<td  >0</td>
+<td  >           64,44</td>
+<td  >            4,92</td>
+<td  >0</td>
+<td  class="F1RESUL" >           26,69</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RENTA VITALICIA INMEDIATA</td>
+<td  >           22,22</td>
+<td  >           13,38</td>
+<td  >0</td>
+<td  >            9,04</td>
+<td  >            7,54</td>
+<td  >0</td>
+<td  class="F1RESUL" >           13,93</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >FINAL</td>
+<td  >           66,58</td>
+<td  >           32,15</td>
+<td  >0</td>
+<td  >           73,48</td>
+<td  >           12,46</td>
+<td  >0</td>
+<td  class="F1RESUL" >           40,63</td>
+</tr>
+<tr  >
+<td  rowspan="4" class="ITEM" >OTRAS(1)</td>
+<td  class="ITEM" nowrap="" >NUMERO</td>
+<td  >          120</td>
+<td  >           23</td>
+<td  >            6</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >          149</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RETIRO PROGRAMADO</td>
+<td  >           11,47</td>
+<td  >           12,51</td>
+<td  >           62,42</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >           13,68</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RENTA VITALICIA INMEDIATA</td>
+<td  >           12,63</td>
+<td  >            7,35</td>
+<td  >           81,34</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >           14,58</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >FINAL</td>
+<td  >           24,10</td>
+<td  >           19,86</td>
+<td  >          143,76</td>
+<td  >0</td>
+<td  >0</td>
+<td  >0</td>
+<td  class="F1RESUL" >           28,26</td>
+</tr>
+<tr  >
+<td  rowspan="4" class="ITEM" >TOTAL</td>
+<td  class="ITEM" nowrap="" >NUMERO</td>
+<td  >        2.589</td>
+<td  >          161</td>
+<td  >           26</td>
+<td  >            4</td>
+<td  >          103</td>
+<td  >           12</td>
+<td  class="F1RESUL" >        2.895</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RETIRO PROGRAMADO</td>
+<td  >           29,38</td>
+<td  >           21,11</td>
+<td  >          102,25</td>
+<td  >           64,44</td>
+<td  >           23,31</td>
+<td  >           23,48</td>
+<td  class="F1RESUL" >           29,38</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >RENTA VITALICIA INMEDIATA</td>
+<td  >           28,82</td>
+<td  >           19,24</td>
+<td  >          222,71</td>
+<td  >            9,04</td>
+<td  >           17,54</td>
+<td  >           20,93</td>
+<td  class="F1RESUL" >           29,57</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >FINAL</td>
+<td  >           58,20</td>
+<td  >           40,35</td>
+<td  >          324,96</td>
+<td  >           73,48</td>
+<td  >           40,85</td>
+<td  >           44,41</td>
+<td  class="F1RESUL" >           58,95</td>
+</tr>
+</table>
+
+<BR  >
+<table  border="1" cellspacing="0" class="come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >
+    NOTAS:
+  </td>
+<td  class="NOTAceleste" >
+    (1)
+  </td>
+<td  class="NOTAceleste" >
+    Incluye a Padres de hijo de filiaci&oacute;n no matrimonial, 
+    Madres de hijo de filiaci&oacute;n no matrimonial y Padres 
+    del causante.
+  </td>
+</tr>
+</table>
+<!--/contenido--></td>
+  </tr>
+  <tr  align="left" valign="top" >
+    <td  width="12" >&nbsp;</td>
+    <td  align="center" >
+      <table  width="480" border="0" cellspacing="2" cellpadding="2" align="center" >
+        <tr  align="center" valign="top" > 
+          <td  ><a  href="javascript:history.back();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('volver','','/imag/auxi/vol_on.gif',1)" ><img  name="volver" border="0" src="/imag/auxi/vol_of.gif" width="56" height="15" ></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr  align="left" valign="top" > 
+    <td  width="12" >&nbsp;</td>
+    <td  >&nbsp;</td>
+  </tr>
+</table>
+<br  >
+<ILAYER  id="footer" src="/footer/foot.html" left="0" width="591" height="63" visibility="visibility" ></ILAYER>
+<NOLAYER  > <IFRAME  name="footer" src="/footer/foot.html" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" align="left" height="63" width="591" ></IFRAME>
+</NOLAYER>
+</body>
+</html>
+<!-- original body -->	</body>
+</html>
